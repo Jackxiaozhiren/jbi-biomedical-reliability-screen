@@ -1,0 +1,10 @@
+{
+ "n_diseases_queried": 137,
+ "n_studies_seen": 186670,
+ "n_studies_with_start_date": 186670,
+ "n_conditions_total": 567325,
+ "n_conditions_aligned": 83494,
+ "n_interventions_total": 339381,
+ "n_interventions_aligned": 29356,
+ "n_pairs_emitted": 8758
+}

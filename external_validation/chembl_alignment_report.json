@@ -1,0 +1,10 @@
+{
+ "n_hetionet_compounds_with_inchikey": 1552,
+ "n_compounds_mapped_to_chembl": 1353,
+ "n_single_protein_targets": 11055,
+ "n_hetionet_genes": 20943,
+ "n_targets_mapped_to_hetionet_genes": 6265,
+ "n_activity_rows_fetched": 45763,
+ "n_post2017_potent_activity_rows": 5531,
+ "n_cbgene_evidence_pairs": 1357
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "B": 20000,
+    "seed": 42,
+    "method": "binomial bootstrap on kept-set FP counts",
+    "note": "lightweight stand-in; per-item bootstrap would require cached records"
+  },
+  "cal_0.10_vs_topk_5%": {
+    "topk_coverage": 0.05,
+    "topk_n": 2629,
+    "topk_fdr": 0.12095853936858121,
+    "cal_coverage": 0.04473183720045645,
+    "cal_fdr": 0.0858843537414966,
+    "obs_diff_topk_minus_cal": 0.035074185627084614,
+    "ci_95": [
+      0.01842656994330634,
+      0.05194631746764887
+    ],
+    "p_bootstrap": 0.0
+  },
+  "cal_0.10_vs_topk_10%": {
+    "topk_coverage": 0.1,
+    "topk_n": 5258,
+    "topk_fdr": 0.3119056675542031,
+    "cal_coverage": 0.04473183720045645,
+    "cal_fdr": 0.0858843537414966,
+    "obs_diff_topk_minus_cal": 0.22602131381270651,
+    "ci_95": [
+      0.2092503033925628,
+      0.24291493056903246
+    ],
+    "p_bootstrap": 0.0
+  },
+  "cal_0.10_vs_topk_20%": {
+    "topk_coverage": 0.2,
+    "topk_n": 10516,
+    "topk_fdr": 0.5794503613541271,
+    "cal_coverage": 0.04473183720045645,
+    "cal_fdr": 0.0858843537414966,
+    "obs_diff_topk_minus_cal": 0.4935184610169667,
+    "ci_95": [
+      0.47850940371393896,
+      0.5081253857096281
+    ],
+    "p_bootstrap": 0.0
+  }
+}

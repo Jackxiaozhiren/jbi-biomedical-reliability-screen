@@ -1,0 +1,63 @@
+{
+  "dataset": "WN18RR",
+  "j": 9,
+  "k": 500,
+  "pool_size": 29240,
+  "base_rate": 0.1,
+  "pi0": 0.930437756497948,
+  "nominal_bh_0.05": {
+    "claimed_fdr": 0.05,
+    "n_screened": 1486,
+    "coverage": 0.050820793433652534,
+    "realized_fdr": 0.03835800807537012,
+    "precision": 0.9616419919246298,
+    "recall": 0.4887140902872777,
+    "cutoff": 0.001996007984031936
+  },
+  "calibrated": [
+    {
+      "claimed_fdr": 0.01,
+      "coverage": 0.0,
+      "realized_fdr": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "cutoff": 0.0
+    },
+    {
+      "claimed_fdr": 0.05,
+      "coverage": 0.04965800273597811,
+      "realized_fdr": 0.03168044077134986,
+      "precision": 0.9683195592286501,
+      "recall": 0.48516218081435475,
+      "cutoff": 0.001996007984031936
+    },
+    {
+      "claimed_fdr": 0.1,
+      "coverage": 0.060191518467852256,
+      "realized_fdr": 0.08636363636363636,
+      "precision": 0.9136363636363637,
+      "recall": 0.5548654244306418,
+      "cutoff": 0.005988023952095809
+    }
+  ],
+  "topk": [
+    {
+      "coverage": 0.05,
+      "realized_fdr": 0.04377564979480164,
+      "precision": 0.9562243502051984,
+      "recall": 0.4781121751025992
+    },
+    {
+      "coverage": 0.1,
+      "realized_fdr": 0.35499316005471954,
+      "precision": 0.6450068399452804,
+      "recall": 0.6450068399452804
+    },
+    {
+      "coverage": 0.2,
+      "realized_fdr": 0.6273939808481532,
+      "precision": 0.37260601915184677,
+      "recall": 0.7452120383036935
+    }
+  ]
+}

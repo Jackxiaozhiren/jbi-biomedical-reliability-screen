@@ -1,0 +1,172 @@
+{
+  "variant": "P1-3_JK_grid",
+  "note": "each cell is a full audit with its own pool; model and split seed fixed (42)",
+  "J4_K100": {
+    "pool_size": 52580,
+    "base_rate": 0.2,
+    "pi0": 0.8250285279573982,
+    "floor_fraction": 0.10627615062761506,
+    "BH_0.05": {
+      "n_rejected": 0,
+      "cutoff": 0.0
+    },
+    "cal_0.05": {
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n": 0
+    },
+    "cal_0.10": {
+      "cutoff": 0.009900990099009901,
+      "realized_fdr": 0.07297970808116767,
+      "coverage": 0.10684670977558007,
+      "n": 2809
+    },
+    "cal_0.20": {
+      "cutoff": 0.039603960396039604,
+      "realized_fdr": 0.18037768612980248,
+      "coverage": 0.17523773297831874,
+      "n": 4607
+    }
+  },
+  "J4_K500": {
+    "pool_size": 52580,
+    "base_rate": 0.2,
+    "pi0": 0.8173449980981362,
+    "floor_fraction": 0.06200076074553062,
+    "BH_0.05": {
+      "n_rejected": 4410,
+      "cutoff": 0.003992015968063872
+    },
+    "cal_0.05": {
+      "cutoff": 0.005988023952095809,
+      "realized_fdr": 0.04892966360856269,
+      "coverage": 0.099505515405097,
+      "n": 2616
+    },
+    "cal_0.10": {
+      "cutoff": 0.017964071856287425,
+      "realized_fdr": 0.10403225806451613,
+      "coverage": 0.1414986686953214,
+      "n": 3720
+    },
+    "cal_0.20": {
+      "cutoff": 0.04790419161676647,
+      "realized_fdr": 0.2044044044044044,
+      "coverage": 0.1899961962723469,
+      "n": 4995
+    }
+  },
+  "J9_K100": {
+    "pool_size": 105160,
+    "base_rate": 0.1,
+    "pi0": 0.9212057816660327,
+    "floor_fraction": 0.057540890072270826,
+    "BH_0.05": {
+      "n_rejected": 0,
+      "cutoff": 0.0
+    },
+    "cal_0.05": {
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n": 0
+    },
+    "cal_0.10": {
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n": 0
+    },
+    "cal_0.20": {
+      "cutoff": 0.009900990099009901,
+      "realized_fdr": 0.15325797872340424,
+      "coverage": 0.05720806390262457,
+      "n": 3008
+    }
+  },
+  "J9_K500": {
+    "pool_size": 105160,
+    "base_rate": 0.1,
+    "pi0": 0.9085013313046786,
+    "floor_fraction": 0.03206542411563332,
+    "BH_0.05": {
+      "n_rejected": 0,
+      "cutoff": 0.0
+    },
+    "cal_0.05": {
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n": 0
+    },
+    "cal_0.10": {
+      "cutoff": 0.003992015968063872,
+      "realized_fdr": 0.08286818376985831,
+      "coverage": 0.044294408520349944,
+      "n": 2329
+    },
+    "cal_0.20": {
+      "cutoff": 0.015968063872255488,
+      "realized_fdr": 0.19416749750747755,
+      "coverage": 0.07630277672118677,
+      "n": 4012
+    }
+  },
+  "J19_K100": {
+    "pool_size": 210320,
+    "base_rate": 0.05,
+    "pi0": 0.9641498668695322,
+    "floor_fraction": 0.03352034994294408,
+    "BH_0.05": {
+      "n_rejected": 0,
+      "cutoff": 0.0
+    },
+    "cal_0.05": {
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n": 0
+    },
+    "cal_0.10": {
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n": 0
+    },
+    "cal_0.20": {
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n": 0
+    }
+  },
+  "J19_K500": {
+    "pool_size": 210320,
+    "base_rate": 0.05,
+    "pi0": 0.9572270825408901,
+    "floor_fraction": 0.017169075694180295,
+    "BH_0.05": {
+      "n_rejected": 0,
+      "cutoff": 0.0
+    },
+    "cal_0.05": {
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n": 0
+    },
+    "cal_0.10": {
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n": 0
+    },
+    "cal_0.20": {
+      "cutoff": 0.005988023952095809,
+      "realized_fdr": 0.19240752757949384,
+      "coverage": 0.02930772156713579,
+      "n": 3082
+    }
+  }
+}

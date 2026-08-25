@@ -1,0 +1,1522 @@
+compound_id	compound_name	disease_id	disease_name	n_trials	start_years	earliest_start	latest_start
+Compound::DB00014	Goserelin	Disease::DOID:10283	prostate cancer	2	2019,2021	2019-01-24	2021-05
+Compound::DB00014	Goserelin	Disease::DOID:1612	breast cancer	11	2017,2018,2019,2020,2022,2023,2025	2017-01-17	2025-03-18
+Compound::DB00014	Goserelin	Disease::DOID:8850	salivary gland cancer	1	2020	2020-04-17	2020-04-17
+Compound::DB00050	Cetrorelix	Disease::DOID:11612	polycystic ovary syndrome	3	2019,2020	2019-12-07	2020-08-22
+Compound::DB00091	Cyclosporine	Disease::DOID:3310	atopic dermatitis	2	2023,2026	2023-02-10	2026-08-01
+Compound::DB00091	Cyclosporine	Disease::DOID:8577	ulcerative colitis	1	2023	2023-07-01	2023-07-01
+Compound::DB00091	Cyclosporine	Disease::DOID:8893	psoriasis	2	2018,2026	2018-03-05	2026-08-01
+Compound::DB00117	L-Histidine	Disease::DOID:2377	multiple sclerosis	2	2018,2022	2018-03-23	2022-01-01
+Compound::DB00121	Biotin	Disease::DOID:332	amyotrophic lateral sclerosis	1	2018	2018-01-29	2018-01-29
+Compound::DB00125	L-Arginine	Disease::DOID:10763	hypertension	1	2018	2018-01-02	2018-01-02
+Compound::DB00125	L-Arginine	Disease::DOID:11612	polycystic ovary syndrome	1	2024	2024-06-30	2024-06-30
+Compound::DB00125	L-Arginine	Disease::DOID:5419	schizophrenia	1	2019	2019-09-11	2019-09-11
+Compound::DB00125	L-Arginine	Disease::DOID:7148	rheumatoid arthritis	1	2021	2021-01-01	2021-01-01
+Compound::DB00126	Vitamin C	Disease::DOID:10283	prostate cancer	1	2023	2023-06-30	2023-06-30
+Compound::DB00126	Vitamin C	Disease::DOID:13189	gout	1	2021	2021-03-28	2021-03-28
+Compound::DB00126	Vitamin C	Disease::DOID:1324	lung cancer	1	2017	2017-03-29	2017-03-29
+Compound::DB00126	Vitamin C	Disease::DOID:1459	hypothyroidism	1	2023	2023-11-01	2023-11-01
+Compound::DB00126	Vitamin C	Disease::DOID:1793	pancreatic cancer	3	2017,2020,2021	2017-03-29	2021-01-13
+Compound::DB00126	Vitamin C	Disease::DOID:3393	coronary artery disease	1	2017	2017-02-01	2017-02-01
+Compound::DB00126	Vitamin C	Disease::DOID:9352	type 2 diabetes mellitus	1	2018	2018-02-24	2018-02-24
+Compound::DB00130	L-Glutamine	Disease::DOID:1793	pancreatic cancer	1	2021	2021-05-13	2021-05-13
+Compound::DB00145	Glycine	Disease::DOID:1936	atherosclerosis	2	2017,2019	2017-07-01	2019-03
+Compound::DB00145	Glycine	Disease::DOID:9970	obesity	1	2019	2019-03	2019-03
+Compound::DB00148	Creatine	Disease::DOID:1612	breast cancer	2	2020,2024	2020-09-30	2024-10-29
+Compound::DB00149	L-Leucine	Disease::DOID:11476	osteoporosis	1	2017	2017-09-01	2017-09-01
+Compound::DB00150	L-Tryptophan	Disease::DOID:10608	celiac disease	1	2022	2022-12-01	2022-12-01
+Compound::DB00152	Thiamine	Disease::DOID:1094	attention deficit hyperactivity disorder	1	2026	2026-03-01	2026-03-01
+Compound::DB00152	Thiamine	Disease::DOID:12236	primary biliary cirrhosis	1	2021	2021-05-12	2021-05-12
+Compound::DB00155	L-Citrulline	Disease::DOID:10763	hypertension	3	2018,2023	2018-01-02	2023-07-20
+Compound::DB00155	L-Citrulline	Disease::DOID:12365	malaria	1	2023	2023-12-29	2023-12-29
+Compound::DB00155	L-Citrulline	Disease::DOID:2841	asthma	2	2017,2023	2017-04-05	2023-03-08
+Compound::DB00155	L-Citrulline	Disease::DOID:9352	type 2 diabetes mellitus	1	2017	2017-01-01	2017-01-01
+Compound::DB00158	Folic Acid	Disease::DOID:10763	hypertension	1	2018	2018-03-20	2018-03-20
+Compound::DB00158	Folic Acid	Disease::DOID:11612	polycystic ovary syndrome	3	2017,2022,2024	2017-09-01	2024-05-15
+Compound::DB00158	Folic Acid	Disease::DOID:11819	ureter cancer	1	2017	2017-01	2017-01
+Compound::DB00158	Folic Acid	Disease::DOID:13189	gout	2	2018,2019	2018-09-26	2019-06-13
+Compound::DB00158	Folic Acid	Disease::DOID:1324	lung cancer	1	2022	2022-03-01	2022-03-01
+Compound::DB00158	Folic Acid	Disease::DOID:2355	anemia	3	2021,2023	2021-01-18	2023-10-01
+Compound::DB00158	Folic Acid	Disease::DOID:7148	rheumatoid arthritis	2	2018	2018-01	2018-08-01
+Compound::DB00162	Vitamin A	Disease::DOID:12365	malaria	1	2017	2017-05-10	2017-05-10
+Compound::DB00162	Vitamin A	Disease::DOID:4159	skin cancer	1	2023	2023-04-01	2023-04-01
+Compound::DB00163	Vitamin E	Disease::DOID:1612	breast cancer	1	2019	2019-07-01	2019-07-01
+Compound::DB00163	Vitamin E	Disease::DOID:1936	atherosclerosis	1	2020	2020-01-01	2020-01-01
+Compound::DB00163	Vitamin E	Disease::DOID:3393	coronary artery disease	1	2018	2018-11-01	2018-11-01
+Compound::DB00163	Vitamin E	Disease::DOID:6364	migraine	1	2019	2019-09-10	2019-09-10
+Compound::DB00165	Pyridoxine	Disease::DOID:5419	schizophrenia	1	2019	2019-09-03	2019-09-03
+Compound::DB00166	Lipoic Acid	Disease::DOID:2377	multiple sclerosis	1	2018	2018-08-17	2018-08-17
+Compound::DB00169	Cholecalciferol	Disease::DOID:10283	prostate cancer	1	2019	2019-06-04	2019-06-04
+Compound::DB00169	Cholecalciferol	Disease::DOID:10763	hypertension	1	2018	2018-03-25	2018-03-25
+Compound::DB00169	Cholecalciferol	Disease::DOID:11476	osteoporosis	1	2017	2017-04-12	2017-04-12
+Compound::DB00169	Cholecalciferol	Disease::DOID:2355	anemia	1	2022	2022-05-15	2022-05-15
+Compound::DB00169	Cholecalciferol	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2019	2019-03-01	2019-03-01
+Compound::DB00169	Cholecalciferol	Disease::DOID:5419	schizophrenia	1	2020	2020-04-15	2020-04-15
+Compound::DB00175	Pravastatin	Disease::DOID:1115	sarcoma	1	2020	2020-09-01	2020-09-01
+Compound::DB00175	Pravastatin	Disease::DOID:1612	breast cancer	1	2020	2020-01-31	2020-01-31
+Compound::DB00175	Pravastatin	Disease::DOID:7148	rheumatoid arthritis	2	2017,2020	2017-05-13	2020-11-04
+Compound::DB00176	Fluvoxamine	Disease::DOID:1595	endogenous depression	1	2019	2019-08-01	2019-08-01
+Compound::DB00177	Valsartan	Disease::DOID:10763	hypertension	4	2017,2018,2020,2023	2017-11	2023-02-06
+Compound::DB00178	Ramipril	Disease::DOID:10763	hypertension	1	2017	2017-09-22	2017-09-22
+Compound::DB00182	Amphetamine	Disease::DOID:1094	attention deficit hyperactivity disorder	1	2018	2018-12-14	2018-12-14
+Compound::DB00184	Nicotine	Disease::DOID:0050742	nicotine dependence	7	2017,2020,2021,2022,2023	2017-05-02	2023-10-25
+Compound::DB00184	Nicotine	Disease::DOID:2841	asthma	1	2022	2022-05-01	2022-05-01
+Compound::DB00186	Lorazepam	Disease::DOID:0050741	alcohol dependence	1	2017	2017-07-11	2017-07-11
+Compound::DB00188	Bortezomib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00188	Bortezomib	Disease::DOID:7148	rheumatoid arthritis	2	2023	2023-03-01	2023-12
+Compound::DB00190	Carbidopa	Disease::DOID:2377	multiple sclerosis	1	2018	2018-03-23	2018-03-23
+Compound::DB00191	Phentermine	Disease::DOID:9970	obesity	3	2017,2023	2017-12-11	2023-08-29
+Compound::DB00193	Tramadol	Disease::DOID:1024	leprosy	1	2017	2017-03-01	2017-03-01
+Compound::DB00193	Tramadol	Disease::DOID:1781	thyroid cancer	1	2018	2018-03-09	2018-03-09
+Compound::DB00193	Tramadol	Disease::DOID:1993	rectum cancer	1	2017	2017-01	2017-01
+Compound::DB00193	Tramadol	Disease::DOID:219	colon cancer	1	2017	2017-01	2017-01
+Compound::DB00193	Tramadol	Disease::DOID:4989	pancreatitis	1	2023	2023-02-22	2023-02-22
+Compound::DB00196	Fluconazole	Disease::DOID:585	nephrolithiasis	1	2021	2021-01-13	2021-01-13
+Compound::DB00196	Fluconazole	Disease::DOID:8778	Crohn's disease	1	2024	2024-10-04	2024-10-04
+Compound::DB00199	Erythromycin	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2024	2024-03-28	2024-03-28
+Compound::DB00200	Hydroxocobalamin	Disease::DOID:3393	coronary artery disease	1	2019	2019-11	2019-11
+Compound::DB00201	Caffeine	Disease::DOID:1094	attention deficit hyperactivity disorder	1	2018	2018-05-14	2018-05-14
+Compound::DB00201	Caffeine	Disease::DOID:14330	Parkinson's disease	1	2019	2019-05-22	2019-05-22
+Compound::DB00201	Caffeine	Disease::DOID:3310	atopic dermatitis	2	2018,2023	2018-08-13	2023-06-03
+Compound::DB00201	Caffeine	Disease::DOID:594	panic disorder	2	2022,2024	2022-03-16	2024-10-29
+Compound::DB00201	Caffeine	Disease::DOID:6364	migraine	1	2017	2017-02-28	2017-02-28
+Compound::DB00201	Caffeine	Disease::DOID:7148	rheumatoid arthritis	2	2017,2021	2017-05-13	2021-11-16
+Compound::DB00203	Sildenafil	Disease::DOID:1936	atherosclerosis	1	2017	2017-04-01	2017-04-01
+Compound::DB00205	Pyrimethamine	Disease::DOID:11934	head and neck cancer	1	2023	2023-08-03	2023-08-03
+Compound::DB00205	Pyrimethamine	Disease::DOID:12365	malaria	2	2017,2019	2017-06-05	2019-05-23
+Compound::DB00207	Azithromycin	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2023	2023-06-01	2023-06-01
+Compound::DB00207	Azithromycin	Disease::DOID:12365	malaria	1	2020	2020-08-21	2020-08-21
+Compound::DB00207	Azithromycin	Disease::DOID:2841	asthma	5	2019,2020,2021,2023,2025	2019-02-01	2025-08-01
+Compound::DB00207	Azithromycin	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2021	2021-11-16	2021-11-16
+Compound::DB00207	Azithromycin	Disease::DOID:3310	atopic dermatitis	1	2026	2026-08-01	2026-08-01
+Compound::DB00207	Azithromycin	Disease::DOID:9970	obesity	1	2018	2018-12-12	2018-12-12
+Compound::DB00213	Pantoprazole	Disease::DOID:1793	pancreatic cancer	1	2022	2022-04-21	2022-04-21
+Compound::DB00213	Pantoprazole	Disease::DOID:4989	pancreatitis	1	2022	2022-04-21	2022-04-21
+Compound::DB00213	Pantoprazole	Disease::DOID:5419	schizophrenia	1	2017	2017-07-20	2017-07-20
+Compound::DB00214	Torasemide	Disease::DOID:10763	hypertension	1	2021	2021-02-15	2021-02-15
+Compound::DB00218	Moxifloxacin	Disease::DOID:14330	Parkinson's disease	2	2017,2020	2017-08-03	2020-03-31
+Compound::DB00218	Moxifloxacin	Disease::DOID:3393	coronary artery disease	1	2018	2018-05-17	2018-05-17
+Compound::DB00218	Moxifloxacin	Disease::DOID:5419	schizophrenia	1	2023	2023-06-26	2023-06-26
+Compound::DB00218	Moxifloxacin	Disease::DOID:9074	systemic lupus erythematosus	1	2018	2018-05-30	2018-05-30
+Compound::DB00218	Moxifloxacin	Disease::DOID:9970	obesity	2	2023,2025	2023-04-12	2025-10-22
+Compound::DB00220	Nelfinavir	Disease::DOID:2394	ovarian cancer	1	2025	2025-12-18	2025-12-18
+Compound::DB00222	Glimepiride	Disease::DOID:9352	type 2 diabetes mellitus	2	2017	2017-04-25	2017-12-01
+Compound::DB00227	Lovastatin	Disease::DOID:1612	breast cancer	1	2026	2026-08-31	2026-08-31
+Compound::DB00230	Pregabalin	Disease::DOID:8398	osteoarthritis	1	2024	2024-04-01	2024-04-01
+Compound::DB00242	Cladribine	Disease::DOID:2377	multiple sclerosis	7	2019,2020,2025	2019-05-21	2025-06
+Compound::DB00243	Ranolazine	Disease::DOID:332	amyotrophic lateral sclerosis	1	2025	2025-04-29	2025-04-29
+Compound::DB00243	Ranolazine	Disease::DOID:8778	Crohn's disease	1	2022	2022-10-18	2022-10-18
+Compound::DB00244	Mesalazine	Disease::DOID:8577	ulcerative colitis	3	2019,2022,2026	2019-11-28	2026-02-01
+Compound::DB00246	Ziprasidone	Disease::DOID:3312	bipolar disorder	1	2018	2018-12-21	2018-12-21
+Compound::DB00246	Ziprasidone	Disease::DOID:5419	schizophrenia	3	2017,2018,2021	2017-11-20	2021-05
+Compound::DB00250	Dapsone	Disease::DOID:1024	leprosy	1	2024	2024-12-20	2024-12-20
+Compound::DB00264	Metoprolol	Disease::DOID:10763	hypertension	1	2022	2022-01-15	2022-01-15
+Compound::DB00264	Metoprolol	Disease::DOID:1612	breast cancer	1	2018	2018-03-21	2018-03-21
+Compound::DB00264	Metoprolol	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2018	2018-06-12	2018-06-12
+Compound::DB00264	Metoprolol	Disease::DOID:3310	atopic dermatitis	2	2018,2023	2018-08-13	2023-06-03
+Compound::DB00268	Ropinirole	Disease::DOID:0050425	restless legs syndrome	2	2019	2019-02-19	2019-05-01
+Compound::DB00270	Isradipine	Disease::DOID:0050742	nicotine dependence	1	2020	2020-01-22	2020-01-22
+Compound::DB00273	Topiramate	Disease::DOID:0050741	alcohol dependence	1	2017	2017-06-20	2017-06-20
+Compound::DB00273	Topiramate	Disease::DOID:5419	schizophrenia	1	2022	2022-09-20	2022-09-20
+Compound::DB00273	Topiramate	Disease::DOID:6364	migraine	8	2018,2019,2020,2023,2024,2026	2018-03-15	2026-07
+Compound::DB00273	Topiramate	Disease::DOID:9970	obesity	2	2023	2023-06-01	2023-08-29
+Compound::DB00275	Olmesartan	Disease::DOID:10763	hypertension	2	2021	2021-01-01	2021-11-05
+Compound::DB00277	Theophylline	Disease::DOID:13189	gout	1	2023	2023-10-31	2023-10-31
+Compound::DB00277	Theophylline	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2017	2017-01-01	2017-01-01
+Compound::DB00279	Liothyronine	Disease::DOID:1459	hypothyroidism	3	2017,2018,2020	2017-03-14	2020-10-28
+Compound::DB00279	Liothyronine	Disease::DOID:1781	thyroid cancer	1	2020	2020-10-28	2020-10-28
+Compound::DB00281	Lidocaine	Disease::DOID:10283	prostate cancer	1	2025	2025-01-09	2025-01-09
+Compound::DB00281	Lidocaine	Disease::DOID:1612	breast cancer	1	2018	2018-12	2018-12
+Compound::DB00281	Lidocaine	Disease::DOID:1781	thyroid cancer	1	2018	2018-05-01	2018-05-01
+Compound::DB00281	Lidocaine	Disease::DOID:1993	rectum cancer	1	2017	2017-01	2017-01
+Compound::DB00281	Lidocaine	Disease::DOID:219	colon cancer	3	2017,2025,2026	2017-01	2026-02-03
+Compound::DB00281	Lidocaine	Disease::DOID:3571	liver cancer	1	2021	2021-11-15	2021-11-15
+Compound::DB00281	Lidocaine	Disease::DOID:4362	cervical cancer	1	2022	2022-12-01	2022-12-01
+Compound::DB00281	Lidocaine	Disease::DOID:6364	migraine	2	2018,2019	2018-10-15	2019-02-01
+Compound::DB00281	Lidocaine	Disease::DOID:9970	obesity	1	2019	2019-05-01	2019-05-01
+Compound::DB00284	Acarbose	Disease::DOID:9352	type 2 diabetes mellitus	5	2017,2018,2019,2024	2017-12-15	2024-08-19
+Compound::DB00284	Acarbose	Disease::DOID:9970	obesity	1	2019	2019-05	2019-05
+Compound::DB00285	Venlafaxine	Disease::DOID:11934	head and neck cancer	2	2023,2024	2023-08-01	2024-01-05
+Compound::DB00285	Venlafaxine	Disease::DOID:1612	breast cancer	1	2024	2024-10-03	2024-10-03
+Compound::DB00289	Atomoxetine	Disease::DOID:10763	hypertension	1	2021	2021-07-31	2021-07-31
+Compound::DB00289	Atomoxetine	Disease::DOID:1094	attention deficit hyperactivity disorder	2	2019	2019-06-04	2019-08-01
+Compound::DB00289	Atomoxetine	Disease::DOID:2377	multiple sclerosis	1	2017	2017-03-16	2017-03-16
+Compound::DB00292	Etomidate	Disease::DOID:2355	anemia	1	2020	2020-11-20	2020-11-20
+Compound::DB00292	Etomidate	Disease::DOID:3393	coronary artery disease	1	2023	2023-12-05	2023-12-05
+Compound::DB00293	Raltitrexed	Disease::DOID:219	colon cancer	1	2024	2024-11	2024-11
+Compound::DB00294	Etonogestrel	Disease::DOID:9074	systemic lupus erythematosus	1	2023	2023-04-01	2023-04-01
+Compound::DB00295	Morphine	Disease::DOID:11934	head and neck cancer	2	2019,2020	2019-11-01	2020-12
+Compound::DB00295	Morphine	Disease::DOID:1612	breast cancer	1	2021	2021-02-01	2021-02-01
+Compound::DB00295	Morphine	Disease::DOID:90	degenerative disc disease	1	2018	2018-06-01	2018-06-01
+Compound::DB00296	Ropivacaine	Disease::DOID:10941	intracranial aneurysm	1	2023	2023-06-01	2023-06-01
+Compound::DB00296	Ropivacaine	Disease::DOID:3393	coronary artery disease	3	2019,2021,2025	2019-08-20	2025-10-22
+Compound::DB00296	Ropivacaine	Disease::DOID:3565	meningioma	1	2018	2018-09-18	2018-09-18
+Compound::DB00296	Ropivacaine	Disease::DOID:6364	migraine	1	2019	2019-02-01	2019-02-01
+Compound::DB00296	Ropivacaine	Disease::DOID:7693	abdominal aortic aneurysm	1	2023	2023-06-01	2023-06-01
+Compound::DB00297	Bupivacaine	Disease::DOID:11934	head and neck cancer	1	2019	2019-11-01	2019-11-01
+Compound::DB00297	Bupivacaine	Disease::DOID:1324	lung cancer	1	2021	2021-06-01	2021-06-01
+Compound::DB00297	Bupivacaine	Disease::DOID:1612	breast cancer	3	2017,2018	2017-06-07	2018-12
+Compound::DB00297	Bupivacaine	Disease::DOID:2394	ovarian cancer	1	2019	2019-05-20	2019-05-20
+Compound::DB00297	Bupivacaine	Disease::DOID:363	uterine cancer	1	2019	2019-05-20	2019-05-20
+Compound::DB00297	Bupivacaine	Disease::DOID:585	nephrolithiasis	1	2025	2025-03-26	2025-03-26
+Compound::DB00297	Bupivacaine	Disease::DOID:6364	migraine	1	2019	2019-02-01	2019-02-01
+Compound::DB00300	Tenofovir	Disease::DOID:2043	hepatitis B	3	2019,2020,2022	2019-01-10	2022-04-13
+Compound::DB00302	Tranexamic Acid	Disease::DOID:10283	prostate cancer	2	2021,2023	2021-03-01	2023-04
+Compound::DB00302	Tranexamic Acid	Disease::DOID:1612	breast cancer	1	2022	2022-07-12	2022-07-12
+Compound::DB00302	Tranexamic Acid	Disease::DOID:1909	melanoma	1	2023	2023-08-25	2023-08-25
+Compound::DB00302	Tranexamic Acid	Disease::DOID:2355	anemia	3	2017,2018,2022	2017-03-31	2022-07-25
+Compound::DB00302	Tranexamic Acid	Disease::DOID:3565	meningioma	2	2020,2021	2020-10-30	2021-09-01
+Compound::DB00302	Tranexamic Acid	Disease::DOID:8398	osteoarthritis	1	2026	2026-05-27	2026-05-27
+Compound::DB00302	Tranexamic Acid	Disease::DOID:90	degenerative disc disease	1	2020	2020-08-01	2020-08-01
+Compound::DB00305	Mitomycin	Disease::DOID:1115	sarcoma	1	2023	2023-05-12	2023-05-12
+Compound::DB00305	Mitomycin	Disease::DOID:219	colon cancer	1	2023	2023-05-12	2023-05-12
+Compound::DB00310	Chlorthalidone	Disease::DOID:10763	hypertension	2	2022,2023	2022-02-01	2023-08-25
+Compound::DB00310	Chlorthalidone	Disease::DOID:9744	type 1 diabetes mellitus	1	2019	2019-06-28	2019-06-28
+Compound::DB00316	Acetaminophen	Disease::DOID:10283	prostate cancer	2	2018,2023	2018-05-01	2023-04-18
+Compound::DB00316	Acetaminophen	Disease::DOID:10763	hypertension	1	2017	2017-03-15	2017-03-15
+Compound::DB00316	Acetaminophen	Disease::DOID:12365	malaria	1	2019	2019-01-07	2019-01-07
+Compound::DB00316	Acetaminophen	Disease::DOID:13189	gout	1	2019	2019-06-13	2019-06-13
+Compound::DB00316	Acetaminophen	Disease::DOID:1324	lung cancer	1	2018	2018-09-11	2018-09-11
+Compound::DB00316	Acetaminophen	Disease::DOID:1612	breast cancer	1	2017	2017-06-07	2017-06-07
+Compound::DB00316	Acetaminophen	Disease::DOID:1993	rectum cancer	1	2017	2017-01	2017-01
+Compound::DB00316	Acetaminophen	Disease::DOID:219	colon cancer	1	2017	2017-01	2017-01
+Compound::DB00316	Acetaminophen	Disease::DOID:263	kidney cancer	1	2023	2023-09-15	2023-09-15
+Compound::DB00316	Acetaminophen	Disease::DOID:585	nephrolithiasis	1	2018	2018-07-27	2018-07-27
+Compound::DB00316	Acetaminophen	Disease::DOID:6364	migraine	1	2020	2020-04	2020-04
+Compound::DB00316	Acetaminophen	Disease::DOID:9970	obesity	7	2019,2020,2026	2019-09-12	2026-07-31
+Compound::DB00317	Gefitinib	Disease::DOID:1324	lung cancer	1	2017	2017-10-31	2017-10-31
+Compound::DB00320	Dihydroergotamine	Disease::DOID:6364	migraine	5	2018,2019,2020,2021	2018-09-11	2021-06-30
+Compound::DB00321	Amitriptyline	Disease::DOID:1024	leprosy	1	2017	2017-03-01	2017-03-01
+Compound::DB00321	Amitriptyline	Disease::DOID:6364	migraine	6	2018,2021,2023,2024,2026	2018-10-02	2026-07
+Compound::DB00322	Floxuridine	Disease::DOID:3953	adrenal gland cancer	1	2022	2022-10-24	2022-10-24
+Compound::DB00322	Floxuridine	Disease::DOID:4606	bile duct cancer	1	2022	2022-10-24	2022-10-24
+Compound::DB00323	Tolcapone	Disease::DOID:1094	attention deficit hyperactivity disorder	1	2021	2021-08-16	2021-08-16
+Compound::DB00327	Hydromorphone	Disease::DOID:263	kidney cancer	1	2023	2023-09-15	2023-09-15
+Compound::DB00328	Indomethacin	Disease::DOID:4989	pancreatitis	3	2017,2020,2026	2017-02-01	2026-07
+Compound::DB00328	Indomethacin	Disease::DOID:7147	ankylosing spondylitis	1	2018	2018-03-01	2018-03-01
+Compound::DB00331	Metformin	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2026	2026-08-01	2026-08-01
+Compound::DB00331	Metformin	Disease::DOID:1024	leprosy	1	2022	2022-10-01	2022-10-01
+Compound::DB00331	Metformin	Disease::DOID:10283	prostate cancer	7	2017,2018,2020,2021,2022	2017-01	2022-10-10
+Compound::DB00331	Metformin	Disease::DOID:10763	hypertension	2	2020,2025	2020-10-28	2025-06-09
+Compound::DB00331	Metformin	Disease::DOID:11476	osteoporosis	1	2024	2024-08-01	2024-08-01
+Compound::DB00331	Metformin	Disease::DOID:11612	polycystic ovary syndrome	30	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-03-20	2026-03-30
+Compound::DB00331	Metformin	Disease::DOID:11714	gestational diabetes	6	2018,2020,2021,2023	2018-01-03	2023-06-19
+Compound::DB00331	Metformin	Disease::DOID:11934	head and neck cancer	1	2018	2018-06-13	2018-06-13
+Compound::DB00331	Metformin	Disease::DOID:12365	malaria	1	2022	2022-03-09	2022-03-09
+Compound::DB00331	Metformin	Disease::DOID:12849	autistic disorder	1	2021	2021-06	2021-06
+Compound::DB00331	Metformin	Disease::DOID:13189	gout	2	2025	2025-04-20	2025-05-30
+Compound::DB00331	Metformin	Disease::DOID:1324	lung cancer	1	2019	2019-10-15	2019-10-15
+Compound::DB00331	Metformin	Disease::DOID:1459	hypothyroidism	1	2023	2023-11-20	2023-11-20
+Compound::DB00331	Metformin	Disease::DOID:1612	breast cancer	6	2019,2020,2022,2023	2019-06-01	2023-04-17
+Compound::DB00331	Metformin	Disease::DOID:1686	glaucoma	1	2025	2025-06-01	2025-06-01
+Compound::DB00331	Metformin	Disease::DOID:1781	thyroid cancer	1	2022	2022-11-01	2022-11-01
+Compound::DB00331	Metformin	Disease::DOID:1793	pancreatic cancer	1	2020	2020-07-01	2020-07-01
+Compound::DB00331	Metformin	Disease::DOID:1909	melanoma	2	2019,2020	2019-10-15	2020-09-14
+Compound::DB00331	Metformin	Disease::DOID:2377	multiple sclerosis	1	2025	2025-09-24	2025-09-24
+Compound::DB00331	Metformin	Disease::DOID:2394	ovarian cancer	1	2018	2018-05-04	2018-05-04
+Compound::DB00331	Metformin	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2022	2022-05-17	2022-05-17
+Compound::DB00331	Metformin	Disease::DOID:3393	coronary artery disease	2	2020,2025	2020-01-15	2025-07-10
+Compound::DB00331	Metformin	Disease::DOID:3571	liver cancer	1	2017	2017-06-02	2017-06-02
+Compound::DB00331	Metformin	Disease::DOID:4362	cervical cancer	2	2020,2024	2020-05-22	2024-04-15
+Compound::DB00331	Metformin	Disease::DOID:4989	pancreatitis	1	2025	2025-04-28	2025-04-28
+Compound::DB00331	Metformin	Disease::DOID:5419	schizophrenia	5	2017,2021,2022,2025	2017-08-28	2025-07-01
+Compound::DB00331	Metformin	Disease::DOID:7148	rheumatoid arthritis	2	2019	2019-01-09	2019-08-01
+Compound::DB00331	Metformin	Disease::DOID:7693	abdominal aortic aneurysm	2	2020,2022	2020-02-12	2022-02-28
+Compound::DB00331	Metformin	Disease::DOID:824	periodontitis	1	2019	2019-02-01	2019-02-01
+Compound::DB00331	Metformin	Disease::DOID:8398	osteoarthritis	1	2024	2024-08	2024-08
+Compound::DB00331	Metformin	Disease::DOID:8893	psoriasis	1	2026	2026-06	2026-06
+Compound::DB00331	Metformin	Disease::DOID:9352	type 2 diabetes mellitus	30	2017,2018,2019,2021,2022,2023,2024,2025,2026	2017-02-24	2026-09
+Compound::DB00331	Metformin	Disease::DOID:9744	type 1 diabetes mellitus	3	2017,2018,2019	2017-08-01	2019-11-29
+Compound::DB00331	Metformin	Disease::DOID:986	alopecia areata	1	2023	2023-10	2023-10
+Compound::DB00331	Metformin	Disease::DOID:9970	obesity	12	2017,2022,2023,2025,2026	2017-03-20	2026-12-10
+Compound::DB00332	Ipratropium bromide	Disease::DOID:2841	asthma	1	2024	2024-02-17	2024-02-17
+Compound::DB00333	Methadone	Disease::DOID:1993	rectum cancer	1	2017	2017-01	2017-01
+Compound::DB00333	Methadone	Disease::DOID:219	colon cancer	1	2017	2017-01	2017-01
+Compound::DB00334	Olanzapine	Disease::DOID:1324	lung cancer	2	2019,2026	2019-05-09	2026-04-30
+Compound::DB00334	Olanzapine	Disease::DOID:2994	germ cell cancer	1	2026	2026-08	2026-08
+Compound::DB00334	Olanzapine	Disease::DOID:3312	bipolar disorder	1	2025	2025-10-30	2025-10-30
+Compound::DB00334	Olanzapine	Disease::DOID:5419	schizophrenia	10	2017,2018,2020,2022,2023,2024	2017-06-08	2024-11
+Compound::DB00335	Atenolol	Disease::DOID:10763	hypertension	2	2018,2021	2018-02-01	2021-09-27
+Compound::DB00338	Omeprazole	Disease::DOID:1612	breast cancer	2	2023,2026	2023-06-07	2026-01-13
+Compound::DB00338	Omeprazole	Disease::DOID:3310	atopic dermatitis	2	2018,2023	2018-08-13	2023-06-03
+Compound::DB00338	Omeprazole	Disease::DOID:7148	rheumatoid arthritis	2	2017,2021	2017-05-13	2021-11-16
+Compound::DB00338	Omeprazole	Disease::DOID:9970	obesity	1	2024	2024-02-20	2024-02-20
+Compound::DB00341	Cetirizine	Disease::DOID:1324	lung cancer	1	2020	2020-02-14	2020-02-14
+Compound::DB00341	Cetirizine	Disease::DOID:1612	breast cancer	1	2020	2020-02-14	2020-02-14
+Compound::DB00341	Cetirizine	Disease::DOID:2377	multiple sclerosis	1	2026	2026-09-01	2026-09-01
+Compound::DB00341	Cetirizine	Disease::DOID:2394	ovarian cancer	1	2020	2020-02-14	2020-02-14
+Compound::DB00341	Cetirizine	Disease::DOID:4362	cervical cancer	1	2020	2020-02-14	2020-02-14
+Compound::DB00343	Diltiazem	Disease::DOID:3393	coronary artery disease	1	2022	2022-03-04	2022-03-04
+Compound::DB00350	Minoxidil	Disease::DOID:2394	ovarian cancer	1	2021	2021-12-13	2021-12-13
+Compound::DB00361	Vinorelbine	Disease::DOID:1612	breast cancer	6	2017,2020,2024,2025	2017-04-12	2025-03-01
+Compound::DB00361	Vinorelbine	Disease::DOID:1964	fallopian tube cancer	1	2017	2017-07-01	2017-07-01
+Compound::DB00361	Vinorelbine	Disease::DOID:2394	ovarian cancer	1	2017	2017-07-01	2017-07-01
+Compound::DB00361	Vinorelbine	Disease::DOID:4362	cervical cancer	2	2021,2024	2021-02-22	2024-07-24
+Compound::DB00363	Clozapine	Disease::DOID:3312	bipolar disorder	1	2023	2023-02-23	2023-02-23
+Compound::DB00363	Clozapine	Disease::DOID:5419	schizophrenia	6	2018,2019,2021,2022,2023	2018-06-13	2023-01-01
+Compound::DB00368	Norepinephrine	Disease::DOID:10763	hypertension	1	2025	2025-04-01	2025-04-01
+Compound::DB00368	Norepinephrine	Disease::DOID:9970	obesity	1	2023	2023-03-14	2023-03-14
+Compound::DB00370	Mirtazapine	Disease::DOID:11934	head and neck cancer	1	2021	2021-03-01	2021-03-01
+Compound::DB00370	Mirtazapine	Disease::DOID:1324	lung cancer	1	2021	2021-03-01	2021-03-01
+Compound::DB00370	Mirtazapine	Disease::DOID:1793	pancreatic cancer	1	2021	2021-03-01	2021-03-01
+Compound::DB00373	Timolol	Disease::DOID:1686	glaucoma	1	2019	2019-10-01	2019-10-01
+Compound::DB00373	Timolol	Disease::DOID:6364	migraine	1	2017	2017-02-27	2017-02-27
+Compound::DB00374	Treprostinil	Disease::DOID:9744	type 1 diabetes mellitus	1	2021	2021-10-22	2021-10-22
+Compound::DB00377	Palonosetron	Disease::DOID:10534	stomach cancer	1	2018	2018-12-03	2018-12-03
+Compound::DB00377	Palonosetron	Disease::DOID:1612	breast cancer	1	2023	2023-07	2023-07
+Compound::DB00381	Amlodipine	Disease::DOID:10763	hypertension	18	2017,2019,2020,2021,2022,2023,2024,2025,2026	2017-05-09	2026-11-30
+Compound::DB00381	Amlodipine	Disease::DOID:9970	obesity	1	2022	2022-05-20	2022-05-20
+Compound::DB00384	Triamterene	Disease::DOID:10763	hypertension	1	2021	2021-10-01	2021-10-01
+Compound::DB00390	Digoxin	Disease::DOID:10283	prostate cancer	1	2020	2020-01-27	2020-01-27
+Compound::DB00390	Digoxin	Disease::DOID:11934	head and neck cancer	1	2017	2017-01	2017-01
+Compound::DB00390	Digoxin	Disease::DOID:1612	breast cancer	1	2020	2020-07-08	2020-07-08
+Compound::DB00390	Digoxin	Disease::DOID:7148	rheumatoid arthritis	1	2017	2017-05-13	2017-05-13
+Compound::DB00390	Digoxin	Disease::DOID:9352	type 2 diabetes mellitus	1	2024	2024-02-08	2024-02-08
+Compound::DB00390	Digoxin	Disease::DOID:9970	obesity	1	2026	2026-04-08	2026-04-08
+Compound::DB00393	Nimodipine	Disease::DOID:5419	schizophrenia	1	2018	2018-10-05	2018-10-05
+Compound::DB00394	Beclomethasone	Disease::DOID:12306	vitiligo	1	2025	2025-11-10	2025-11-10
+Compound::DB00398	Sorafenib	Disease::DOID:1612	breast cancer	1	2022	2022-12-30	2022-12-30
+Compound::DB00398	Sorafenib	Disease::DOID:1781	thyroid cancer	1	2018	2018-08-06	2018-08-06
+Compound::DB00398	Sorafenib	Disease::DOID:2043	hepatitis B	1	2022	2022-01-01	2022-01-01
+Compound::DB00398	Sorafenib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00398	Sorafenib	Disease::DOID:3571	liver cancer	1	2017	2017-03-27	2017-03-27
+Compound::DB00399	Zoledronate	Disease::DOID:11476	osteoporosis	3	2022,2023,2026	2022-01-10	2026-01-01
+Compound::DB00404	Alprazolam	Disease::DOID:6364	migraine	1	2017	2017-01-16	2017-01-16
+Compound::DB00404	Alprazolam	Disease::DOID:9744	type 1 diabetes mellitus	1	2018	2018-09-05	2018-09-05
+Compound::DB00412	Rosiglitazone	Disease::DOID:1909	melanoma	1	2020	2020-09-14	2020-09-14
+Compound::DB00413	Pramipexole	Disease::DOID:0050425	restless legs syndrome	3	2019,2022,2023	2019-07-01	2023-04-01
+Compound::DB00421	Spironolactone	Disease::DOID:10763	hypertension	6	2019,2020,2021,2022,2023	2019-02-13	2023-05
+Compound::DB00421	Spironolactone	Disease::DOID:1115	sarcoma	1	2020	2020-09-01	2020-09-01
+Compound::DB00421	Spironolactone	Disease::DOID:11612	polycystic ovary syndrome	2	2019,2021	2019-12-18	2021-11-12
+Compound::DB00421	Spironolactone	Disease::DOID:14004	thoracic aortic aneurysm	1	2026	2026-05-25	2026-05-25
+Compound::DB00421	Spironolactone	Disease::DOID:7148	rheumatoid arthritis	1	2022	2022-06-22	2022-06-22
+Compound::DB00422	Methylphenidate	Disease::DOID:0050742	nicotine dependence	1	2023	2023-02-15	2023-02-15
+Compound::DB00422	Methylphenidate	Disease::DOID:1094	attention deficit hyperactivity disorder	8	2017,2018,2019,2021,2023	2017-02-01	2023-06
+Compound::DB00422	Methylphenidate	Disease::DOID:12995	conduct disorder	1	2017	2017-02-01	2017-02-01
+Compound::DB00423	Methocarbamol	Disease::DOID:585	nephrolithiasis	1	2021	2021-09-30	2021-09-30
+Compound::DB00426	Famciclovir	Disease::DOID:2377	multiple sclerosis	1	2020	2020-11-25	2020-11-25
+Compound::DB00428	Streptozocin	Disease::DOID:1793	pancreatic cancer	1	2018	2018-06-26	2018-06-26
+Compound::DB00433	Prochlorperazine	Disease::DOID:6364	migraine	1	2023	2023-06-27	2023-06-27
+Compound::DB00435	Nitric Oxide	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2022	2022-04-21	2022-04-21
+Compound::DB00435	Nitric Oxide	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2021	2021-09-01	2021-09-01
+Compound::DB00435	Nitric Oxide	Disease::DOID:9970	obesity	1	2026	2026-10	2026-10
+Compound::DB00437	Allopurinol	Disease::DOID:13189	gout	10	2018,2021,2023,2024,2025	2018-08	2025-08-01
+Compound::DB00437	Allopurinol	Disease::DOID:3393	coronary artery disease	1	2017	2017-12	2017-12
+Compound::DB00441	Gemcitabine	Disease::DOID:10283	prostate cancer	1	2017	2017-06	2017-06
+Compound::DB00441	Gemcitabine	Disease::DOID:1115	sarcoma	6	2017,2018,2020,2021	2017-11-29	2021-09
+Compound::DB00441	Gemcitabine	Disease::DOID:11819	ureter cancer	1	2018	2018-09-04	2018-09-04
+Compound::DB00441	Gemcitabine	Disease::DOID:11934	head and neck cancer	1	2021	2021-06-01	2021-06-01
+Compound::DB00441	Gemcitabine	Disease::DOID:1319	brain cancer	2	2018,2019	2018-03-05	2019-08-08
+Compound::DB00441	Gemcitabine	Disease::DOID:1324	lung cancer	2	2023,2024	2023-02-22	2024-05-17
+Compound::DB00441	Gemcitabine	Disease::DOID:1612	breast cancer	5	2017,2020,2023	2017-02-02	2023-11-23
+Compound::DB00441	Gemcitabine	Disease::DOID:1781	thyroid cancer	1	2023	2023-04-18	2023-04-18
+Compound::DB00441	Gemcitabine	Disease::DOID:1793	pancreatic cancer	57	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-07-21	2026-08
+Compound::DB00441	Gemcitabine	Disease::DOID:1909	melanoma	3	2019,2021	2019-04-26	2021-12-08
+Compound::DB00441	Gemcitabine	Disease::DOID:1964	fallopian tube cancer	7	2018,2019,2020,2021,2022,2023,2026	2018-11-30	2026-07-17
+Compound::DB00441	Gemcitabine	Disease::DOID:2394	ovarian cancer	10	2017,2018,2019,2020,2021,2023,2026	2017-11-21	2026-08
+Compound::DB00441	Gemcitabine	Disease::DOID:263	kidney cancer	1	2018	2018-09-04	2018-09-04
+Compound::DB00441	Gemcitabine	Disease::DOID:3121	gallbladder cancer	4	2019,2020,2023,2026	2019-09-20	2026-08-28
+Compound::DB00441	Gemcitabine	Disease::DOID:3571	liver cancer	2	2018,2026	2018-06-01	2026-06-30
+Compound::DB00441	Gemcitabine	Disease::DOID:4362	cervical cancer	3	2018,2021,2024	2018-01-16	2024-07-24
+Compound::DB00441	Gemcitabine	Disease::DOID:4606	bile duct cancer	4	2023,2024,2025	2023-05-13	2025-07-01
+Compound::DB00441	Gemcitabine	Disease::DOID:5041	esophageal cancer	2	2018,2021	2018-06-01	2021-06-01
+Compound::DB00442	Entecavir	Disease::DOID:2043	hepatitis B	23	2017,2018,2019,2020,2021,2022,2026	2017-01	2026-01-11
+Compound::DB00443	Betamethasone	Disease::DOID:8893	psoriasis	1	2018	2018-04-24	2018-04-24
+Compound::DB00443	Betamethasone	Disease::DOID:986	alopecia areata	1	2023	2023-03-01	2023-03-01
+Compound::DB00445	Epirubicin	Disease::DOID:1612	breast cancer	9	2017,2019,2020,2021,2022,2024	2017-10-05	2024-08-01
+Compound::DB00445	Epirubicin	Disease::DOID:1793	pancreatic cancer	1	2018	2018-06-01	2018-06-01
+Compound::DB00445	Epirubicin	Disease::DOID:3571	liver cancer	1	2018	2018-06-01	2018-06-01
+Compound::DB00445	Epirubicin	Disease::DOID:5041	esophageal cancer	1	2018	2018-06-01	2018-06-01
+Compound::DB00448	Lansoprazole	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2021	2021-06-16	2021-06-16
+Compound::DB00448	Lansoprazole	Disease::DOID:1612	breast cancer	1	2023	2023-12-01	2023-12-01
+Compound::DB00448	Lansoprazole	Disease::DOID:363	uterine cancer	1	2017	2017-07-01	2017-07-01
+Compound::DB00448	Lansoprazole	Disease::DOID:4362	cervical cancer	1	2017	2017-07-01	2017-07-01
+Compound::DB00451	Levothyroxine	Disease::DOID:11934	head and neck cancer	1	2017	2017-05-01	2017-05-01
+Compound::DB00451	Levothyroxine	Disease::DOID:1459	hypothyroidism	8	2017,2019,2020,2022,2023,2024	2017-02-01	2024-12-10
+Compound::DB00451	Levothyroxine	Disease::DOID:1781	thyroid cancer	3	2017,2020,2021	2017-02-01	2021-04-27
+Compound::DB00455	Loratadine	Disease::DOID:4481	allergic rhinitis	1	2017	2017-07-30	2017-07-30
+Compound::DB00457	Prazosin	Disease::DOID:10652	Alzheimer's disease	1	2018	2018-10-23	2018-10-23
+Compound::DB00458	Imipramine	Disease::DOID:1612	breast cancer	1	2019	2019-07-05	2019-07-05
+Compound::DB00459	Acitretin	Disease::DOID:8893	psoriasis	1	2018	2018-09-01	2018-09-01
+Compound::DB00465	Ketorolac	Disease::DOID:10283	prostate cancer	1	2023	2023-04-18	2023-04-18
+Compound::DB00465	Ketorolac	Disease::DOID:1993	rectum cancer	1	2017	2017-01	2017-01
+Compound::DB00465	Ketorolac	Disease::DOID:219	colon cancer	1	2017	2017-01	2017-01
+Compound::DB00465	Ketorolac	Disease::DOID:263	kidney cancer	1	2023	2023-09-15	2023-09-15
+Compound::DB00465	Ketorolac	Disease::DOID:4989	pancreatitis	4	2020,2022,2023	2020-02-24	2023-11
+Compound::DB00465	Ketorolac	Disease::DOID:6364	migraine	2	2020,2023	2020-10	2023-06-27
+Compound::DB00465	Ketorolac	Disease::DOID:824	periodontitis	1	2018	2018-04-10	2018-04-10
+Compound::DB00467	Enoxacin	Disease::DOID:332	amyotrophic lateral sclerosis	1	2021	2021-03-26	2021-03-26
+Compound::DB00470	Dronabinol	Disease::DOID:11934	head and neck cancer	1	2021	2021-03-01	2021-03-01
+Compound::DB00470	Dronabinol	Disease::DOID:1324	lung cancer	1	2021	2021-03-01	2021-03-01
+Compound::DB00470	Dronabinol	Disease::DOID:1793	pancreatic cancer	1	2021	2021-03-01	2021-03-01
+Compound::DB00470	Dronabinol	Disease::DOID:3312	bipolar disorder	1	2021	2021-09-01	2021-09-01
+Compound::DB00471	Montelukast	Disease::DOID:1612	breast cancer	1	2023	2023-03-01	2023-03-01
+Compound::DB00471	Montelukast	Disease::DOID:2841	asthma	3	2017,2022	2017-05-01	2022-02-01
+Compound::DB00471	Montelukast	Disease::DOID:4481	allergic rhinitis	2	2020,2021	2020-01-16	2021-06-07
+Compound::DB00471	Montelukast	Disease::DOID:7148	rheumatoid arthritis	3	2017,2018,2021	2017-05-13	2021-12-15
+Compound::DB00472	Fluoxetine	Disease::DOID:9744	type 1 diabetes mellitus	1	2017	2017-12-19	2017-12-19
+Compound::DB00481	Raloxifene	Disease::DOID:11476	osteoporosis	2	2018,2020	2018-11-30	2020-09-22
+Compound::DB00482	Celecoxib	Disease::DOID:11934	head and neck cancer	1	2025	2025-07-09	2025-07-09
+Compound::DB00482	Celecoxib	Disease::DOID:1612	breast cancer	1	2017	2017-06-07	2017-06-07
+Compound::DB00482	Celecoxib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00482	Celecoxib	Disease::DOID:2377	multiple sclerosis	1	2022	2022-06-07	2022-06-07
+Compound::DB00482	Celecoxib	Disease::DOID:2394	ovarian cancer	1	2026	2026-08	2026-08
+Compound::DB00482	Celecoxib	Disease::DOID:7147	ankylosing spondylitis	1	2018	2018-03-01	2018-03-01
+Compound::DB00482	Celecoxib	Disease::DOID:7148	rheumatoid arthritis	1	2019	2019-06-14	2019-06-14
+Compound::DB00484	Brimonidine	Disease::DOID:9835	refractive error	1	2022	2022-12-19	2022-12-19
+Compound::DB00497	Oxycodone	Disease::DOID:10283	prostate cancer	1	2023	2023-04-18	2023-04-18
+Compound::DB00497	Oxycodone	Disease::DOID:11934	head and neck cancer	1	2019	2019-11-01	2019-11-01
+Compound::DB00497	Oxycodone	Disease::DOID:1612	breast cancer	1	2021	2021-02-01	2021-02-01
+Compound::DB00497	Oxycodone	Disease::DOID:263	kidney cancer	1	2023	2023-09-15	2023-09-15
+Compound::DB00497	Oxycodone	Disease::DOID:3571	liver cancer	1	2023	2023-10-16	2023-10-16
+Compound::DB00497	Oxycodone	Disease::DOID:9970	obesity	1	2019	2019-05-01	2019-05-01
+Compound::DB00499	Flutamide	Disease::DOID:10283	prostate cancer	1	2019	2019-05-10	2019-05-10
+Compound::DB00499	Flutamide	Disease::DOID:11612	polycystic ovary syndrome	1	2022	2022-10-26	2022-10-26
+Compound::DB00501	Cimetidine	Disease::DOID:3310	atopic dermatitis	1	2018	2018-03-26	2018-03-26
+Compound::DB00502	Haloperidol	Disease::DOID:5419	schizophrenia	1	2017	2017-05-01	2017-05-01
+Compound::DB00503	Ritonavir	Disease::DOID:10283	prostate cancer	1	2023	2023-02-13	2023-02-13
+Compound::DB00503	Ritonavir	Disease::DOID:2355	anemia	1	2017	2017-09-05	2017-09-05
+Compound::DB00503	Ritonavir	Disease::DOID:332	amyotrophic lateral sclerosis	1	2019	2019-04-01	2019-04-01
+Compound::DB00507	Nitazoxanide	Disease::DOID:2043	hepatitis B	1	2019	2019-10-22	2019-10-22
+Compound::DB00507	Nitazoxanide	Disease::DOID:8577	ulcerative colitis	1	2025	2025-05-30	2025-05-30
+Compound::DB00512	Vancomycin	Disease::DOID:1909	melanoma	1	2024	2024-08-28	2024-08-28
+Compound::DB00512	Vancomycin	Disease::DOID:2377	multiple sclerosis	1	2023	2023-01-31	2023-01-31
+Compound::DB00512	Vancomycin	Disease::DOID:8577	ulcerative colitis	2	2021,2024	2021-11-10	2024-09-27
+Compound::DB00514	Dextromethorphan	Disease::DOID:12365	malaria	1	2022	2022-03-09	2022-03-09
+Compound::DB00515	Cisplatin	Disease::DOID:0060119	pharynx cancer	1	2023	2023-12-31	2023-12-31
+Compound::DB00515	Cisplatin	Disease::DOID:10283	prostate cancer	1	2018	2018-09-21	2018-09-21
+Compound::DB00515	Cisplatin	Disease::DOID:11615	penile cancer	1	2020	2020-08-12	2020-08-12
+Compound::DB00515	Cisplatin	Disease::DOID:11819	ureter cancer	1	2018	2018-09-04	2018-09-04
+Compound::DB00515	Cisplatin	Disease::DOID:11934	head and neck cancer	20	2017,2018,2019,2020,2021,2023,2024,2025,2026	2017-04-11	2026-07-22
+Compound::DB00515	Cisplatin	Disease::DOID:1324	lung cancer	4	2020,2021,2022,2025	2020-05-22	2025-12-22
+Compound::DB00515	Cisplatin	Disease::DOID:1612	breast cancer	2	2018,2024	2018-10-16	2024-08-01
+Compound::DB00515	Cisplatin	Disease::DOID:1790	malignant mesothelioma	1	2023	2023-09-21	2023-09-21
+Compound::DB00515	Cisplatin	Disease::DOID:1793	pancreatic cancer	6	2018,2019,2023	2018-06-01	2023-07-13
+Compound::DB00515	Cisplatin	Disease::DOID:1909	melanoma	3	2017,2019	2017-12	2019-09-17
+Compound::DB00515	Cisplatin	Disease::DOID:1964	fallopian tube cancer	2	2019	2019-03-12	2019-04-26
+Compound::DB00515	Cisplatin	Disease::DOID:2394	ovarian cancer	9	2017,2019,2020,2021,2022,2023,2024,2026	2017-11-21	2026-08
+Compound::DB00515	Cisplatin	Disease::DOID:2596	larynx cancer	4	2017,2023,2025	2017-06-22	2025-02-20
+Compound::DB00515	Cisplatin	Disease::DOID:263	kidney cancer	1	2018	2018-09-04	2018-09-04
+Compound::DB00515	Cisplatin	Disease::DOID:2998	testicular cancer	1	2019	2019-07-29	2019-07-29
+Compound::DB00515	Cisplatin	Disease::DOID:3121	gallbladder cancer	4	2019,2020,2023,2026	2019-09-20	2026-08-28
+Compound::DB00515	Cisplatin	Disease::DOID:3571	liver cancer	1	2018	2018-06-01	2018-06-01
+Compound::DB00515	Cisplatin	Disease::DOID:4362	cervical cancer	28	2017,2018,2019,2020,2021,2022,2023,2024,2026	2017-02-09	2026-07-31
+Compound::DB00515	Cisplatin	Disease::DOID:4606	bile duct cancer	3	2023,2024	2023-05-13	2024-03-08
+Compound::DB00515	Cisplatin	Disease::DOID:5041	esophageal cancer	12	2017,2018,2019,2020,2021,2022,2023,2026	2017-10-20	2026-07-30
+Compound::DB00518	Albendazole	Disease::DOID:12365	malaria	1	2022	2022-06-16	2022-06-16
+Compound::DB00526	Oxaliplatin	Disease::DOID:10534	stomach cancer	5	2018,2020,2021,2025	2018-03-07	2025-10-10
+Compound::DB00526	Oxaliplatin	Disease::DOID:1612	breast cancer	1	2020	2020-03-26	2020-03-26
+Compound::DB00526	Oxaliplatin	Disease::DOID:1781	thyroid cancer	1	2022	2022-07-05	2022-07-05
+Compound::DB00526	Oxaliplatin	Disease::DOID:1793	pancreatic cancer	22	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-07-03	2026-05-22
+Compound::DB00526	Oxaliplatin	Disease::DOID:1909	melanoma	1	2022	2022-07-05	2022-07-05
+Compound::DB00526	Oxaliplatin	Disease::DOID:1993	rectum cancer	1	2020	2020-05-25	2020-05-25
+Compound::DB00526	Oxaliplatin	Disease::DOID:219	colon cancer	3	2024,2025	2024-05-01	2025-04-28
+Compound::DB00526	Oxaliplatin	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00526	Oxaliplatin	Disease::DOID:2394	ovarian cancer	5	2017,2021,2023,2025	2017-11-21	2025-06-01
+Compound::DB00526	Oxaliplatin	Disease::DOID:3121	gallbladder cancer	2	2017,2025	2017-06-14	2025-12-01
+Compound::DB00526	Oxaliplatin	Disease::DOID:3571	liver cancer	3	2017,2018,2026	2017-06-14	2026-06-30
+Compound::DB00526	Oxaliplatin	Disease::DOID:4362	cervical cancer	1	2023	2023-10-13	2023-10-13
+Compound::DB00526	Oxaliplatin	Disease::DOID:4606	bile duct cancer	3	2017,2020,2024	2017-06-14	2024-05-08
+Compound::DB00526	Oxaliplatin	Disease::DOID:5041	esophageal cancer	8	2018,2019,2020,2023,2024,2026	2018-06-01	2026-02-03
+Compound::DB00530	Erlotinib	Disease::DOID:1324	lung cancer	1	2017	2017-03-01	2017-03-01
+Compound::DB00530	Erlotinib	Disease::DOID:1612	breast cancer	1	2020	2020-10-07	2020-10-07
+Compound::DB00530	Erlotinib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00531	Cyclophosphamide	Disease::DOID:10283	prostate cancer	1	2017	2017-03-08	2017-03-08
+Compound::DB00531	Cyclophosphamide	Disease::DOID:10534	stomach cancer	1	2020	2020-05-15	2020-05-15
+Compound::DB00531	Cyclophosphamide	Disease::DOID:1115	sarcoma	3	2019,2023,2026	2019-09-27	2026-01-21
+Compound::DB00531	Cyclophosphamide	Disease::DOID:11934	head and neck cancer	6	2019,2022,2024,2025,2026	2019-02-15	2026-05
+Compound::DB00531	Cyclophosphamide	Disease::DOID:1319	brain cancer	3	2017,2019,2024	2017-07-18	2024-10-20
+Compound::DB00531	Cyclophosphamide	Disease::DOID:1324	lung cancer	1	2024	2024-08-20	2024-08-20
+Compound::DB00531	Cyclophosphamide	Disease::DOID:13241	Behcet's disease	1	2018	2018-05-25	2018-05-25
+Compound::DB00531	Cyclophosphamide	Disease::DOID:1612	breast cancer	38	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-04-06	2026-09
+Compound::DB00531	Cyclophosphamide	Disease::DOID:1781	thyroid cancer	1	2025	2025-10-07	2025-10-07
+Compound::DB00531	Cyclophosphamide	Disease::DOID:1793	pancreatic cancer	19	2017,2018,2019,2020,2021,2022,2023,2025	2017-04-06	2025-09-09
+Compound::DB00531	Cyclophosphamide	Disease::DOID:1909	melanoma	11	2017,2018,2019,2020,2022,2024,2025	2017-04-06	2025-12-03
+Compound::DB00531	Cyclophosphamide	Disease::DOID:1964	fallopian tube cancer	2	2018,2019	2018-02-12	2019-10-10
+Compound::DB00531	Cyclophosphamide	Disease::DOID:1993	rectum cancer	2	2022,2024	2022-09-09	2024-09-29
+Compound::DB00531	Cyclophosphamide	Disease::DOID:219	colon cancer	5	2017,2019,2020,2022,2024	2017-09-21	2024-09-29
+Compound::DB00531	Cyclophosphamide	Disease::DOID:2355	anemia	1	2018	2018-03-30	2018-03-30
+Compound::DB00531	Cyclophosphamide	Disease::DOID:2377	multiple sclerosis	4	2024,2025,2026	2024-03-28	2026-06-30
+Compound::DB00531	Cyclophosphamide	Disease::DOID:2394	ovarian cancer	20	2017,2018,2019,2021,2022,2023,2024,2026	2017-04-06	2026-12-01
+Compound::DB00531	Cyclophosphamide	Disease::DOID:2994	germ cell cancer	1	2022	2022-07-06	2022-07-06
+Compound::DB00531	Cyclophosphamide	Disease::DOID:3070	malignant glioma	2	2026	2026-02-02	2026-03-02
+Compound::DB00531	Cyclophosphamide	Disease::DOID:3565	meningioma	1	2024	2024-10-20	2024-10-20
+Compound::DB00531	Cyclophosphamide	Disease::DOID:363	uterine cancer	1	2017	2017-07-01	2017-07-01
+Compound::DB00531	Cyclophosphamide	Disease::DOID:4159	skin cancer	1	2026	2026-02-10	2026-02-10
+Compound::DB00531	Cyclophosphamide	Disease::DOID:418	systemic scleroderma	1	2022	2022-02-24	2022-02-24
+Compound::DB00531	Cyclophosphamide	Disease::DOID:4362	cervical cancer	2	2017,2019	2017-07-01	2019-02-15
+Compound::DB00531	Cyclophosphamide	Disease::DOID:5041	esophageal cancer	2	2020,2022	2020-05-15	2022-09-09
+Compound::DB00531	Cyclophosphamide	Disease::DOID:7148	rheumatoid arthritis	3	2023,2024	2023-09-13	2024-11-04
+Compound::DB00531	Cyclophosphamide	Disease::DOID:784	chronic kidney failure	1	2024	2024-05-09	2024-05-09
+Compound::DB00531	Cyclophosphamide	Disease::DOID:8778	Crohn's disease	1	2019	2019-11	2019-11
+Compound::DB00531	Cyclophosphamide	Disease::DOID:9074	systemic lupus erythematosus	8	2022,2023,2024,2025,2026	2022-12-31	2026-07
+Compound::DB00537	Ciprofloxacin	Disease::DOID:10283	prostate cancer	1	2018	2018-04-03	2018-04-03
+Compound::DB00537	Ciprofloxacin	Disease::DOID:1793	pancreatic cancer	1	2023	2023-03-16	2023-03-16
+Compound::DB00537	Ciprofloxacin	Disease::DOID:2841	asthma	1	2018	2018-01-10	2018-01-10
+Compound::DB00537	Ciprofloxacin	Disease::DOID:585	nephrolithiasis	2	2018,2019	2018-09-27	2019-09-01
+Compound::DB00537	Ciprofloxacin	Disease::DOID:7148	rheumatoid arthritis	1	2023	2023-05-22	2023-05-22
+Compound::DB00539	Toremifene	Disease::DOID:1612	breast cancer	2	2020,2023	2020-07-01	2023-06-01
+Compound::DB00540	Nortriptyline	Disease::DOID:6364	migraine	1	2026	2026-07	2026-07
+Compound::DB00541	Vincristine	Disease::DOID:1115	sarcoma	1	2025	2025-01-27	2025-01-27
+Compound::DB00544	Fluorouracil	Disease::DOID:10534	stomach cancer	1	2025	2025-03-25	2025-03-25
+Compound::DB00544	Fluorouracil	Disease::DOID:11934	head and neck cancer	2	2018,2021	2018-03-28	2021-06-01
+Compound::DB00544	Fluorouracil	Disease::DOID:1781	thyroid cancer	1	2022	2022-07-05	2022-07-05
+Compound::DB00544	Fluorouracil	Disease::DOID:1793	pancreatic cancer	11	2017,2018,2020,2021,2022,2024,2026	2017-07-03	2026-02-17
+Compound::DB00544	Fluorouracil	Disease::DOID:1909	melanoma	1	2022	2022-07-05	2022-07-05
+Compound::DB00544	Fluorouracil	Disease::DOID:219	colon cancer	1	2024	2024-11	2024-11
+Compound::DB00544	Fluorouracil	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00544	Fluorouracil	Disease::DOID:2394	ovarian cancer	1	2023	2023-10-13	2023-10-13
+Compound::DB00544	Fluorouracil	Disease::DOID:3571	liver cancer	1	2018	2018-06-01	2018-06-01
+Compound::DB00544	Fluorouracil	Disease::DOID:4362	cervical cancer	1	2023	2023-10-13	2023-10-13
+Compound::DB00544	Fluorouracil	Disease::DOID:4606	bile duct cancer	1	2020	2020-09-02	2020-09-02
+Compound::DB00544	Fluorouracil	Disease::DOID:5041	esophageal cancer	5	2018,2019,2020,2021,2023	2018-06-01	2023-10-13
+Compound::DB00548	Azelaic Acid	Disease::DOID:1612	breast cancer	1	2025	2025-08-13	2025-08-13
+Compound::DB00549	Zafirlukast	Disease::DOID:1612	breast cancer	1	2017	2017-03-13	2017-03-13
+Compound::DB00549	Zafirlukast	Disease::DOID:2394	ovarian cancer	1	2020	2020-06-24	2020-06-24
+Compound::DB00550	Propylthiouracil	Disease::DOID:12361	Graves' disease	1	2019	2019-01-01	2019-01-01
+Compound::DB00557	Hydroxyzine	Disease::DOID:594	panic disorder	1	2023	2023-12-30	2023-12-30
+Compound::DB00563	Methotrexate	Disease::DOID:11934	head and neck cancer	1	2025	2025-07-09	2025-07-09
+Compound::DB00563	Methotrexate	Disease::DOID:12306	vitiligo	2	2022,2023	2022-09	2023-05-23
+Compound::DB00563	Methotrexate	Disease::DOID:13189	gout	3	2019,2023,2024	2019-06-13	2024-03-18
+Compound::DB00563	Methotrexate	Disease::DOID:1612	breast cancer	1	2023	2023-11-22	2023-11-22
+Compound::DB00563	Methotrexate	Disease::DOID:3310	atopic dermatitis	3	2017,2023,2026	2017-11-01	2026-08-01
+Compound::DB00563	Methotrexate	Disease::DOID:5419	schizophrenia	1	2017	2017-12-15	2017-12-15
+Compound::DB00563	Methotrexate	Disease::DOID:7147	ankylosing spondylitis	1	2019	2019-10-07	2019-10-07
+Compound::DB00563	Methotrexate	Disease::DOID:7148	rheumatoid arthritis	28	2017,2018,2019,2020,2021,2022,2024,2025	2017-05-13	2025-06-02
+Compound::DB00563	Methotrexate	Disease::DOID:8778	Crohn's disease	1	2017	2017-02-28	2017-02-28
+Compound::DB00563	Methotrexate	Disease::DOID:8893	psoriasis	13	2017,2018,2019,2020,2022,2023,2025,2026	2017-01-23	2026-08-01
+Compound::DB00563	Methotrexate	Disease::DOID:9008	psoriatic arthritis	8	2018,2019,2020,2021,2025	2018-01-08	2025-06-01
+Compound::DB00563	Methotrexate	Disease::DOID:986	alopecia areata	2	2023,2026	2023-12	2026-02-15
+Compound::DB00567	Cephalexin	Disease::DOID:1612	breast cancer	1	2021	2021-09-28	2021-09-28
+Compound::DB00571	Propranolol	Disease::DOID:0050742	nicotine dependence	1	2024	2024-11-26	2024-11-26
+Compound::DB00571	Propranolol	Disease::DOID:10283	prostate cancer	1	2023	2023-01-02	2023-01-02
+Compound::DB00571	Propranolol	Disease::DOID:1612	breast cancer	1	2026	2026-05-26	2026-05-26
+Compound::DB00571	Propranolol	Disease::DOID:1793	pancreatic cancer	2	2023,2024	2023-07-05	2024-03-20
+Compound::DB00571	Propranolol	Disease::DOID:1909	melanoma	1	2017	2017-06	2017-06
+Compound::DB00571	Propranolol	Disease::DOID:1964	fallopian tube cancer	1	2022	2022-06-17	2022-06-17
+Compound::DB00571	Propranolol	Disease::DOID:2394	ovarian cancer	1	2022	2022-06-17	2022-06-17
+Compound::DB00571	Propranolol	Disease::DOID:6364	migraine	4	2024,2025,2026	2024-03-29	2026-07
+Compound::DB00572	Atropine	Disease::DOID:1612	breast cancer	1	2026	2026-07	2026-07
+Compound::DB00575	Clonidine	Disease::DOID:10763	hypertension	1	2018	2018-02-01	2018-02-01
+Compound::DB00575	Clonidine	Disease::DOID:14330	Parkinson's disease	1	2019	2019-05-15	2019-05-15
+Compound::DB00575	Clonidine	Disease::DOID:3312	bipolar disorder	1	2021	2021-04-27	2021-04-27
+Compound::DB00579	Mazindol	Disease::DOID:8986	narcolepsy	1	2021	2021-10-26	2021-10-26
+Compound::DB00583	L-Carnitine	Disease::DOID:11476	osteoporosis	1	2017	2017-09-01	2017-09-01
+Compound::DB00583	L-Carnitine	Disease::DOID:2043	hepatitis B	1	2018	2018-09-23	2018-09-23
+Compound::DB00583	L-Carnitine	Disease::DOID:7148	rheumatoid arthritis	1	2023	2023-03-05	2023-03-05
+Compound::DB00583	L-Carnitine	Disease::DOID:9970	obesity	2	2017,2025	2017-05-15	2025-07-15
+Compound::DB00584	Enalapril	Disease::DOID:10763	hypertension	2	2018,2026	2018-03-20	2026-01-01
+Compound::DB00584	Enalapril	Disease::DOID:1612	breast cancer	1	2017	2017-10-04	2017-10-04
+Compound::DB00584	Enalapril	Disease::DOID:1936	atherosclerosis	1	2017	2017-09-10	2017-09-10
+Compound::DB00586	Diclofenac	Disease::DOID:7147	ankylosing spondylitis	1	2018	2018-03-01	2018-03-01
+Compound::DB00586	Diclofenac	Disease::DOID:8398	osteoarthritis	1	2018	2018-01-01	2018-01-01
+Compound::DB00588	Fluticasone Propionate	Disease::DOID:2841	asthma	3	2017,2018,2026	2017-09-14	2026-08
+Compound::DB00588	Fluticasone Propionate	Disease::DOID:4481	allergic rhinitis	1	2020	2020-12-15	2020-12-15
+Compound::DB00594	Amiloride	Disease::DOID:10763	hypertension	1	2021	2021-10-01	2021-10-01
+Compound::DB00597	Gadoteridol	Disease::DOID:2377	multiple sclerosis	2	2018,2022	2018-09-24	2022-06-01
+Compound::DB00602	Ivermectin	Disease::DOID:12365	malaria	2	2019,2022	2019-07-13	2022-08-04
+Compound::DB00608	Chloroquine	Disease::DOID:12365	malaria	1	2022	2022-12-19	2022-12-19
+Compound::DB00608	Chloroquine	Disease::DOID:3310	atopic dermatitis	1	2026	2026-08-01	2026-08-01
+Compound::DB00608	Chloroquine	Disease::DOID:7148	rheumatoid arthritis	1	2018	2018-03-05	2018-03-05
+Compound::DB00608	Chloroquine	Disease::DOID:8893	psoriasis	1	2026	2026-08-01	2026-08-01
+Compound::DB00612	Bisoprolol	Disease::DOID:10763	hypertension	1	2022	2022-10-01	2022-10-01
+Compound::DB00612	Bisoprolol	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2020	2020-06-30	2020-06-30
+Compound::DB00612	Bisoprolol	Disease::DOID:3393	coronary artery disease	2	2021,2022	2021-08-25	2022-03-04
+Compound::DB00613	Amodiaquine	Disease::DOID:12365	malaria	3	2022	2022-06-16	2022-07-18
+Compound::DB00619	Imatinib	Disease::DOID:11934	head and neck cancer	1	2023	2023-04-18	2023-04-18
+Compound::DB00619	Imatinib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00620	Triamcinolone	Disease::DOID:3310	atopic dermatitis	1	2026	2026-08-01	2026-08-01
+Compound::DB00620	Triamcinolone	Disease::DOID:8893	psoriasis	1	2026	2026-08-01	2026-08-01
+Compound::DB00620	Triamcinolone	Disease::DOID:9008	psoriatic arthritis	1	2019	2019-04-17	2019-04-17
+Compound::DB00622	Nicardipine	Disease::DOID:10763	hypertension	1	2026	2026-07-15	2026-07-15
+Compound::DB00622	Nicardipine	Disease::DOID:3393	coronary artery disease	1	2025	2025-12	2025-12
+Compound::DB00624	Testosterone	Disease::DOID:10283	prostate cancer	1	2023	2023-03-12	2023-03-12
+Compound::DB00624	Testosterone	Disease::DOID:9970	obesity	1	2023	2023-03-12	2023-03-12
+Compound::DB00625	Efavirenz	Disease::DOID:11949	Creutzfeldt-Jakob disease	1	2026	2026-03	2026-03
+Compound::DB00625	Efavirenz	Disease::DOID:12365	malaria	1	2022	2022-04-28	2022-04-28
+Compound::DB00627	Niacin	Disease::DOID:0050741	alcohol dependence	2	2023,2024	2023-09-19	2024-09
+Compound::DB00627	Niacin	Disease::DOID:14330	Parkinson's disease	1	2020	2020-01-01	2020-01-01
+Compound::DB00627	Niacin	Disease::DOID:9352	type 2 diabetes mellitus	1	2018	2018-11-01	2018-11-01
+Compound::DB00627	Niacin	Disease::DOID:9970	obesity	1	2018	2018-11-01	2018-11-01
+Compound::DB00630	Alendronate	Disease::DOID:11476	osteoporosis	5	2017,2018,2021,2024	2017-04-01	2024-02-01
+Compound::DB00633	Dexmedetomidine	Disease::DOID:10283	prostate cancer	1	2018	2018-05-24	2018-05-24
+Compound::DB00633	Dexmedetomidine	Disease::DOID:10763	hypertension	2	2021,2025	2021-07-03	2025-01-01
+Compound::DB00633	Dexmedetomidine	Disease::DOID:12185	otosclerosis	1	2024	2024-03-01	2024-03-01
+Compound::DB00633	Dexmedetomidine	Disease::DOID:12849	autistic disorder	1	2020	2020-03-01	2020-03-01
+Compound::DB00633	Dexmedetomidine	Disease::DOID:1319	brain cancer	1	2026	2026-07-22	2026-07-22
+Compound::DB00633	Dexmedetomidine	Disease::DOID:1324	lung cancer	2	2018,2022	2018-07-29	2022-12-01
+Compound::DB00633	Dexmedetomidine	Disease::DOID:1612	breast cancer	2	2017,2023	2017-04-12	2023-05-22
+Compound::DB00633	Dexmedetomidine	Disease::DOID:1686	glaucoma	1	2017	2017-12-01	2017-12-01
+Compound::DB00633	Dexmedetomidine	Disease::DOID:219	colon cancer	1	2017	2017-12-01	2017-12-01
+Compound::DB00633	Dexmedetomidine	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2023	2023-11-11	2023-11-11
+Compound::DB00633	Dexmedetomidine	Disease::DOID:3312	bipolar disorder	1	2023	2023-07-01	2023-07-01
+Compound::DB00633	Dexmedetomidine	Disease::DOID:3393	coronary artery disease	5	2019,2021,2022,2025	2019-08-20	2025-09-01
+Compound::DB00633	Dexmedetomidine	Disease::DOID:3565	meningioma	1	2026	2026-07-22	2026-07-22
+Compound::DB00633	Dexmedetomidine	Disease::DOID:6364	migraine	1	2026	2026-09-01	2026-09-01
+Compound::DB00633	Dexmedetomidine	Disease::DOID:9970	obesity	1	2019	2019-05-01	2019-05-01
+Compound::DB00635	Prednisone	Disease::DOID:0050425	restless legs syndrome	1	2024	2024-10-01	2024-10-01
+Compound::DB00635	Prednisone	Disease::DOID:10283	prostate cancer	30	2017,2018,2019,2020,2021,2024,2025,2026	2017-01-13	2026-10-15
+Compound::DB00635	Prednisone	Disease::DOID:12849	autistic disorder	1	2026	2026-08-01	2026-08-01
+Compound::DB00635	Prednisone	Disease::DOID:1312	focal segmental glomerulosclerosis	1	2018	2018-08-22	2018-08-22
+Compound::DB00635	Prednisone	Disease::DOID:13189	gout	1	2022	2022-06-02	2022-06-02
+Compound::DB00635	Prednisone	Disease::DOID:2377	multiple sclerosis	1	2017	2017-09-25	2017-09-25
+Compound::DB00635	Prednisone	Disease::DOID:2841	asthma	3	2017,2018,2022	2017-03-20	2022-03-16
+Compound::DB00635	Prednisone	Disease::DOID:3310	atopic dermatitis	2	2017,2023	2017-01-24	2023-11-01
+Compound::DB00635	Prednisone	Disease::DOID:4159	skin cancer	1	2026	2026-04-23	2026-04-23
+Compound::DB00635	Prednisone	Disease::DOID:7148	rheumatoid arthritis	2	2020,2021	2020-12-01	2021-07-30
+Compound::DB00635	Prednisone	Disease::DOID:784	chronic kidney failure	1	2025	2025-04-07	2025-04-07
+Compound::DB00635	Prednisone	Disease::DOID:8398	osteoarthritis	2	2025,2026	2025-02-24	2026-07-01
+Compound::DB00635	Prednisone	Disease::DOID:8577	ulcerative colitis	2	2018,2021	2018-10-11	2021-06-01
+Compound::DB00635	Prednisone	Disease::DOID:8778	Crohn's disease	1	2018	2018-10-25	2018-10-25
+Compound::DB00635	Prednisone	Disease::DOID:9074	systemic lupus erythematosus	1	2022	2022-12-31	2022-12-31
+Compound::DB00638	Inulin	Disease::DOID:1094	attention deficit hyperactivity disorder	1	2026	2026-03-01	2026-03-01
+Compound::DB00638	Inulin	Disease::DOID:824	periodontitis	1	2024	2024-01-01	2024-01-01
+Compound::DB00638	Inulin	Disease::DOID:9744	type 1 diabetes mellitus	1	2022	2022-05	2022-05
+Compound::DB00638	Inulin	Disease::DOID:9970	obesity	3	2017,2018,2021	2017-08-01	2021-11-10
+Compound::DB00640	Adenosine	Disease::DOID:3393	coronary artery disease	1	2024	2024-10-23	2024-10-23
+Compound::DB00641	Simvastatin	Disease::DOID:10534	stomach cancer	1	2018	2018-01-04	2018-01-04
+Compound::DB00641	Simvastatin	Disease::DOID:11476	osteoporosis	1	2017	2017-07-01	2017-07-01
+Compound::DB00641	Simvastatin	Disease::DOID:12930	dilated cardiomyopathy	1	2019	2019-01-17	2019-01-17
+Compound::DB00641	Simvastatin	Disease::DOID:4989	pancreatitis	1	2024	2024-10-24	2024-10-24
+Compound::DB00641	Simvastatin	Disease::DOID:824	periodontitis	1	2021	2021-09-01	2021-09-01
+Compound::DB00641	Simvastatin	Disease::DOID:986	alopecia areata	1	2024	2024-10-01	2024-10-01
+Compound::DB00642	Pemetrexed	Disease::DOID:11819	ureter cancer	1	2017	2017-01	2017-01
+Compound::DB00642	Pemetrexed	Disease::DOID:11934	head and neck cancer	1	2022	2022-04-28	2022-04-28
+Compound::DB00642	Pemetrexed	Disease::DOID:1319	brain cancer	1	2022	2022-05-19	2022-05-19
+Compound::DB00642	Pemetrexed	Disease::DOID:1324	lung cancer	16	2017,2018,2020,2021,2022,2023,2025	2017-05-20	2025-12-22
+Compound::DB00642	Pemetrexed	Disease::DOID:1790	malignant mesothelioma	2	2020,2023	2020-01-23	2023-09-21
+Compound::DB00642	Pemetrexed	Disease::DOID:1909	melanoma	2	2019,2021	2019-09-17	2021-10-06
+Compound::DB00642	Pemetrexed	Disease::DOID:2394	ovarian cancer	2	2019,2021	2019-12-10	2021-09-29
+Compound::DB00642	Pemetrexed	Disease::DOID:3277	thymus cancer	1	2019	2019-12-10	2019-12-10
+Compound::DB00642	Pemetrexed	Disease::DOID:4362	cervical cancer	2	2021,2024	2021-02-22	2024-07-24
+Compound::DB00643	Mebendazole	Disease::DOID:8577	ulcerative colitis	1	2024	2024-04-20	2024-04-20
+Compound::DB00644	Gonadorelin	Disease::DOID:11612	polycystic ovary syndrome	1	2019	2019-07-01	2019-07-01
+Compound::DB00646	Nystatin	Disease::DOID:10871	age related macular degeneration	1	2018	2018-07-13	2018-07-13
+Compound::DB00646	Nystatin	Disease::DOID:216	dental caries	1	2021	2021-05-15	2021-05-15
+Compound::DB00650	Leucovorin	Disease::DOID:10534	stomach cancer	2	2025	2025-03-25	2025-10-10
+Compound::DB00650	Leucovorin	Disease::DOID:1781	thyroid cancer	1	2022	2022-07-05	2022-07-05
+Compound::DB00650	Leucovorin	Disease::DOID:1793	pancreatic cancer	16	2017,2018,2019,2020,2023,2024,2026	2017-07-03	2026-02-17
+Compound::DB00650	Leucovorin	Disease::DOID:1909	melanoma	4	2017,2019,2022,2023	2017-12	2023-03-08
+Compound::DB00650	Leucovorin	Disease::DOID:1964	fallopian tube cancer	1	2019	2019-04-26	2019-04-26
+Compound::DB00650	Leucovorin	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00650	Leucovorin	Disease::DOID:2377	multiple sclerosis	1	2017	2017-08-11	2017-08-11
+Compound::DB00650	Leucovorin	Disease::DOID:2394	ovarian cancer	4	2017,2019,2023	2017-11-21	2023-10-13
+Compound::DB00650	Leucovorin	Disease::DOID:4362	cervical cancer	1	2023	2023-10-13	2023-10-13
+Compound::DB00650	Leucovorin	Disease::DOID:4606	bile duct cancer	1	2020	2020-09-02	2020-09-02
+Compound::DB00650	Leucovorin	Disease::DOID:5041	esophageal cancer	5	2019,2020,2023,2024,2026	2019-05-01	2026-02-03
+Compound::DB00650	Leucovorin	Disease::DOID:7148	rheumatoid arthritis	1	2017	2017-05-13	2017-05-13
+Compound::DB00650	Leucovorin	Disease::DOID:9008	psoriatic arthritis	1	2018	2018-01-08	2018-01-08
+Compound::DB00653	Magnesium Sulfate	Disease::DOID:10763	hypertension	1	2025	2025-10-10	2025-10-10
+Compound::DB00653	Magnesium Sulfate	Disease::DOID:1612	breast cancer	1	2020	2020-08-01	2020-08-01
+Compound::DB00653	Magnesium Sulfate	Disease::DOID:2841	asthma	2	2018,2025	2018-06	2025-10-08
+Compound::DB00653	Magnesium Sulfate	Disease::DOID:3393	coronary artery disease	1	2018	2018-11-24	2018-11-24
+Compound::DB00653	Magnesium Sulfate	Disease::DOID:6364	migraine	1	2019	2019-08-23	2019-08-23
+Compound::DB00654	Latanoprost	Disease::DOID:12306	vitiligo	1	2018	2018-09-01	2018-09-01
+Compound::DB00654	Latanoprost	Disease::DOID:986	alopecia areata	2	2022,2024	2022-10-01	2024-02-01
+Compound::DB00658	Sevelamer	Disease::DOID:9352	type 2 diabetes mellitus	1	2018	2018-09-01	2018-09-01
+Compound::DB00661	Verapamil	Disease::DOID:9352	type 2 diabetes mellitus	2	2017,2018	2017-09-27	2018-03-28
+Compound::DB00668	Epinephrine	Disease::DOID:1324	lung cancer	1	2018	2018-09-11	2018-09-11
+Compound::DB00668	Epinephrine	Disease::DOID:90	degenerative disc disease	1	2018	2018-06-01	2018-06-01
+Compound::DB00668	Epinephrine	Disease::DOID:9970	obesity	1	2024	2024-01-01	2024-01-01
+Compound::DB00669	Sumatriptan	Disease::DOID:6364	migraine	4	2017,2019,2022	2017-03-21	2022-03-15
+Compound::DB00673	Aprepitant	Disease::DOID:1612	breast cancer	1	2023	2023-07	2023-07
+Compound::DB00673	Aprepitant	Disease::DOID:2994	germ cell cancer	1	2026	2026-08	2026-08
+Compound::DB00673	Aprepitant	Disease::DOID:9970	obesity	1	2022	2022-12-01	2022-12-01
+Compound::DB00675	Tamoxifen	Disease::DOID:10283	prostate cancer	1	2026	2026-07	2026-07
+Compound::DB00675	Tamoxifen	Disease::DOID:10763	hypertension	1	2018	2018-10-01	2018-10-01
+Compound::DB00675	Tamoxifen	Disease::DOID:1612	breast cancer	20	2017,2019,2020,2021,2022,2023,2024,2025	2017-01-17	2025-05-02
+Compound::DB00675	Tamoxifen	Disease::DOID:2394	ovarian cancer	1	2022	2022-09-04	2022-09-04
+Compound::DB00678	Losartan	Disease::DOID:10763	hypertension	7	2018,2019,2021,2023	2018-05-29	2023-04-19
+Compound::DB00678	Losartan	Disease::DOID:1612	breast cancer	1	2021	2021-10	2021-10
+Compound::DB00678	Losartan	Disease::DOID:1793	pancreatic cancer	2	2018,2023	2018-08-10	2023-06-14
+Compound::DB00678	Losartan	Disease::DOID:1936	atherosclerosis	1	2017	2017-09-10	2017-09-10
+Compound::DB00678	Losartan	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00681	Amphotericin B	Disease::DOID:11555	Fuchs' endothelial dystrophy	1	2019	2019-07-03	2019-07-03
+Compound::DB00682	Warfarin	Disease::DOID:13378	Kawasaki disease	1	2025	2025-06-01	2025-06-01
+Compound::DB00682	Warfarin	Disease::DOID:1793	pancreatic cancer	1	2019	2019-05-15	2019-05-15
+Compound::DB00682	Warfarin	Disease::DOID:3310	atopic dermatitis	2	2018,2023	2018-08-13	2023-06-03
+Compound::DB00682	Warfarin	Disease::DOID:3393	coronary artery disease	1	2018	2018-09-01	2018-09-01
+Compound::DB00682	Warfarin	Disease::DOID:784	chronic kidney failure	1	2021	2021-01-01	2021-01-01
+Compound::DB00682	Warfarin	Disease::DOID:9074	systemic lupus erythematosus	1	2021	2021-07-09	2021-07-09
+Compound::DB00682	Warfarin	Disease::DOID:9970	obesity	1	2026	2026-04-08	2026-04-08
+Compound::DB00683	Midazolam	Disease::DOID:10283	prostate cancer	2	2020,2021	2020-09-23	2021-04-22
+Compound::DB00683	Midazolam	Disease::DOID:12365	malaria	1	2022	2022-03-09	2022-03-09
+Compound::DB00683	Midazolam	Disease::DOID:12849	autistic disorder	1	2020	2020-07-15	2020-07-15
+Compound::DB00683	Midazolam	Disease::DOID:14330	Parkinson's disease	1	2019	2019-05-22	2019-05-22
+Compound::DB00683	Midazolam	Disease::DOID:1612	breast cancer	2	2017,2023	2017-06-07	2023-06-07
+Compound::DB00683	Midazolam	Disease::DOID:1781	thyroid cancer	1	2022	2022-07-05	2022-07-05
+Compound::DB00683	Midazolam	Disease::DOID:1793	pancreatic cancer	1	2023	2023-07-18	2023-07-18
+Compound::DB00683	Midazolam	Disease::DOID:1909	melanoma	1	2022	2022-07-05	2022-07-05
+Compound::DB00683	Midazolam	Disease::DOID:2043	hepatitis B	1	2019	2019-10-18	2019-10-18
+Compound::DB00683	Midazolam	Disease::DOID:2377	multiple sclerosis	1	2018	2018-08-10	2018-08-10
+Compound::DB00683	Midazolam	Disease::DOID:2841	asthma	1	2026	2026-06-17	2026-06-17
+Compound::DB00683	Midazolam	Disease::DOID:3310	atopic dermatitis	2	2023,2025	2023-06-03	2025-10-03
+Compound::DB00683	Midazolam	Disease::DOID:3312	bipolar disorder	2	2021,2024	2021-10-20	2024-01-19
+Compound::DB00683	Midazolam	Disease::DOID:3393	coronary artery disease	1	2019	2019-02-01	2019-02-01
+Compound::DB00683	Midazolam	Disease::DOID:7148	rheumatoid arthritis	2	2017,2021	2017-05-13	2021-11-16
+Compound::DB00683	Midazolam	Disease::DOID:8893	psoriasis	2	2018	2018-01-09	2018-04-16
+Compound::DB00683	Midazolam	Disease::DOID:9352	type 2 diabetes mellitus	1	2024	2024-02-08	2024-02-08
+Compound::DB00683	Midazolam	Disease::DOID:9970	obesity	2	2022,2024	2022-01-04	2024-02-20
+Compound::DB00688	Mycophenolate mofetil	Disease::DOID:3070	malignant glioma	1	2021	2021-01-14	2021-01-14
+Compound::DB00688	Mycophenolate mofetil	Disease::DOID:9074	systemic lupus erythematosus	3	2022,2023	2022-11-30	2023-07-01
+Compound::DB00692	Phentolamine	Disease::DOID:3393	coronary artery disease	1	2024	2024-03-07	2024-03-07
+Compound::DB00692	Phentolamine	Disease::DOID:9970	obesity	1	2017	2017-10-24	2017-10-24
+Compound::DB00695	Furosemide	Disease::DOID:10763	hypertension	1	2021	2021-10-20	2021-10-20
+Compound::DB00695	Furosemide	Disease::DOID:1909	melanoma	1	2022	2022-09-07	2022-09-07
+Compound::DB00700	Eplerenone	Disease::DOID:10763	hypertension	5	2019,2020,2022,2023	2019-06-03	2023-08-25
+Compound::DB00704	Naltrexone	Disease::DOID:0050741	alcohol dependence	1	2017	2017-06-20	2017-06-20
+Compound::DB00704	Naltrexone	Disease::DOID:3310	atopic dermatitis	2	2020,2022	2020-10-01	2022-12-31
+Compound::DB00704	Naltrexone	Disease::DOID:5419	schizophrenia	1	2017	2017-06-01	2017-06-01
+Compound::DB00704	Naltrexone	Disease::DOID:8398	osteoarthritis	2	2018,2020	2018-05-01	2020-01
+Compound::DB00704	Naltrexone	Disease::DOID:9970	obesity	1	2017	2017-06-01	2017-06-01
+Compound::DB00706	Tamsulosin	Disease::DOID:2377	multiple sclerosis	1	2022	2022-10-05	2022-10-05
+Compound::DB00710	Ibandronate	Disease::DOID:11476	osteoporosis	1	2017	2017-10-12	2017-10-12
+Compound::DB00712	Flurbiprofen	Disease::DOID:7148	rheumatoid arthritis	1	2017	2017-05-13	2017-05-13
+Compound::DB00714	Apomorphine	Disease::DOID:14330	Parkinson's disease	2	2017	2017-03-03	2017-05
+Compound::DB00715	Paroxetine	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2021	2021-06-30	2021-06-30
+Compound::DB00715	Paroxetine	Disease::DOID:7148	rheumatoid arthritis	2	2021,2024	2021-02-01	2024-01-31
+Compound::DB00722	Lisinopril	Disease::DOID:1115	sarcoma	1	2020	2020-09-01	2020-09-01
+Compound::DB00727	Nitroglycerin	Disease::DOID:10763	hypertension	2	2021,2026	2021-07-03	2026-07-15
+Compound::DB00727	Nitroglycerin	Disease::DOID:11612	polycystic ovary syndrome	1	2017	2017-11-01	2017-11-01
+Compound::DB00727	Nitroglycerin	Disease::DOID:3393	coronary artery disease	1	2017	2017-03-15	2017-03-15
+Compound::DB00727	Nitroglycerin	Disease::DOID:6364	migraine	1	2022	2022-11-01	2022-11-01
+Compound::DB00728	Rocuronium	Disease::DOID:1612	breast cancer	1	2023	2023-03-03	2023-03-03
+Compound::DB00728	Rocuronium	Disease::DOID:3393	coronary artery disease	2	2019	2019-05-01	2019-08-20
+Compound::DB00728	Rocuronium	Disease::DOID:784	chronic kidney failure	1	2024	2024-08-01	2024-08-01
+Compound::DB00734	Risperidone	Disease::DOID:1094	attention deficit hyperactivity disorder	1	2017	2017-02-01	2017-02-01
+Compound::DB00734	Risperidone	Disease::DOID:12995	conduct disorder	1	2017	2017-02-01	2017-02-01
+Compound::DB00734	Risperidone	Disease::DOID:5419	schizophrenia	13	2017,2018,2019,2020,2021,2022,2023,2024,2025	2017-05-01	2025-03-01
+Compound::DB00736	Esomeprazole	Disease::DOID:2043	hepatitis B	1	2019	2019-10-18	2019-10-18
+Compound::DB00736	Esomeprazole	Disease::DOID:9970	obesity	1	2024	2024-02-01	2024-02-01
+Compound::DB00740	Riluzole	Disease::DOID:10283	prostate cancer	1	2024	2024-12-02	2024-12-02
+Compound::DB00740	Riluzole	Disease::DOID:11054	urinary bladder cancer	1	2024	2024-12-02	2024-12-02
+Compound::DB00740	Riluzole	Disease::DOID:1115	sarcoma	2	2024,2025	2024-12-02	2025-12-23
+Compound::DB00740	Riluzole	Disease::DOID:11934	head and neck cancer	2	2024,2025	2024-12-02	2025-12-23
+Compound::DB00740	Riluzole	Disease::DOID:1319	brain cancer	1	2024	2024-12-02	2024-12-02
+Compound::DB00740	Riluzole	Disease::DOID:1324	lung cancer	2	2024,2025	2024-12-02	2025-12-23
+Compound::DB00740	Riluzole	Disease::DOID:1612	breast cancer	2	2024,2025	2024-12-02	2025-12-23
+Compound::DB00740	Riluzole	Disease::DOID:1909	melanoma	1	2024	2024-12-02	2024-12-02
+Compound::DB00740	Riluzole	Disease::DOID:2394	ovarian cancer	2	2024,2025	2024-12-02	2025-12-23
+Compound::DB00740	Riluzole	Disease::DOID:263	kidney cancer	1	2024	2024-12-02	2024-12-02
+Compound::DB00740	Riluzole	Disease::DOID:332	amyotrophic lateral sclerosis	5	2017,2021,2022,2025	2017-06-19	2025-11-25
+Compound::DB00740	Riluzole	Disease::DOID:3571	liver cancer	2	2024,2025	2024-12-02	2025-12-23
+Compound::DB00741	Hydrocortisone	Disease::DOID:11612	polycystic ovary syndrome	2	2018	2018-01-19	2018-06-01
+Compound::DB00741	Hydrocortisone	Disease::DOID:3310	atopic dermatitis	1	2022	2022-11-21	2022-11-21
+Compound::DB00741	Hydrocortisone	Disease::DOID:4989	pancreatitis	1	2022	2022-03-06	2022-03-06
+Compound::DB00741	Hydrocortisone	Disease::DOID:9970	obesity	2	2018	2018-01-19	2018-06-01
+Compound::DB00742	Mannitol	Disease::DOID:10283	prostate cancer	1	2017	2017-07-12	2017-07-12
+Compound::DB00742	Mannitol	Disease::DOID:2841	asthma	2	2018,2019	2018-06-01	2019-01-11
+Compound::DB00742	Mannitol	Disease::DOID:3393	coronary artery disease	1	2022	2022-09-21	2022-09-21
+Compound::DB00743	Gadobenate Dimeglumine	Disease::DOID:1612	breast cancer	1	2019	2019-01-03	2019-01-03
+Compound::DB00745	Modafinil	Disease::DOID:2377	multiple sclerosis	1	2018	2018-11-15	2018-11-15
+Compound::DB00745	Modafinil	Disease::DOID:5419	schizophrenia	1	2018	2018-03-12	2018-03-12
+Compound::DB00745	Modafinil	Disease::DOID:8986	narcolepsy	2	2023,2024	2023-09-20	2024-03-19
+Compound::DB00746	Deferoxamine	Disease::DOID:10941	intracranial aneurysm	1	2022	2022-12-02	2022-12-02
+Compound::DB00749	Etodolac	Disease::DOID:1964	fallopian tube cancer	1	2022	2022-06-17	2022-06-17
+Compound::DB00749	Etodolac	Disease::DOID:2394	ovarian cancer	1	2022	2022-06-17	2022-06-17
+Compound::DB00753	Isoflurane	Disease::DOID:3393	coronary artery disease	1	2021	2021-01-22	2021-01-22
+Compound::DB00755	Tretinoin	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00758	Clopidogrel	Disease::DOID:11934	head and neck cancer	1	2018	2018-03-06	2018-03-06
+Compound::DB00758	Clopidogrel	Disease::DOID:1936	atherosclerosis	2	2017,2024	2017-04-19	2024-04-16
+Compound::DB00758	Clopidogrel	Disease::DOID:3393	coronary artery disease	20	2017,2018,2019,2020,2021,2022,2023,2024,2026	2017-01	2026-04-20
+Compound::DB00761	Potassium Chloride	Disease::DOID:10763	hypertension	3	2017,2018,2026	2017-07-01	2026-03-20
+Compound::DB00762	Irinotecan	Disease::DOID:10534	stomach cancer	1	2021	2021-03-05	2021-03-05
+Compound::DB00762	Irinotecan	Disease::DOID:1115	sarcoma	3	2017,2018,2019	2017-06-06	2019-01-04
+Compound::DB00762	Irinotecan	Disease::DOID:1324	lung cancer	1	2023	2023-02-22	2023-02-22
+Compound::DB00762	Irinotecan	Disease::DOID:1612	breast cancer	1	2017	2017-04-01	2017-04-01
+Compound::DB00762	Irinotecan	Disease::DOID:1793	pancreatic cancer	14	2017,2018,2019,2020,2022,2023,2024,2025,2026	2017-07-03	2026-05-22
+Compound::DB00762	Irinotecan	Disease::DOID:184	bone cancer	1	2019	2019-01-04	2019-01-04
+Compound::DB00762	Irinotecan	Disease::DOID:1909	melanoma	1	2019	2019-04-26	2019-04-26
+Compound::DB00762	Irinotecan	Disease::DOID:1964	fallopian tube cancer	2	2019,2021	2019-04-26	2021-01-27
+Compound::DB00762	Irinotecan	Disease::DOID:219	colon cancer	1	2023	2023-12-06	2023-12-06
+Compound::DB00762	Irinotecan	Disease::DOID:2394	ovarian cancer	2	2019,2021	2019-04-26	2021-01-27
+Compound::DB00762	Irinotecan	Disease::DOID:3070	malignant glioma	1	2019	2019-01-04	2019-01-04
+Compound::DB00762	Irinotecan	Disease::DOID:3571	liver cancer	1	2018	2018-06-01	2018-06-01
+Compound::DB00762	Irinotecan	Disease::DOID:4362	cervical cancer	2	2021,2024	2021-02-22	2024-07-24
+Compound::DB00762	Irinotecan	Disease::DOID:5041	esophageal cancer	2	2018,2024	2018-06-01	2024-08-01
+Compound::DB00763	Methimazole	Disease::DOID:12361	Graves' disease	4	2018,2019,2025,2026	2018-05-01	2026-03-31
+Compound::DB00773	Etoposide	Disease::DOID:1324	lung cancer	4	2018,2021,2022,2023	2018-06-12	2023-02-22
+Compound::DB00773	Etoposide	Disease::DOID:1612	breast cancer	1	2025	2025-03-01	2025-03-01
+Compound::DB00773	Etoposide	Disease::DOID:2394	ovarian cancer	3	2017,2019	2017-10	2019-08-16
+Compound::DB00773	Etoposide	Disease::DOID:2998	testicular cancer	1	2019	2019-07-29	2019-07-29
+Compound::DB00773	Etoposide	Disease::DOID:3070	malignant glioma	1	2021	2021-01-14	2021-01-14
+Compound::DB00775	Tirofiban	Disease::DOID:10941	intracranial aneurysm	1	2023	2023-04-25	2023-04-25
+Compound::DB00775	Tirofiban	Disease::DOID:3393	coronary artery disease	1	2017	2017-07-04	2017-07-04
+Compound::DB00783	Estradiol	Disease::DOID:11612	polycystic ovary syndrome	1	2017	2017-11-30	2017-11-30
+Compound::DB00783	Estradiol	Disease::DOID:1936	atherosclerosis	1	2020	2020-02-19	2020-02-19
+Compound::DB00783	Estradiol	Disease::DOID:5419	schizophrenia	1	2019	2019-12-02	2019-12-02
+Compound::DB00788	Naproxen	Disease::DOID:10283	prostate cancer	1	2018	2018-05-01	2018-05-01
+Compound::DB00790	Perindopril	Disease::DOID:10763	hypertension	3	2018,2019,2021	2018-05-29	2021-09-09
+Compound::DB00795	Sulfasalazine	Disease::DOID:1612	breast cancer	1	2021	2021-05-03	2021-05-03
+Compound::DB00795	Sulfasalazine	Disease::DOID:7147	ankylosing spondylitis	1	2019	2019-10-07	2019-10-07
+Compound::DB00795	Sulfasalazine	Disease::DOID:7148	rheumatoid arthritis	4	2017,2018,2019	2017-10-01	2019-03
+Compound::DB00795	Sulfasalazine	Disease::DOID:9008	psoriatic arthritis	3	2019,2020	2019-04-17	2020-10-19
+Compound::DB00796	Candesartan	Disease::DOID:10763	hypertension	2	2018,2019	2018-05-21	2019-08-30
+Compound::DB00796	Candesartan	Disease::DOID:6364	migraine	2	2020,2026	2020-01-02	2026-07
+Compound::DB00798	Gentamicin	Disease::DOID:2377	multiple sclerosis	1	2026	2026-08	2026-08
+Compound::DB00798	Gentamicin	Disease::DOID:3310	atopic dermatitis	1	2021	2021-05-17	2021-05-17
+Compound::DB00806	Pentoxifylline	Disease::DOID:10283	prostate cancer	1	2017	2017-02-13	2017-02-13
+Compound::DB00806	Pentoxifylline	Disease::DOID:5419	schizophrenia	1	2019	2019-01-01	2019-01-01
+Compound::DB00806	Pentoxifylline	Disease::DOID:7148	rheumatoid arthritis	1	2025	2025-06-02	2025-06-02
+Compound::DB00806	Pentoxifylline	Disease::DOID:9352	type 2 diabetes mellitus	1	2018	2018-03-01	2018-03-01
+Compound::DB00806	Pentoxifylline	Disease::DOID:986	alopecia areata	2	2022,2023	2022-07-27	2023-10
+Compound::DB00808	Indapamide	Disease::DOID:10763	hypertension	3	2019,2020,2021	2019-02-13	2021-11-05
+Compound::DB00808	Indapamide	Disease::DOID:2377	multiple sclerosis	1	2026	2026-09	2026-09
+Compound::DB00811	Ribavirin	Disease::DOID:2043	hepatitis B	1	2019	2019-01-10	2019-01-10
+Compound::DB00811	Ribavirin	Disease::DOID:3571	liver cancer	1	2023	2023-03-17	2023-03-17
+Compound::DB00813	Fentanyl	Disease::DOID:10763	hypertension	1	2023	2023-04-01	2023-04-01
+Compound::DB00813	Fentanyl	Disease::DOID:11934	head and neck cancer	1	2020	2020-12	2020-12
+Compound::DB00813	Fentanyl	Disease::DOID:1324	lung cancer	1	2021	2021-09-20	2021-09-20
+Compound::DB00813	Fentanyl	Disease::DOID:1612	breast cancer	1	2017	2017-06-07	2017-06-07
+Compound::DB00813	Fentanyl	Disease::DOID:1993	rectum cancer	1	2017	2017-01	2017-01
+Compound::DB00813	Fentanyl	Disease::DOID:219	colon cancer	1	2017	2017-01	2017-01
+Compound::DB00813	Fentanyl	Disease::DOID:3393	coronary artery disease	1	2019	2019-12-10	2019-12-10
+Compound::DB00814	Meloxicam	Disease::DOID:6364	migraine	1	2019	2019-03-04	2019-03-04
+Compound::DB00814	Meloxicam	Disease::DOID:7147	ankylosing spondylitis	2	2017,2018	2017-10-01	2018-03-01
+Compound::DB00818	Propofol	Disease::DOID:10763	hypertension	1	2025	2025-02-01	2025-02-01
+Compound::DB00818	Propofol	Disease::DOID:1319	brain cancer	1	2017	2017-01	2017-01
+Compound::DB00818	Propofol	Disease::DOID:1324	lung cancer	3	2021,2022,2023	2021-09-20	2023-05-23
+Compound::DB00818	Propofol	Disease::DOID:1612	breast cancer	1	2019	2019-09-01	2019-09-01
+Compound::DB00818	Propofol	Disease::DOID:2394	ovarian cancer	1	2023	2023-05-23	2023-05-23
+Compound::DB00818	Propofol	Disease::DOID:3393	coronary artery disease	4	2019,2021,2023,2024	2019-08-20	2024-07-15
+Compound::DB00818	Propofol	Disease::DOID:3571	liver cancer	2	2023	2023-05-23	2023-08-01
+Compound::DB00818	Propofol	Disease::DOID:363	uterine cancer	1	2018	2018-10-15	2018-10-15
+Compound::DB00818	Propofol	Disease::DOID:5419	schizophrenia	1	2019	2019-05-24	2019-05-24
+Compound::DB00818	Propofol	Disease::DOID:784	chronic kidney failure	1	2024	2024-08-01	2024-08-01
+Compound::DB00818	Propofol	Disease::DOID:9970	obesity	2	2019,2024	2019-05-01	2024-08-25
+Compound::DB00819	Acetazolamide	Disease::DOID:10283	prostate cancer	1	2018	2018-08-22	2018-08-22
+Compound::DB00819	Acetazolamide	Disease::DOID:1909	melanoma	1	2022	2022-09-07	2022-09-07
+Compound::DB00819	Acetazolamide	Disease::DOID:3083	chronic obstructive pulmonary disease	2	2021	2021-05-01	2021-06-01
+Compound::DB00819	Acetazolamide	Disease::DOID:5419	schizophrenia	1	2022	2022-02-01	2022-02-01
+Compound::DB00819	Acetazolamide	Disease::DOID:9970	obesity	1	2024	2024-01-18	2024-01-18
+Compound::DB00820	Tadalafil	Disease::DOID:11934	head and neck cancer	1	2020	2020-04-07	2020-04-07
+Compound::DB00820	Tadalafil	Disease::DOID:1324	lung cancer	1	2019	2019-10-15	2019-10-15
+Compound::DB00820	Tadalafil	Disease::DOID:1793	pancreatic cancer	1	2022	2022-08-22	2022-08-22
+Compound::DB00820	Tadalafil	Disease::DOID:3083	chronic obstructive pulmonary disease	2	2024	2024-02-01	2024-04-01
+Compound::DB00822	Disulfiram	Disease::DOID:10283	prostate cancer	1	2017	2017-07-11	2017-07-11
+Compound::DB00828	Fosfomycin	Disease::DOID:10283	prostate cancer	1	2018	2018-04-03	2018-04-03
+Compound::DB00834	Mifepristone	Disease::DOID:0050742	nicotine dependence	1	2017	2017-11-29	2017-11-29
+Compound::DB00834	Mifepristone	Disease::DOID:1612	breast cancer	2	2017,2018	2017-03-28	2018-02-12
+Compound::DB00836	Loperamide	Disease::DOID:1324	lung cancer	1	2021	2021-02-01	2021-02-01
+Compound::DB00836	Loperamide	Disease::DOID:1612	breast cancer	4	2019,2020,2021,2023	2019-12-23	2023-02-06
+Compound::DB00836	Loperamide	Disease::DOID:1909	melanoma	1	2021	2021-02-01	2021-02-01
+Compound::DB00836	Loperamide	Disease::DOID:2394	ovarian cancer	1	2021	2021-02-01	2021-02-01
+Compound::DB00836	Loperamide	Disease::DOID:363	uterine cancer	1	2021	2021-02-01	2021-02-01
+Compound::DB00836	Loperamide	Disease::DOID:4362	cervical cancer	1	2021	2021-02-01	2021-02-01
+Compound::DB00843	Donepezil	Disease::DOID:10652	Alzheimer's disease	4	2018,2021,2024	2018-09-30	2024-03-28
+Compound::DB00843	Donepezil	Disease::DOID:11476	osteoporosis	1	2025	2025-02-03	2025-02-03
+Compound::DB00843	Donepezil	Disease::DOID:7148	rheumatoid arthritis	1	2018	2018-09-01	2018-09-01
+Compound::DB00843	Donepezil	Disease::DOID:8398	osteoarthritis	1	2018	2018-09-01	2018-09-01
+Compound::DB00853	Temozolomide	Disease::DOID:10283	prostate cancer	2	2019,2020	2019-07-11	2020-07-01
+Compound::DB00853	Temozolomide	Disease::DOID:1115	sarcoma	3	2017,2018,2025	2017-06-06	2025-01-27
+Compound::DB00853	Temozolomide	Disease::DOID:1319	brain cancer	3	2017,2020,2025	2017-06-13	2025-12-03
+Compound::DB00853	Temozolomide	Disease::DOID:1324	lung cancer	1	2018	2018-09-11	2018-09-11
+Compound::DB00853	Temozolomide	Disease::DOID:1612	breast cancer	1	2020	2020-07-01	2020-07-01
+Compound::DB00853	Temozolomide	Disease::DOID:1793	pancreatic cancer	1	2018	2018-06-26	2018-06-26
+Compound::DB00853	Temozolomide	Disease::DOID:1909	melanoma	1	2022	2022-01-21	2022-01-21
+Compound::DB00853	Temozolomide	Disease::DOID:1964	fallopian tube cancer	1	2025	2025-02-06	2025-02-06
+Compound::DB00853	Temozolomide	Disease::DOID:3070	malignant glioma	4	2018,2019,2023	2018-11-06	2023-05-23
+Compound::DB00857	Terbinafine	Disease::DOID:2043	hepatitis B	1	2022	2022-04-13	2022-04-13
+Compound::DB00859	Penicillamine	Disease::DOID:11934	head and neck cancer	1	2023	2023-11-15	2023-11-15
+Compound::DB00860	Prednisolone	Disease::DOID:10283	prostate cancer	2	2021,2025	2021-05	2025-08-19
+Compound::DB00860	Prednisolone	Disease::DOID:12361	Graves' disease	1	2017	2017-05-11	2017-05-11
+Compound::DB00860	Prednisolone	Disease::DOID:13378	Kawasaki disease	1	2020	2020-01-15	2020-01-15
+Compound::DB00860	Prednisolone	Disease::DOID:1686	glaucoma	1	2019	2019-05-01	2019-05-01
+Compound::DB00860	Prednisolone	Disease::DOID:2377	multiple sclerosis	1	2017	2017-10-23	2017-10-23
+Compound::DB00860	Prednisolone	Disease::DOID:2841	asthma	2	2018,2021	2018-10-19	2021-03-29
+Compound::DB00860	Prednisolone	Disease::DOID:7148	rheumatoid arthritis	1	2018	2018-01-18	2018-01-18
+Compound::DB00860	Prednisolone	Disease::DOID:8398	osteoarthritis	1	2021	2021-12-21	2021-12-21
+Compound::DB00860	Prednisolone	Disease::DOID:8577	ulcerative colitis	1	2022	2022-06	2022-06
+Compound::DB00860	Prednisolone	Disease::DOID:9008	psoriatic arthritis	1	2020	2020-10-19	2020-10-19
+Compound::DB00863	Ranitidine	Disease::DOID:2377	multiple sclerosis	1	2017	2017-10-23	2017-10-23
+Compound::DB00864	Tacrolimus	Disease::DOID:10871	age related macular degeneration	1	2018	2018-07-13	2018-07-13
+Compound::DB00864	Tacrolimus	Disease::DOID:12306	vitiligo	1	2025	2025-04-01	2025-04-01
+Compound::DB00864	Tacrolimus	Disease::DOID:3070	malignant glioma	1	2021	2021-01-14	2021-01-14
+Compound::DB00864	Tacrolimus	Disease::DOID:3310	atopic dermatitis	2	2026	2026-06-01	2026-08-01
+Compound::DB00864	Tacrolimus	Disease::DOID:784	chronic kidney failure	2	2019	2019-03-08	2019-12-19
+Compound::DB00864	Tacrolimus	Disease::DOID:8577	ulcerative colitis	1	2017	2017-05-18	2017-05-18
+Compound::DB00864	Tacrolimus	Disease::DOID:8778	Crohn's disease	1	2019	2019-11	2019-11
+Compound::DB00864	Tacrolimus	Disease::DOID:8893	psoriasis	1	2026	2026-08-01	2026-08-01
+Compound::DB00864	Tacrolimus	Disease::DOID:9074	systemic lupus erythematosus	2	2022,2023	2022-12-31	2023-07-01
+Compound::DB00871	Terbutaline	Disease::DOID:2841	asthma	1	2023	2023-07-07	2023-07-07
+Compound::DB00877	Sirolimus	Disease::DOID:0050742	nicotine dependence	1	2018	2018-10-01	2018-10-01
+Compound::DB00877	Sirolimus	Disease::DOID:1115	sarcoma	1	2026	2026-07-15	2026-07-15
+Compound::DB00877	Sirolimus	Disease::DOID:12930	dilated cardiomyopathy	1	2024	2024-01-01	2024-01-01
+Compound::DB00877	Sirolimus	Disease::DOID:1793	pancreatic cancer	1	2018	2018-06-01	2018-06-01
+Compound::DB00877	Sirolimus	Disease::DOID:1826	epilepsy syndrome	1	2021	2021-10-13	2021-10-13
+Compound::DB00877	Sirolimus	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00877	Sirolimus	Disease::DOID:4159	skin cancer	1	2026	2026-04-23	2026-04-23
+Compound::DB00877	Sirolimus	Disease::DOID:784	chronic kidney failure	1	2022	2022-08-26	2022-08-26
+Compound::DB00877	Sirolimus	Disease::DOID:9074	systemic lupus erythematosus	2	2021,2026	2021-03-04	2026-06-07
+Compound::DB00878	Chlorhexidine	Disease::DOID:10871	age related macular degeneration	1	2018	2018-05-07	2018-05-07
+Compound::DB00878	Chlorhexidine	Disease::DOID:11934	head and neck cancer	1	2025	2025-07-22	2025-07-22
+Compound::DB00878	Chlorhexidine	Disease::DOID:216	dental caries	1	2018	2018-01-12	2018-01-12
+Compound::DB00878	Chlorhexidine	Disease::DOID:824	periodontitis	1	2019	2019-07-10	2019-07-10
+Compound::DB00884	Risedronate	Disease::DOID:11476	osteoporosis	1	2020	2020-10-29	2020-10-29
+Compound::DB00899	Remifentanil	Disease::DOID:12185	otosclerosis	1	2024	2024-03-01	2024-03-01
+Compound::DB00899	Remifentanil	Disease::DOID:3393	coronary artery disease	1	2019	2019-08-20	2019-08-20
+Compound::DB00899	Remifentanil	Disease::DOID:3571	liver cancer	1	2023	2023-10-16	2023-10-16
+Compound::DB00899	Remifentanil	Disease::DOID:9970	obesity	1	2019	2019-05-01	2019-05-01
+Compound::DB00905	Bimatoprost	Disease::DOID:12306	vitiligo	1	2021	2021-11-02	2021-11-02
+Compound::DB00905	Bimatoprost	Disease::DOID:1686	glaucoma	1	2018	2018-11-23	2018-11-23
+Compound::DB00908	Quinidine	Disease::DOID:2043	hepatitis B	1	2020	2020-11-05	2020-11-05
+Compound::DB00909	Zonisamide	Disease::DOID:0050741	alcohol dependence	1	2017	2017-09-21	2017-09-21
+Compound::DB00910	Paricalcitol	Disease::DOID:1793	pancreatic cancer	6	2017,2018,2019,2020	2017-09-28	2020-07-29
+Compound::DB00910	Paricalcitol	Disease::DOID:4989	pancreatitis	1	2023	2023-06-01	2023-06-01
+Compound::DB00912	Repaglinide	Disease::DOID:12365	malaria	1	2022	2022-03-09	2022-03-09
+Compound::DB00912	Repaglinide	Disease::DOID:9352	type 2 diabetes mellitus	1	2018	2018-01-20	2018-01-20
+Compound::DB00914	Phenformin	Disease::DOID:1909	melanoma	1	2017	2017-01	2017-01
+Compound::DB00916	Metronidazole	Disease::DOID:11934	head and neck cancer	1	2025	2025-07-22	2025-07-22
+Compound::DB00916	Metronidazole	Disease::DOID:1793	pancreatic cancer	2	2023	2023-03-06	2023-03-16
+Compound::DB00916	Metronidazole	Disease::DOID:824	periodontitis	5	2017,2018,2024	2017-04-01	2024-04-25
+Compound::DB00916	Metronidazole	Disease::DOID:8577	ulcerative colitis	2	2019,2021	2019-04-01	2021-11-10
+Compound::DB00916	Metronidazole	Disease::DOID:9352	type 2 diabetes mellitus	1	2018	2018-01-01	2018-01-01
+Compound::DB00922	Levosimendan	Disease::DOID:332	amyotrophic lateral sclerosis	2	2018,2019	2018-06-21	2019-06-26
+Compound::DB00927	Famotidine	Disease::DOID:10534	stomach cancer	1	2018	2018-12-03	2018-12-03
+Compound::DB00928	Azacitidine	Disease::DOID:1115	sarcoma	2	2019,2020	2019-10-03	2020-09-23
+Compound::DB00928	Azacitidine	Disease::DOID:2531	hematologic cancer	1	2021	2021-05-01	2021-05-01
+Compound::DB00937	Diethylpropion	Disease::DOID:9970	obesity	1	2023	2023-06-01	2023-06-01
+Compound::DB00938	Salmeterol	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2020	2020-09-22	2020-09-22
+Compound::DB00945	Acetylsalicylic acid	Disease::DOID:10283	prostate cancer	1	2019	2019-06-06	2019-06-06
+Compound::DB00945	Acetylsalicylic acid	Disease::DOID:11934	head and neck cancer	1	2018	2018-03-06	2018-03-06
+Compound::DB00945	Acetylsalicylic acid	Disease::DOID:1324	lung cancer	1	2019	2019-07-23	2019-07-23
+Compound::DB00945	Acetylsalicylic acid	Disease::DOID:13378	Kawasaki disease	1	2019	2019-02-01	2019-02-01
+Compound::DB00945	Acetylsalicylic acid	Disease::DOID:1936	atherosclerosis	2	2018,2019	2018-11-13	2019-10-31
+Compound::DB00945	Acetylsalicylic acid	Disease::DOID:219	colon cancer	1	2018	2018-02-22	2018-02-22
+Compound::DB00945	Acetylsalicylic acid	Disease::DOID:2394	ovarian cancer	1	2018	2018-05-04	2018-05-04
+Compound::DB00945	Acetylsalicylic acid	Disease::DOID:3312	bipolar disorder	1	2022	2022-01-20	2022-01-20
+Compound::DB00945	Acetylsalicylic acid	Disease::DOID:3393	coronary artery disease	3	2019,2020	2019-01-02	2020-05-28
+Compound::DB00947	Fulvestrant	Disease::DOID:10283	prostate cancer	3	2017,2020,2024	2017-10-11	2024-03-11
+Compound::DB00947	Fulvestrant	Disease::DOID:11934	head and neck cancer	1	2022	2022-07-07	2022-07-07
+Compound::DB00947	Fulvestrant	Disease::DOID:1612	breast cancer	48	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-01	2026-10-01
+Compound::DB00947	Fulvestrant	Disease::DOID:1793	pancreatic cancer	1	2020	2020-01-23	2020-01-23
+Compound::DB00947	Fulvestrant	Disease::DOID:1964	fallopian tube cancer	1	2023	2023-08-30	2023-08-30
+Compound::DB00947	Fulvestrant	Disease::DOID:2394	ovarian cancer	8	2017,2022,2023,2024	2017-05-12	2024-03-11
+Compound::DB00950	Fexofenadine	Disease::DOID:13189	gout	1	2019	2019-06-13	2019-06-13
+Compound::DB00950	Fexofenadine	Disease::DOID:7148	rheumatoid arthritis	1	2022	2022-06-01	2022-06-01
+Compound::DB00953	Rizatriptan	Disease::DOID:6364	migraine	1	2019	2019-03-04	2019-03-04
+Compound::DB00958	Carboplatin	Disease::DOID:10283	prostate cancer	6	2017,2018,2019,2020,2024	2017-01-13	2024-05-22
+Compound::DB00958	Carboplatin	Disease::DOID:10534	stomach cancer	1	2018	2018-12-03	2018-12-03
+Compound::DB00958	Carboplatin	Disease::DOID:1115	sarcoma	1	2019	2019-01-04	2019-01-04
+Compound::DB00958	Carboplatin	Disease::DOID:11819	ureter cancer	1	2018	2018-09-04	2018-09-04
+Compound::DB00958	Carboplatin	Disease::DOID:11934	head and neck cancer	13	2017,2018,2021,2022,2023,2024,2025	2017-12-01	2025-10-07
+Compound::DB00958	Carboplatin	Disease::DOID:1319	brain cancer	1	2022	2022-05-19	2022-05-19
+Compound::DB00958	Carboplatin	Disease::DOID:1324	lung cancer	20	2017,2018,2019,2021,2022,2023,2025	2017-02-24	2025-12-22
+Compound::DB00958	Carboplatin	Disease::DOID:1612	breast cancer	31	2017,2019,2020,2021,2022,2023,2024,2025,2026	2017-02-02	2026-09
+Compound::DB00958	Carboplatin	Disease::DOID:1790	malignant mesothelioma	1	2023	2023-09-21	2023-09-21
+Compound::DB00958	Carboplatin	Disease::DOID:1793	pancreatic cancer	2	2019,2020	2019-01-04	2020-11-12
+Compound::DB00958	Carboplatin	Disease::DOID:184	bone cancer	1	2019	2019-01-04	2019-01-04
+Compound::DB00958	Carboplatin	Disease::DOID:1909	melanoma	4	2019,2021,2023	2019-04-26	2023-11-01
+Compound::DB00958	Carboplatin	Disease::DOID:1964	fallopian tube cancer	23	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-03-08	2026-07-17
+Compound::DB00958	Carboplatin	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00958	Carboplatin	Disease::DOID:2394	ovarian cancer	39	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-03-08	2026-09-30
+Compound::DB00958	Carboplatin	Disease::DOID:2596	larynx cancer	1	2017	2017-12-19	2017-12-19
+Compound::DB00958	Carboplatin	Disease::DOID:263	kidney cancer	1	2018	2018-09-04	2018-09-04
+Compound::DB00958	Carboplatin	Disease::DOID:2998	testicular cancer	1	2019	2019-07-29	2019-07-29
+Compound::DB00958	Carboplatin	Disease::DOID:3070	malignant glioma	1	2019	2019-01-04	2019-01-04
+Compound::DB00958	Carboplatin	Disease::DOID:363	uterine cancer	1	2022	2022-12-07	2022-12-07
+Compound::DB00958	Carboplatin	Disease::DOID:4362	cervical cancer	16	2018,2019,2020,2021,2022,2023,2024,2026	2018-09-06	2026-01-19
+Compound::DB00958	Carboplatin	Disease::DOID:5041	esophageal cancer	13	2017,2019,2021,2022,2023,2024,2026	2017-02-24	2026-07-31
+Compound::DB00958	Carboplatin	Disease::DOID:8850	salivary gland cancer	3	2019,2021,2030	2019-10-28	2030-12-18
+Compound::DB00959	Methylprednisolone	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2023	2023-06-01	2023-06-01
+Compound::DB00959	Methylprednisolone	Disease::DOID:13189	gout	2	2019,2020	2019-06-13	2020-09-01
+Compound::DB00959	Methylprednisolone	Disease::DOID:1793	pancreatic cancer	1	2021	2021-06-18	2021-06-18
+Compound::DB00959	Methylprednisolone	Disease::DOID:2377	multiple sclerosis	5	2017,2018,2019,2020	2017-10-23	2020-12-03
+Compound::DB00959	Methylprednisolone	Disease::DOID:2841	asthma	1	2023	2023-11-26	2023-11-26
+Compound::DB00959	Methylprednisolone	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2021	2021-10-25	2021-10-25
+Compound::DB00959	Methylprednisolone	Disease::DOID:3393	coronary artery disease	1	2025	2025-09-01	2025-09-01
+Compound::DB00959	Methylprednisolone	Disease::DOID:8577	ulcerative colitis	2	2018,2022	2018-10-11	2022-10-06
+Compound::DB00959	Methylprednisolone	Disease::DOID:90	degenerative disc disease	1	2018	2018-05-22	2018-05-22
+Compound::DB00959	Methylprednisolone	Disease::DOID:9008	psoriatic arthritis	1	2019	2019-04-17	2019-04-17
+Compound::DB00959	Methylprednisolone	Disease::DOID:9074	systemic lupus erythematosus	2	2021,2022	2021-10-26	2022-12-31
+Compound::DB00966	Telmisartan	Disease::DOID:10283	prostate cancer	1	2024	2024-04-22	2024-04-22
+Compound::DB00966	Telmisartan	Disease::DOID:10763	hypertension	7	2017,2019,2020,2023	2017-09-11	2023-04-19
+Compound::DB00966	Telmisartan	Disease::DOID:1612	breast cancer	1	2026	2026-02	2026-02
+Compound::DB00966	Telmisartan	Disease::DOID:2394	ovarian cancer	1	2026	2026-01-21	2026-01-21
+Compound::DB00967	Desloratadine	Disease::DOID:4481	allergic rhinitis	2	2024	2024-07-08	2024-11-11
+Compound::DB00967	Desloratadine	Disease::DOID:7148	rheumatoid arthritis	1	2026	2026-04-23	2026-04-23
+Compound::DB00967	Desloratadine	Disease::DOID:8577	ulcerative colitis	1	2026	2026-01-26	2026-01-26
+Compound::DB00972	Azelastine	Disease::DOID:4481	allergic rhinitis	1	2020	2020-01-16	2020-01-16
+Compound::DB00973	Ezetimibe	Disease::DOID:10283	prostate cancer	1	2024	2024-07-16	2024-07-16
+Compound::DB00983	Formoterol	Disease::DOID:2841	asthma	1	2017	2017-06-19	2017-06-19
+Compound::DB00983	Formoterol	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2017	2017-11-01	2017-11-01
+Compound::DB00986	Glycopyrrolate	Disease::DOID:3393	coronary artery disease	1	2019	2019-05-01	2019-05-01
+Compound::DB00989	Rivastigmine	Disease::DOID:10652	Alzheimer's disease	1	2018	2018-12-31	2018-12-31
+Compound::DB00990	Exemestane	Disease::DOID:1612	breast cancer	12	2017,2019,2020,2023,2024,2025	2017-01-17	2025-08-05
+Compound::DB00990	Exemestane	Disease::DOID:2394	ovarian cancer	1	2020	2020-02-13	2020-02-13
+Compound::DB00993	Azathioprine	Disease::DOID:12306	vitiligo	1	2025	2025-03-01	2025-03-01
+Compound::DB00993	Azathioprine	Disease::DOID:3310	atopic dermatitis	1	2026	2026-08-01	2026-08-01
+Compound::DB00993	Azathioprine	Disease::DOID:7148	rheumatoid arthritis	1	2018	2018-03-05	2018-03-05
+Compound::DB00993	Azathioprine	Disease::DOID:8577	ulcerative colitis	2	2021,2025	2021-06-01	2025-02-01
+Compound::DB00993	Azathioprine	Disease::DOID:8893	psoriasis	1	2026	2026-08-01	2026-08-01
+Compound::DB00996	Gabapentin	Disease::DOID:0050425	restless legs syndrome	2	2019	2019-02-19	2019-05-01
+Compound::DB00996	Gabapentin	Disease::DOID:11934	head and neck cancer	2	2019,2022	2019-11-01	2022-01-24
+Compound::DB00996	Gabapentin	Disease::DOID:1612	breast cancer	2	2017,2021	2017-06-07	2021-01-01
+Compound::DB00996	Gabapentin	Disease::DOID:1993	rectum cancer	1	2017	2017-01	2017-01
+Compound::DB00996	Gabapentin	Disease::DOID:219	colon cancer	1	2017	2017-01	2017-01
+Compound::DB00996	Gabapentin	Disease::DOID:3312	bipolar disorder	2	2017,2022	2017-08-07	2022-02-24
+Compound::DB00997	Doxorubicin	Disease::DOID:10534	stomach cancer	1	2018	2018-05-15	2018-05-15
+Compound::DB00997	Doxorubicin	Disease::DOID:1115	sarcoma	3	2019,2020,2026	2019-01-04	2026-12
+Compound::DB00997	Doxorubicin	Disease::DOID:1612	breast cancer	12	2017,2019,2021,2022,2023,2026	2017-05-08	2026-09
+Compound::DB00997	Doxorubicin	Disease::DOID:1793	pancreatic cancer	1	2019	2019-01-04	2019-01-04
+Compound::DB00997	Doxorubicin	Disease::DOID:184	bone cancer	1	2019	2019-01-04	2019-01-04
+Compound::DB00997	Doxorubicin	Disease::DOID:1964	fallopian tube cancer	1	2018	2018-05-15	2018-05-15
+Compound::DB00997	Doxorubicin	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB00997	Doxorubicin	Disease::DOID:2394	ovarian cancer	6	2018,2021,2023,2024,2025	2018-05-15	2025-03-13
+Compound::DB00997	Doxorubicin	Disease::DOID:3070	malignant glioma	1	2019	2019-01-04	2019-01-04
+Compound::DB00997	Doxorubicin	Disease::DOID:363	uterine cancer	1	2018	2018-05-15	2018-05-15
+Compound::DB00997	Doxorubicin	Disease::DOID:4362	cervical cancer	2	2017,2018	2017-08-30	2018-05-15
+Compound::DB00999	Hydrochlorothiazide	Disease::DOID:10763	hypertension	3	2017,2019,2021	2017-04-10	2021-10-01
+Compound::DB00999	Hydrochlorothiazide	Disease::DOID:1909	melanoma	1	2019	2019-05-27	2019-05-27
+Compound::DB00999	Hydrochlorothiazide	Disease::DOID:585	nephrolithiasis	1	2018	2018-05-11	2018-05-11
+Compound::DB00999	Hydrochlorothiazide	Disease::DOID:9352	type 2 diabetes mellitus	1	2018	2018-01-03	2018-01-03
+Compound::DB01001	Salbutamol	Disease::DOID:2841	asthma	8	2017,2018,2021,2024,2025	2017-06-22	2025-10-30
+Compound::DB01001	Salbutamol	Disease::DOID:3083	chronic obstructive pulmonary disease	2	2019,2021	2019-01-11	2021-02-01
+Compound::DB01001	Salbutamol	Disease::DOID:332	amyotrophic lateral sclerosis	1	2024	2024-09	2024-09
+Compound::DB01002	Levobupivacaine	Disease::DOID:11934	head and neck cancer	1	2018	2018-09-01	2018-09-01
+Compound::DB01002	Levobupivacaine	Disease::DOID:1612	breast cancer	2	2018,2020	2018-12-01	2020-08-01
+Compound::DB01004	Ganciclovir	Disease::DOID:1115	sarcoma	1	2022	2022-01-01	2022-01-01
+Compound::DB01004	Ganciclovir	Disease::DOID:1909	melanoma	1	2022	2022-01-01	2022-01-01
+Compound::DB01005	Hydroxyurea	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2018	2018-04-19	2018-04-19
+Compound::DB01005	Hydroxyurea	Disease::DOID:11934	head and neck cancer	1	2023	2023-03-07	2023-03-07
+Compound::DB01005	Hydroxyurea	Disease::DOID:12365	malaria	1	2017	2017-07-26	2017-07-26
+Compound::DB01006	Letrozole	Disease::DOID:10283	prostate cancer	1	2020	2020-09-23	2020-09-23
+Compound::DB01006	Letrozole	Disease::DOID:11612	polycystic ovary syndrome	7	2018,2020,2021,2024,2026	2018-08-13	2026-03-30
+Compound::DB01006	Letrozole	Disease::DOID:11934	head and neck cancer	1	2022	2022-07-07	2022-07-07
+Compound::DB01006	Letrozole	Disease::DOID:1612	breast cancer	40	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-04-20	2026-10-01
+Compound::DB01006	Letrozole	Disease::DOID:1964	fallopian tube cancer	1	2023	2023-08-30	2023-08-30
+Compound::DB01006	Letrozole	Disease::DOID:2394	ovarian cancer	2	2018,2021	2018-05-04	2021-10-07
+Compound::DB01006	Letrozole	Disease::DOID:363	uterine cancer	1	2017	2017-09-07	2017-09-07
+Compound::DB01008	Busulfan	Disease::DOID:1115	sarcoma	1	2017	2017-07-26	2017-07-26
+Compound::DB01008	Busulfan	Disease::DOID:2355	anemia	1	2018	2018-03-30	2018-03-30
+Compound::DB01009	Ketoprofen	Disease::DOID:2377	multiple sclerosis	1	2022	2022-06-07	2022-06-07
+Compound::DB01009	Ketoprofen	Disease::DOID:6364	migraine	1	2021	2021-07-08	2021-07-08
+Compound::DB01013	Clobetasol propionate	Disease::DOID:11476	osteoporosis	1	2020	2020-12-11	2020-12-11
+Compound::DB01013	Clobetasol propionate	Disease::DOID:7148	rheumatoid arthritis	1	2020	2020-12-01	2020-12-01
+Compound::DB01016	Glyburide	Disease::DOID:11714	gestational diabetes	1	2018	2018-02-28	2018-02-28
+Compound::DB01017	Minocycline	Disease::DOID:3312	bipolar disorder	1	2017	2017-08-09	2017-08-09
+Compound::DB01017	Minocycline	Disease::DOID:5419	schizophrenia	2	2017,2022	2017-03-31	2022-08-30
+Compound::DB01020	Isosorbide Mononitrate	Disease::DOID:10763	hypertension	1	2019	2019-09-26	2019-09-26
+Compound::DB01029	Irbesartan	Disease::DOID:10763	hypertension	1	2019	2019-05-01	2019-05-01
+Compound::DB01029	Irbesartan	Disease::DOID:1312	focal segmental glomerulosclerosis	1	2018	2018-04-17	2018-04-17
+Compound::DB01030	Topotecan	Disease::DOID:1324	lung cancer	2	2018,2023	2018-09-11	2023-02-22
+Compound::DB01030	Topotecan	Disease::DOID:1964	fallopian tube cancer	4	2019,2022,2023,2026	2019-12-31	2026-07
+Compound::DB01030	Topotecan	Disease::DOID:2394	ovarian cancer	9	2017,2018,2020,2021,2023,2024,2025,2026	2017-09-01	2026-05-13
+Compound::DB01030	Topotecan	Disease::DOID:4362	cervical cancer	2	2021,2024	2021-02-22	2024-07-24
+Compound::DB01032	Probenecid	Disease::DOID:13189	gout	1	2021	2021-02-01	2021-02-01
+Compound::DB01032	Probenecid	Disease::DOID:9352	type 2 diabetes mellitus	2	2017,2022	2017-09-27	2022-02-21
+Compound::DB01042	Melphalan	Disease::DOID:1793	pancreatic cancer	1	2021	2021-01-13	2021-01-13
+Compound::DB01042	Melphalan	Disease::DOID:3070	malignant glioma	1	2021	2021-01-14	2021-01-14
+Compound::DB01043	Memantine	Disease::DOID:10652	Alzheimer's disease	1	2018	2018-09-30	2018-09-30
+Compound::DB01043	Memantine	Disease::DOID:11476	osteoporosis	1	2025	2025-02-03	2025-02-03
+Compound::DB01043	Memantine	Disease::DOID:332	amyotrophic lateral sclerosis	1	2018	2018-11-07	2018-11-07
+Compound::DB01043	Memantine	Disease::DOID:5419	schizophrenia	2	2018,2021	2018-04-01	2021-07-06
+Compound::DB01045	Rifampicin	Disease::DOID:1024	leprosy	1	2019	2019-01-02	2019-01-02
+Compound::DB01045	Rifampicin	Disease::DOID:14330	Parkinson's disease	1	2019	2019-08-27	2019-08-27
+Compound::DB01045	Rifampicin	Disease::DOID:2377	multiple sclerosis	1	2020	2020-05-18	2020-05-18
+Compound::DB01050	Ibuprofen	Disease::DOID:10283	prostate cancer	1	2018	2018-05-01	2018-05-01
+Compound::DB01050	Ibuprofen	Disease::DOID:12365	malaria	2	2019	2019-01-07	2019-05-23
+Compound::DB01050	Ibuprofen	Disease::DOID:263	kidney cancer	1	2023	2023-09-15	2023-09-15
+Compound::DB01050	Ibuprofen	Disease::DOID:6364	migraine	1	2024	2024-05-15	2024-05-15
+Compound::DB01054	Nitrendipine	Disease::DOID:10763	hypertension	1	2021	2021-09-27	2021-09-27
+Compound::DB01058	Praziquantel	Disease::DOID:12365	malaria	1	2022	2022-06-16	2022-06-16
+Compound::DB01060	Amoxicillin	Disease::DOID:824	periodontitis	4	2017,2018,2024	2017-04-01	2024-04-25
+Compound::DB01062	Oxybutynin	Disease::DOID:1612	breast cancer	1	2024	2024-10-03	2024-10-03
+Compound::DB01062	Oxybutynin	Disease::DOID:585	nephrolithiasis	1	2021	2021-09-30	2021-09-30
+Compound::DB01065	Melatonin	Disease::DOID:10763	hypertension	1	2018	2018-03-01	2018-03-01
+Compound::DB01065	Melatonin	Disease::DOID:1094	attention deficit hyperactivity disorder	2	2019	2019-01-01	2019-05-31
+Compound::DB01065	Melatonin	Disease::DOID:11714	gestational diabetes	1	2026	2026-02	2026-02
+Compound::DB01065	Melatonin	Disease::DOID:1612	breast cancer	3	2019,2022,2025	2019-04-30	2025-07
+Compound::DB01065	Melatonin	Disease::DOID:2377	multiple sclerosis	1	2019	2019-09-23	2019-09-23
+Compound::DB01065	Melatonin	Disease::DOID:3310	atopic dermatitis	1	2019	2019-02-02	2019-02-02
+Compound::DB01065	Melatonin	Disease::DOID:3312	bipolar disorder	1	2024	2024-08-13	2024-08-13
+Compound::DB01065	Melatonin	Disease::DOID:3393	coronary artery disease	1	2022	2022-10	2022-10
+Compound::DB01065	Melatonin	Disease::DOID:6364	migraine	2	2017	2017-08-02	2017-09-25
+Compound::DB01065	Melatonin	Disease::DOID:9352	type 2 diabetes mellitus	1	2019	2019-09-26	2019-09-26
+Compound::DB01067	Glipizide	Disease::DOID:1793	pancreatic cancer	1	2023	2023-12-05	2023-12-05
+Compound::DB01073	Fludarabine	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2018	2018-04-19	2018-04-19
+Compound::DB01073	Fludarabine	Disease::DOID:10283	prostate cancer	1	2017	2017-03-08	2017-03-08
+Compound::DB01073	Fludarabine	Disease::DOID:10534	stomach cancer	2	2020,2024	2020-05-15	2024-09-10
+Compound::DB01073	Fludarabine	Disease::DOID:1115	sarcoma	3	2017,2019,2026	2017-07-26	2026-01-21
+Compound::DB01073	Fludarabine	Disease::DOID:11934	head and neck cancer	6	2019,2022,2024,2025,2026	2019-02-15	2026-05
+Compound::DB01073	Fludarabine	Disease::DOID:1319	brain cancer	1	2024	2024-10-20	2024-10-20
+Compound::DB01073	Fludarabine	Disease::DOID:1324	lung cancer	1	2024	2024-08-20	2024-08-20
+Compound::DB01073	Fludarabine	Disease::DOID:1612	breast cancer	8	2017,2018,2022,2023,2024	2017-04-06	2024-10-31
+Compound::DB01073	Fludarabine	Disease::DOID:1793	pancreatic cancer	10	2017,2019,2020,2021,2022,2023,2025	2017-04-06	2025-09-09
+Compound::DB01073	Fludarabine	Disease::DOID:1909	melanoma	7	2017,2018,2019,2020,2022,2024,2025	2017-04-06	2025-12-03
+Compound::DB01073	Fludarabine	Disease::DOID:1964	fallopian tube cancer	2	2019,2024	2019-10-10	2024-07-11
+Compound::DB01073	Fludarabine	Disease::DOID:1993	rectum cancer	1	2024	2024-09-29	2024-09-29
+Compound::DB01073	Fludarabine	Disease::DOID:219	colon cancer	4	2017,2019,2020,2024	2017-09-21	2024-09-29
+Compound::DB01073	Fludarabine	Disease::DOID:2355	anemia	1	2018	2018-03-30	2018-03-30
+Compound::DB01073	Fludarabine	Disease::DOID:2377	multiple sclerosis	4	2024,2025,2026	2024-03-28	2026-06-30
+Compound::DB01073	Fludarabine	Disease::DOID:2394	ovarian cancer	15	2017,2018,2019,2022,2023,2024,2026	2017-04-06	2026-12-01
+Compound::DB01073	Fludarabine	Disease::DOID:2994	germ cell cancer	1	2022	2022-07-06	2022-07-06
+Compound::DB01073	Fludarabine	Disease::DOID:3070	malignant glioma	2	2026	2026-02-02	2026-03-02
+Compound::DB01073	Fludarabine	Disease::DOID:3565	meningioma	1	2024	2024-10-20	2024-10-20
+Compound::DB01073	Fludarabine	Disease::DOID:4159	skin cancer	1	2026	2026-02-10	2026-02-10
+Compound::DB01073	Fludarabine	Disease::DOID:4362	cervical cancer	1	2019	2019-02-15	2019-02-15
+Compound::DB01073	Fludarabine	Disease::DOID:5041	esophageal cancer	2	2020,2024	2020-05-15	2024-09-10
+Compound::DB01073	Fludarabine	Disease::DOID:7148	rheumatoid arthritis	3	2023,2024	2023-09-13	2024-11-04
+Compound::DB01073	Fludarabine	Disease::DOID:784	chronic kidney failure	1	2024	2024-05-09	2024-05-09
+Compound::DB01073	Fludarabine	Disease::DOID:8778	Crohn's disease	1	2019	2019-11	2019-11
+Compound::DB01073	Fludarabine	Disease::DOID:9074	systemic lupus erythematosus	6	2023,2024,2025,2026	2023-09-13	2026-07
+Compound::DB01075	Diphenhydramine	Disease::DOID:10534	stomach cancer	1	2018	2018-12-03	2018-12-03
+Compound::DB01075	Diphenhydramine	Disease::DOID:1324	lung cancer	2	2018,2020	2018-09-11	2020-02-14
+Compound::DB01075	Diphenhydramine	Disease::DOID:1612	breast cancer	1	2020	2020-02-14	2020-02-14
+Compound::DB01075	Diphenhydramine	Disease::DOID:2377	multiple sclerosis	2	2020,2026	2020-02-05	2026-09-01
+Compound::DB01075	Diphenhydramine	Disease::DOID:2394	ovarian cancer	1	2020	2020-02-14	2020-02-14
+Compound::DB01075	Diphenhydramine	Disease::DOID:3310	atopic dermatitis	1	2019	2019-02-02	2019-02-02
+Compound::DB01075	Diphenhydramine	Disease::DOID:4362	cervical cancer	1	2020	2020-02-14	2020-02-14
+Compound::DB01075	Diphenhydramine	Disease::DOID:4481	allergic rhinitis	1	2022	2022-11-21	2022-11-21
+Compound::DB01075	Diphenhydramine	Disease::DOID:6364	migraine	1	2023	2023-06-27	2023-06-27
+Compound::DB01076	Atorvastatin	Disease::DOID:10283	prostate cancer	3	2019,2021,2023	2019-06-06	2023-03-31
+Compound::DB01076	Atorvastatin	Disease::DOID:10763	hypertension	2	2021,2022	2021-09-09	2022-09-30
+Compound::DB01076	Atorvastatin	Disease::DOID:10941	intracranial aneurysm	1	2019	2019-11-07	2019-11-07
+Compound::DB01076	Atorvastatin	Disease::DOID:11934	head and neck cancer	1	2024	2024-07-10	2024-07-10
+Compound::DB01076	Atorvastatin	Disease::DOID:1612	breast cancer	1	2023	2023-03-31	2023-03-31
+Compound::DB01076	Atorvastatin	Disease::DOID:1909	melanoma	1	2025	2025-02	2025-02
+Compound::DB01076	Atorvastatin	Disease::DOID:1936	atherosclerosis	1	2025	2025-02	2025-02
+Compound::DB01076	Atorvastatin	Disease::DOID:2394	ovarian cancer	1	2023	2023-03-31	2023-03-31
+Compound::DB01076	Atorvastatin	Disease::DOID:263	kidney cancer	1	2023	2023-03-31	2023-03-31
+Compound::DB01076	Atorvastatin	Disease::DOID:3393	coronary artery disease	1	2018	2018-04-01	2018-04-01
+Compound::DB01076	Atorvastatin	Disease::DOID:5419	schizophrenia	1	2025	2025-07-01	2025-07-01
+Compound::DB01076	Atorvastatin	Disease::DOID:7148	rheumatoid arthritis	1	2020	2020-11-04	2020-11-04
+Compound::DB01076	Atorvastatin	Disease::DOID:9352	type 2 diabetes mellitus	1	2024	2024-02-08	2024-02-08
+Compound::DB01076	Atorvastatin	Disease::DOID:9970	obesity	2	2024,2026	2024-08-28	2026-04-08
+Compound::DB01080	Vigabatrin	Disease::DOID:9970	obesity	1	2021	2021-08-23	2021-08-23
+Compound::DB01083	Orlistat	Disease::DOID:11612	polycystic ovary syndrome	1	2026	2026-01-01	2026-01-01
+Compound::DB01083	Orlistat	Disease::DOID:9970	obesity	2	2020,2025	2020-09-01	2025-03-01
+Compound::DB01085	Pilocarpine	Disease::DOID:1686	glaucoma	1	2019	2019-05-01	2019-05-01
+Compound::DB01087	Primaquine	Disease::DOID:12365	malaria	9	2019,2021,2022,2024	2019-01-11	2024-04-18
+Compound::DB01088	Iloprost	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2024	2024-06-01	2024-06-01
+Compound::DB01093	Dimethyl sulfoxide	Disease::DOID:1612	breast cancer	1	2019	2019-04-30	2019-04-30
+Compound::DB01097	Leflunomide	Disease::DOID:1324	lung cancer	1	2023	2023-10-03	2023-10-03
+Compound::DB01097	Leflunomide	Disease::DOID:1909	melanoma	1	2023	2023-10-03	2023-10-03
+Compound::DB01097	Leflunomide	Disease::DOID:7148	rheumatoid arthritis	2	2018,2025	2018-03-05	2025-05-05
+Compound::DB01097	Leflunomide	Disease::DOID:9008	psoriatic arthritis	4	2019,2020,2025	2019-04-17	2025-05-05
+Compound::DB01098	Rosuvastatin	Disease::DOID:10283	prostate cancer	1	2020	2020-01-27	2020-01-27
+Compound::DB01098	Rosuvastatin	Disease::DOID:12365	malaria	1	2022	2022-03-09	2022-03-09
+Compound::DB01098	Rosuvastatin	Disease::DOID:14330	Parkinson's disease	1	2019	2019-05-22	2019-05-22
+Compound::DB01098	Rosuvastatin	Disease::DOID:1936	atherosclerosis	1	2021	2021-04-01	2021-04-01
+Compound::DB01098	Rosuvastatin	Disease::DOID:3393	coronary artery disease	2	2023,2024	2023-12-07	2024-03-15
+Compound::DB01098	Rosuvastatin	Disease::DOID:7148	rheumatoid arthritis	1	2020	2020-11-04	2020-11-04
+Compound::DB01098	Rosuvastatin	Disease::DOID:8893	psoriasis	1	2021	2021-04-01	2021-04-01
+Compound::DB01098	Rosuvastatin	Disease::DOID:9008	psoriatic arthritis	2	2021	2021-04-01	2021-04-01
+Compound::DB01098	Rosuvastatin	Disease::DOID:9352	type 2 diabetes mellitus	1	2024	2024-02-08	2024-02-08
+Compound::DB01098	Rosuvastatin	Disease::DOID:9970	obesity	3	2024,2025	2024-02-20	2025-06-04
+Compound::DB01101	Capecitabine	Disease::DOID:10534	stomach cancer	2	2018,2020	2018-03-07	2020-03-01
+Compound::DB01101	Capecitabine	Disease::DOID:1115	sarcoma	1	2019	2019-03-01	2019-03-01
+Compound::DB01101	Capecitabine	Disease::DOID:1319	brain cancer	1	2017	2017-06-13	2017-06-13
+Compound::DB01101	Capecitabine	Disease::DOID:1612	breast cancer	35	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-07-19	2026-07-01
+Compound::DB01101	Capecitabine	Disease::DOID:1793	pancreatic cancer	11	2017,2018,2019,2020,2024	2017-08-11	2024-09
+Compound::DB01101	Capecitabine	Disease::DOID:1909	melanoma	1	2017	2017-12	2017-12
+Compound::DB01101	Capecitabine	Disease::DOID:1993	rectum cancer	1	2020	2020-05-25	2020-05-25
+Compound::DB01101	Capecitabine	Disease::DOID:219	colon cancer	5	2018,2020,2024,2025	2018-05	2025-05-15
+Compound::DB01101	Capecitabine	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB01101	Capecitabine	Disease::DOID:2394	ovarian cancer	2	2017,2022	2017-12	2022-09-06
+Compound::DB01101	Capecitabine	Disease::DOID:2596	larynx cancer	1	2026	2026-01-01	2026-01-01
+Compound::DB01101	Capecitabine	Disease::DOID:3121	gallbladder cancer	2	2017,2024	2017-06-14	2024-11-12
+Compound::DB01101	Capecitabine	Disease::DOID:3571	liver cancer	1	2017	2017-06-14	2017-06-14
+Compound::DB01101	Capecitabine	Disease::DOID:4606	bile duct cancer	2	2017,2024	2017-06-14	2024-05-08
+Compound::DB01101	Capecitabine	Disease::DOID:5041	esophageal cancer	5	2019,2024,2025,2026	2019-05-01	2026-02-03
+Compound::DB01104	Sertraline	Disease::DOID:10763	hypertension	1	2017	2017-11	2017-11
+Compound::DB01112	Cefuroxime	Disease::DOID:1793	pancreatic cancer	1	2023	2023-03-06	2023-03-06
+Compound::DB01113	Papaverine	Disease::DOID:263	kidney cancer	1	2019	2019-11-21	2019-11-21
+Compound::DB01115	Nifedipine	Disease::DOID:10763	hypertension	1	2018	2018-08-13	2018-08-13
+Compound::DB01120	Gliclazide	Disease::DOID:9352	type 2 diabetes mellitus	2	2018,2024	2018-08-03	2024-04-01
+Compound::DB01126	Dutasteride	Disease::DOID:10283	prostate cancer	1	2023	2023-02	2023-02
+Compound::DB01128	Bicalutamide	Disease::DOID:10283	prostate cancer	9	2017,2018,2019,2020,2026	2017-02-22	2026-07-31
+Compound::DB01128	Bicalutamide	Disease::DOID:1612	breast cancer	1	2019	2019-04-03	2019-04-03
+Compound::DB01128	Bicalutamide	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB01129	Rabeprazole	Disease::DOID:332	amyotrophic lateral sclerosis	1	2017	2017-08-07	2017-08-07
+Compound::DB01132	Pioglitazone	Disease::DOID:11612	polycystic ovary syndrome	1	2018	2018-02-01	2018-02-01
+Compound::DB01132	Pioglitazone	Disease::DOID:2377	multiple sclerosis	1	2017	2017-08-11	2017-08-11
+Compound::DB01136	Carvedilol	Disease::DOID:10283	prostate cancer	1	2017	2017-04-01	2017-04-01
+Compound::DB01136	Carvedilol	Disease::DOID:1115	sarcoma	1	2020	2020-09-01	2020-09-01
+Compound::DB01136	Carvedilol	Disease::DOID:7148	rheumatoid arthritis	1	2024	2024-06-01	2024-06-01
+Compound::DB01137	Levofloxacin	Disease::DOID:585	nephrolithiasis	1	2019	2019-09-01	2019-09-01
+Compound::DB01156	Bupropion	Disease::DOID:1612	breast cancer	1	2023	2023-06-07	2023-06-07
+Compound::DB01156	Bupropion	Disease::DOID:5419	schizophrenia	2	2017	2017-03-27	2017-06-01
+Compound::DB01156	Bupropion	Disease::DOID:9970	obesity	1	2017	2017-06-01	2017-06-01
+Compound::DB01165	Ofloxacin	Disease::DOID:1686	glaucoma	1	2019	2019-05-01	2019-05-01
+Compound::DB01165	Ofloxacin	Disease::DOID:824	periodontitis	1	2017	2017-04-01	2017-04-01
+Compound::DB01166	Cilostazol	Disease::DOID:14330	Parkinson's disease	1	2024	2024-10-01	2024-10-01
+Compound::DB01166	Cilostazol	Disease::DOID:1612	breast cancer	1	2022	2022-03-28	2022-03-28
+Compound::DB01166	Cilostazol	Disease::DOID:1936	atherosclerosis	2	2024,2026	2024-04-16	2026-05-06
+Compound::DB01166	Cilostazol	Disease::DOID:2377	multiple sclerosis	1	2017	2017-08-11	2017-08-11
+Compound::DB01166	Cilostazol	Disease::DOID:6364	migraine	1	2020	2020-07-22	2020-07-22
+Compound::DB01166	Cilostazol	Disease::DOID:7148	rheumatoid arthritis	1	2022	2022-10-01	2022-10-01
+Compound::DB01167	Itraconazole	Disease::DOID:10283	prostate cancer	1	2023	2023-02-13	2023-02-13
+Compound::DB01167	Itraconazole	Disease::DOID:10608	celiac disease	1	2020	2020-11-04	2020-11-04
+Compound::DB01167	Itraconazole	Disease::DOID:10652	Alzheimer's disease	2	2017,2024	2017-10	2024-10-03
+Compound::DB01167	Itraconazole	Disease::DOID:11612	polycystic ovary syndrome	1	2017	2017-04-27	2017-04-27
+Compound::DB01167	Itraconazole	Disease::DOID:12365	malaria	1	2021	2021-11-18	2021-11-18
+Compound::DB01167	Itraconazole	Disease::DOID:1964	fallopian tube cancer	1	2026	2026-01-26	2026-01-26
+Compound::DB01167	Itraconazole	Disease::DOID:2043	hepatitis B	2	2019,2020	2019-10-18	2020-11-05
+Compound::DB01167	Itraconazole	Disease::DOID:2394	ovarian cancer	1	2026	2026-01-26	2026-01-26
+Compound::DB01167	Itraconazole	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2021	2021-02-22	2021-02-22
+Compound::DB01167	Itraconazole	Disease::DOID:3312	bipolar disorder	1	2026	2026-08-21	2026-08-21
+Compound::DB01167	Itraconazole	Disease::DOID:332	amyotrophic lateral sclerosis	1	2022	2022-02-18	2022-02-18
+Compound::DB01167	Itraconazole	Disease::DOID:9970	obesity	1	2023	2023-11-15	2023-11-15
+Compound::DB01173	Orphenadrine	Disease::DOID:1993	rectum cancer	1	2017	2017-01	2017-01
+Compound::DB01173	Orphenadrine	Disease::DOID:219	colon cancer	1	2017	2017-01	2017-01
+Compound::DB01175	Escitalopram	Disease::DOID:2841	asthma	1	2025	2025-05-19	2025-05-19
+Compound::DB01175	Escitalopram	Disease::DOID:594	panic disorder	1	2018	2018-06-18	2018-06-18
+Compound::DB01181	Ifosfamide	Disease::DOID:11615	penile cancer	1	2020	2020-08-12	2020-08-12
+Compound::DB01183	Naloxone	Disease::DOID:9970	obesity	1	2017	2017-05-20	2017-05-20
+Compound::DB01189	Desflurane	Disease::DOID:9970	obesity	2	2019,2026	2019-05-01	2026-08-03
+Compound::DB01195	Flecainide	Disease::DOID:3393	coronary artery disease	1	2026	2026-09	2026-09
+Compound::DB01200	Bromocriptine	Disease::DOID:5419	schizophrenia	1	2026	2026-01-01	2026-01-01
+Compound::DB01200	Bromocriptine	Disease::DOID:9970	obesity	1	2018	2018-05-03	2018-05-03
+Compound::DB01202	Levetiracetam	Disease::DOID:1826	epilepsy syndrome	1	2018	2018-10-28	2018-10-28
+Compound::DB01202	Levetiracetam	Disease::DOID:5419	schizophrenia	2	2017,2018	2017-08-18	2018-08-15
+Compound::DB01206	Lomustine	Disease::DOID:1115	sarcoma	1	2019	2019-01-04	2019-01-04
+Compound::DB01206	Lomustine	Disease::DOID:1319	brain cancer	1	2026	2026-06-30	2026-06-30
+Compound::DB01206	Lomustine	Disease::DOID:1793	pancreatic cancer	1	2019	2019-01-04	2019-01-04
+Compound::DB01206	Lomustine	Disease::DOID:184	bone cancer	1	2019	2019-01-04	2019-01-04
+Compound::DB01206	Lomustine	Disease::DOID:3070	malignant glioma	2	2017,2019	2017-06-01	2019-01-04
+Compound::DB01211	Clarithromycin	Disease::DOID:10283	prostate cancer	1	2017	2017-03-21	2017-03-21
+Compound::DB01211	Clarithromycin	Disease::DOID:14330	Parkinson's disease	1	2019	2019-08-27	2019-08-27
+Compound::DB01212	Ceftriaxone	Disease::DOID:8577	ulcerative colitis	1	2019	2019-04-01	2019-04-01
+Compound::DB01217	Anastrozole	Disease::DOID:1612	breast cancer	16	2017,2019,2020,2022,2023,2024,2025,2026	2017-01-17	2026-10-01
+Compound::DB01219	Dantrolene	Disease::DOID:2377	multiple sclerosis	1	2017	2017-08-11	2017-08-11
+Compound::DB01220	Rifaximin	Disease::DOID:8778	Crohn's disease	1	2019	2019-11	2019-11
+Compound::DB01221	Ketamine	Disease::DOID:0050741	alcohol dependence	1	2025	2025-06-12	2025-06-12
+Compound::DB01221	Ketamine	Disease::DOID:10283	prostate cancer	1	2023	2023-04-18	2023-04-18
+Compound::DB01221	Ketamine	Disease::DOID:11934	head and neck cancer	1	2022	2022-01-24	2022-01-24
+Compound::DB01221	Ketamine	Disease::DOID:14330	Parkinson's disease	1	2026	2026-03-01	2026-03-01
+Compound::DB01221	Ketamine	Disease::DOID:1612	breast cancer	2	2018,2020	2018-09-20	2020-08-01
+Compound::DB01221	Ketamine	Disease::DOID:1793	pancreatic cancer	2	2022,2023	2022-10-20	2023-07-18
+Compound::DB01221	Ketamine	Disease::DOID:1993	rectum cancer	1	2017	2017-01	2017-01
+Compound::DB01221	Ketamine	Disease::DOID:219	colon cancer	1	2017	2017-01	2017-01
+Compound::DB01221	Ketamine	Disease::DOID:2377	multiple sclerosis	2	2018,2023	2018-08-10	2023-12-05
+Compound::DB01221	Ketamine	Disease::DOID:3312	bipolar disorder	7	2018,2019,2020,2021,2023,2024	2018-11-29	2024-01-19
+Compound::DB01221	Ketamine	Disease::DOID:3393	coronary artery disease	1	2019	2019-08-20	2019-08-20
+Compound::DB01221	Ketamine	Disease::DOID:5419	schizophrenia	2	2017,2019	2017-01-02	2019-05-24
+Compound::DB01221	Ketamine	Disease::DOID:9970	obesity	1	2017	2017-02-22	2017-02-22
+Compound::DB01222	Budesonide	Disease::DOID:2841	asthma	6	2017,2019,2020,2023	2017-03-27	2023-05-11
+Compound::DB01222	Budesonide	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2025	2025-02-12	2025-02-12
+Compound::DB01222	Budesonide	Disease::DOID:4481	allergic rhinitis	1	2020	2020-01-16	2020-01-16
+Compound::DB01223	Aminophylline	Disease::DOID:2841	asthma	1	2018	2018-06	2018-06
+Compound::DB01224	Quetiapine	Disease::DOID:14330	Parkinson's disease	1	2019	2019-10-23	2019-10-23
+Compound::DB01224	Quetiapine	Disease::DOID:3312	bipolar disorder	3	2017,2018,2020	2017-01-20	2020-11-05
+Compound::DB01224	Quetiapine	Disease::DOID:5419	schizophrenia	3	2018,2021	2018-05-21	2021-05
+Compound::DB01225	Enoxaparin	Disease::DOID:11934	head and neck cancer	1	2025	2025-10	2025-10
+Compound::DB01225	Enoxaparin	Disease::DOID:2394	ovarian cancer	1	2018	2018-07-25	2018-07-25
+Compound::DB01229	Paclitaxel	Disease::DOID:10283	prostate cancer	1	2020	2020-11-12	2020-11-12
+Compound::DB01229	Paclitaxel	Disease::DOID:10534	stomach cancer	4	2018,2019,2020	2018-11-16	2020-09-01
+Compound::DB01229	Paclitaxel	Disease::DOID:1115	sarcoma	1	2019	2019-01-04	2019-01-04
+Compound::DB01229	Paclitaxel	Disease::DOID:11934	head and neck cancer	7	2021,2022,2024,2025	2021-01-20	2025-10-07
+Compound::DB01229	Paclitaxel	Disease::DOID:1319	brain cancer	1	2022	2022-05-19	2022-05-19
+Compound::DB01229	Paclitaxel	Disease::DOID:1324	lung cancer	9	2017,2019,2021,2022,2023	2017-02-24	2023-02-22
+Compound::DB01229	Paclitaxel	Disease::DOID:1612	breast cancer	36	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-06-23	2026-08-11
+Compound::DB01229	Paclitaxel	Disease::DOID:1793	pancreatic cancer	2	2019,2020	2019-01-04	2020-11-12
+Compound::DB01229	Paclitaxel	Disease::DOID:184	bone cancer	1	2019	2019-01-04	2019-01-04
+Compound::DB01229	Paclitaxel	Disease::DOID:1909	melanoma	3	2019,2023	2019-04-26	2023-11-01
+Compound::DB01229	Paclitaxel	Disease::DOID:1936	atherosclerosis	1	2017	2017-03-02	2017-03-02
+Compound::DB01229	Paclitaxel	Disease::DOID:1964	fallopian tube cancer	22	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-03-08	2026-07-17
+Compound::DB01229	Paclitaxel	Disease::DOID:2394	ovarian cancer	52	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-03-08	2026-08
+Compound::DB01229	Paclitaxel	Disease::DOID:3070	malignant glioma	1	2019	2019-01-04	2019-01-04
+Compound::DB01229	Paclitaxel	Disease::DOID:363	uterine cancer	2	2018,2025	2018-03-05	2025-10-17
+Compound::DB01229	Paclitaxel	Disease::DOID:4362	cervical cancer	15	2018,2019,2020,2021,2022,2023,2024,2026	2018-09-06	2026-01-19
+Compound::DB01229	Paclitaxel	Disease::DOID:5041	esophageal cancer	16	2017,2018,2019,2020,2022,2023,2024,2026	2017-02-24	2026-07-30
+Compound::DB01233	Metoclopramide	Disease::DOID:6364	migraine	3	2017,2019,2021	2017-11-01	2021-07-08
+Compound::DB01234	Dexamethasone	Disease::DOID:10283	prostate cancer	1	2021	2021-06-14	2021-06-14
+Compound::DB01234	Dexamethasone	Disease::DOID:10534	stomach cancer	1	2018	2018-12-03	2018-12-03
+Compound::DB01234	Dexamethasone	Disease::DOID:10652	Alzheimer's disease	1	2023	2023-02-28	2023-02-28
+Compound::DB01234	Dexamethasone	Disease::DOID:11612	polycystic ovary syndrome	1	2018	2018-06-01	2018-06-01
+Compound::DB01234	Dexamethasone	Disease::DOID:11819	ureter cancer	1	2017	2017-01	2017-01
+Compound::DB01234	Dexamethasone	Disease::DOID:11934	head and neck cancer	1	2021	2021-03-01	2021-03-01
+Compound::DB01234	Dexamethasone	Disease::DOID:12306	vitiligo	1	2025	2025-04-01	2025-04-01
+Compound::DB01234	Dexamethasone	Disease::DOID:12361	Graves' disease	1	2023	2023-06-16	2023-06-16
+Compound::DB01234	Dexamethasone	Disease::DOID:1324	lung cancer	5	2018,2019,2020,2021,2026	2018-09-11	2026-04-30
+Compound::DB01234	Dexamethasone	Disease::DOID:1612	breast cancer	2	2019,2022	2019-10-15	2022-04-14
+Compound::DB01234	Dexamethasone	Disease::DOID:1686	glaucoma	1	2020	2020-11	2020-11
+Compound::DB01234	Dexamethasone	Disease::DOID:1793	pancreatic cancer	3	2019,2021,2022	2019-09-11	2022-04-14
+Compound::DB01234	Dexamethasone	Disease::DOID:1909	melanoma	1	2019	2019-10-15	2019-10-15
+Compound::DB01234	Dexamethasone	Disease::DOID:219	colon cancer	1	2025	2025-09-01	2025-09-01
+Compound::DB01234	Dexamethasone	Disease::DOID:263	kidney cancer	1	2022	2022-04-14	2022-04-14
+Compound::DB01234	Dexamethasone	Disease::DOID:2841	asthma	2	2017,2018	2017-03-20	2018-03-05
+Compound::DB01234	Dexamethasone	Disease::DOID:2994	germ cell cancer	1	2026	2026-08	2026-08
+Compound::DB01234	Dexamethasone	Disease::DOID:3070	malignant glioma	1	2024	2024-11-15	2024-11-15
+Compound::DB01234	Dexamethasone	Disease::DOID:3393	coronary artery disease	1	2018	2018-07-01	2018-07-01
+Compound::DB01234	Dexamethasone	Disease::DOID:3565	meningioma	1	2025	2025-01-09	2025-01-09
+Compound::DB01234	Dexamethasone	Disease::DOID:3953	adrenal gland cancer	1	2022	2022-10-24	2022-10-24
+Compound::DB01234	Dexamethasone	Disease::DOID:4362	cervical cancer	2	2018,2021	2018-09-05	2021-07-01
+Compound::DB01234	Dexamethasone	Disease::DOID:4606	bile duct cancer	1	2022	2022-10-24	2022-10-24
+Compound::DB01234	Dexamethasone	Disease::DOID:5041	esophageal cancer	1	2022	2022-04-14	2022-04-14
+Compound::DB01234	Dexamethasone	Disease::DOID:6364	migraine	1	2020	2020-10	2020-10
+Compound::DB01234	Dexamethasone	Disease::DOID:8398	osteoarthritis	2	2020,2025	2020-09-01	2025-02-24
+Compound::DB01234	Dexamethasone	Disease::DOID:8893	psoriasis	1	2021	2021-03	2021-03
+Compound::DB01234	Dexamethasone	Disease::DOID:9970	obesity	1	2018	2018-06-01	2018-06-01
+Compound::DB01236	Sevoflurane	Disease::DOID:1324	lung cancer	2	2022,2023	2022-12-27	2023-05-23
+Compound::DB01236	Sevoflurane	Disease::DOID:2394	ovarian cancer	1	2023	2023-05-23	2023-05-23
+Compound::DB01236	Sevoflurane	Disease::DOID:3393	coronary artery disease	2	2019,2021	2019-08-20	2021-01-22
+Compound::DB01236	Sevoflurane	Disease::DOID:3571	liver cancer	1	2023	2023-05-23	2023-05-23
+Compound::DB01236	Sevoflurane	Disease::DOID:363	uterine cancer	1	2018	2018-10-15	2018-10-15
+Compound::DB01238	Aripiprazole	Disease::DOID:5419	schizophrenia	12	2017,2018,2019,2021,2022,2023,2024	2017-06-14	2024-04-05
+Compound::DB01241	Gemfibrozil	Disease::DOID:2377	multiple sclerosis	1	2020	2020-05-18	2020-05-18
+Compound::DB01248	Docetaxel	Disease::DOID:10283	prostate cancer	23	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-02-22	2026-08-01
+Compound::DB01248	Docetaxel	Disease::DOID:10534	stomach cancer	4	2018,2021,2025	2018-03-07	2025-03-25
+Compound::DB01248	Docetaxel	Disease::DOID:1115	sarcoma	4	2020,2021	2020-09-23	2021-09
+Compound::DB01248	Docetaxel	Disease::DOID:11934	head and neck cancer	8	2019,2021,2022,2023,2024,2025,2026	2019-06-11	2026-04-20
+Compound::DB01248	Docetaxel	Disease::DOID:1324	lung cancer	8	2018,2020,2021,2023,2024	2018-02-01	2024-11-19
+Compound::DB01248	Docetaxel	Disease::DOID:1612	breast cancer	26	2017,2019,2020,2021,2022,2024,2025,2026	2017-05-08	2026-09
+Compound::DB01248	Docetaxel	Disease::DOID:1781	thyroid cancer	1	2018	2018-03-26	2018-03-26
+Compound::DB01248	Docetaxel	Disease::DOID:1793	pancreatic cancer	3	2018,2022,2023	2018-06-01	2023-09-06
+Compound::DB01248	Docetaxel	Disease::DOID:1909	melanoma	4	2021,2022,2023	2021-05-27	2023-03-08
+Compound::DB01248	Docetaxel	Disease::DOID:1964	fallopian tube cancer	1	2018	2018-12-18	2018-12-18
+Compound::DB01248	Docetaxel	Disease::DOID:2394	ovarian cancer	3	2018,2020,2021	2018-12-18	2021-12-13
+Compound::DB01248	Docetaxel	Disease::DOID:3571	liver cancer	1	2018	2018-06-01	2018-06-01
+Compound::DB01248	Docetaxel	Disease::DOID:4362	cervical cancer	3	2020,2021,2022	2020-09-16	2022-07-01
+Compound::DB01248	Docetaxel	Disease::DOID:5041	esophageal cancer	5	2018,2020,2022,2024	2018-06-01	2024-02-01
+Compound::DB01248	Docetaxel	Disease::DOID:8850	salivary gland cancer	2	2018,2020	2018-03-26	2020-09-16
+Compound::DB01249	Iodixanol	Disease::DOID:1459	hypothyroidism	1	2022	2022-03	2022-03
+Compound::DB01249	Iodixanol	Disease::DOID:3393	coronary artery disease	2	2018,2021	2018-11-05	2021-09-30
+Compound::DB01254	Dasatinib	Disease::DOID:1793	pancreatic cancer	1	2020	2020-09-02	2020-09-02
+Compound::DB01254	Dasatinib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB01254	Dasatinib	Disease::DOID:4606	bile duct cancer	1	2020	2020-09-02	2020-09-02
+Compound::DB01254	Dasatinib	Disease::DOID:5041	esophageal cancer	1	2020	2020-09-02	2020-09-02
+Compound::DB01254	Dasatinib	Disease::DOID:5419	schizophrenia	1	2023	2023-07-01	2023-07-01
+Compound::DB01255	Lisdexamfetamine	Disease::DOID:1094	attention deficit hyperactivity disorder	1	2021	2021-01-19	2021-01-19
+Compound::DB01259	Lapatinib	Disease::DOID:1612	breast cancer	1	2020	2020-10-07	2020-10-07
+Compound::DB01261	Sitagliptin	Disease::DOID:10763	hypertension	1	2018	2018-11-15	2018-11-15
+Compound::DB01261	Sitagliptin	Disease::DOID:11612	polycystic ovary syndrome	1	2020	2020-01-10	2020-01-10
+Compound::DB01261	Sitagliptin	Disease::DOID:9352	type 2 diabetes mellitus	6	2017,2024	2017-01-10	2024-10-13
+Compound::DB01262	Decitabine	Disease::DOID:11934	head and neck cancer	1	2026	2026-01	2026-01
+Compound::DB01262	Decitabine	Disease::DOID:2394	ovarian cancer	2	2023,2026	2023-11-16	2026-06-23
+Compound::DB01264	Darunavir	Disease::DOID:332	amyotrophic lateral sclerosis	1	2019	2019-04-01	2019-04-01
+Compound::DB01267	Paliperidone	Disease::DOID:5419	schizophrenia	3	2018,2023	2018-03-11	2023-11-01
+Compound::DB01268	Sunitinib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB01268	Sunitinib	Disease::DOID:263	kidney cancer	2	2017	2017-05-23	2017-10-16
+Compound::DB01273	Varenicline	Disease::DOID:0050742	nicotine dependence	5	2017,2019,2020,2026	2017-03-01	2026-08
+Compound::DB01273	Varenicline	Disease::DOID:14330	Parkinson's disease	1	2017	2017-06-29	2017-06-29
+Compound::DB01273	Varenicline	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2017	2017-07-31	2017-07-31
+Compound::DB01273	Varenicline	Disease::DOID:3312	bipolar disorder	1	2019	2019-08-12	2019-08-12
+Compound::DB01273	Varenicline	Disease::DOID:5419	schizophrenia	2	2019	2019-01-01	2019-08-12
+Compound::DB01275	Hydralazine	Disease::DOID:10763	hypertension	1	2018	2018-08-13	2018-08-13
+Compound::DB01282	Carbetocin	Disease::DOID:13223	uterine fibroid	1	2023	2023-02-01	2023-02-01
+Compound::DB01327	Cefazolin	Disease::DOID:9970	obesity	1	2018	2018-12-12	2018-12-12
+Compound::DB01331	Cefoxitin	Disease::DOID:1793	pancreatic cancer	1	2017	2017-11-21	2017-11-21
+Compound::DB01356	Lithium	Disease::DOID:3312	bipolar disorder	2	2017,2022	2017-12-07	2022-06-01
+Compound::DB01362	Iohexol	Disease::DOID:1459	hypothyroidism	1	2022	2022-03	2022-03
+Compound::DB01362	Iohexol	Disease::DOID:3393	coronary artery disease	1	2021	2021-09-30	2021-09-30
+Compound::DB01362	Iohexol	Disease::DOID:784	chronic kidney failure	1	2020	2020-03-03	2020-03-03
+Compound::DB01367	Rasagiline	Disease::DOID:14330	Parkinson's disease	1	2018	2018-11-01	2018-11-01
+Compound::DB01390	Sodium bicarbonate	Disease::DOID:11934	head and neck cancer	1	2018	2018-04-09	2018-04-09
+Compound::DB01390	Sodium bicarbonate	Disease::DOID:13189	gout	1	2017	2017-11-01	2017-11-01
+Compound::DB01390	Sodium bicarbonate	Disease::DOID:585	nephrolithiasis	1	2026	2026-02-01	2026-02-01
+Compound::DB01392	Yohimbine	Disease::DOID:10763	hypertension	1	2018	2018-03-01	2018-03-01
+Compound::DB01393	Bezafibrate	Disease::DOID:3312	bipolar disorder	1	2018	2018-01-11	2018-01-11
+Compound::DB01394	Colchicine	Disease::DOID:10763	hypertension	1	2021	2021-08-10	2021-08-10
+Compound::DB01394	Colchicine	Disease::DOID:13189	gout	6	2017,2021,2023,2026	2017-02-17	2026-07-30
+Compound::DB01394	Colchicine	Disease::DOID:1936	atherosclerosis	4	2020,2022,2023,2024	2020-03-12	2024-03-01
+Compound::DB01394	Colchicine	Disease::DOID:3393	coronary artery disease	6	2020,2022,2023,2024	2020-03-12	2024-03-01
+Compound::DB01394	Colchicine	Disease::DOID:7693	abdominal aortic aneurysm	1	2022	2022-06-01	2022-06-01
+Compound::DB01394	Colchicine	Disease::DOID:9970	obesity	1	2021	2021-11-08	2021-11-08
+Compound::DB01395	Drospirenone	Disease::DOID:10763	hypertension	1	2026	2026-07	2026-07
+Compound::DB01399	Salsalate	Disease::DOID:11612	polycystic ovary syndrome	1	2018	2018-12-05	2018-12-05
+Compound::DB01400	Neostigmine	Disease::DOID:3393	coronary artery disease	1	2019	2019-05-01	2019-05-01
+Compound::DB01407	Clenbuterol	Disease::DOID:332	amyotrophic lateral sclerosis	1	2020	2020-02-10	2020-02-10
+Compound::DB01409	Tiotropium	Disease::DOID:2841	asthma	2	2019,2021	2019-01-18	2021-05-14
+Compound::DB01409	Tiotropium	Disease::DOID:3083	chronic obstructive pulmonary disease	5	2017,2020,2022,2023	2017-11-01	2023-10-23
+Compound::DB01576	Dextroamphetamine	Disease::DOID:5419	schizophrenia	1	2019	2019-07	2019-07
+Compound::DB01586	Ursodeoxycholic acid	Disease::DOID:11714	gestational diabetes	1	2021	2021-07-01	2021-07-01
+Compound::DB01586	Ursodeoxycholic acid	Disease::DOID:12236	primary biliary cirrhosis	2	2018,2020	2018-01-03	2020-10-02
+Compound::DB01590	Everolimus	Disease::DOID:10283	prostate cancer	1	2019	2019-01-01	2019-01-01
+Compound::DB01590	Everolimus	Disease::DOID:11934	head and neck cancer	1	2018	2018-05-04	2018-05-04
+Compound::DB01590	Everolimus	Disease::DOID:1612	breast cancer	10	2017,2019,2020,2022,2023,2024,2025	2017-07-26	2025-08-05
+Compound::DB01590	Everolimus	Disease::DOID:1781	thyroid cancer	1	2017	2017-04-03	2017-04-03
+Compound::DB01590	Everolimus	Disease::DOID:219	colon cancer	1	2024	2024-04-01	2024-04-01
+Compound::DB01590	Everolimus	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB01590	Everolimus	Disease::DOID:2394	ovarian cancer	1	2017	2017-07-26	2017-07-26
+Compound::DB01590	Everolimus	Disease::DOID:3070	malignant glioma	1	2018	2018-01-13	2018-01-13
+Compound::DB01590	Everolimus	Disease::DOID:3565	meningioma	1	2024	2024-11-29	2024-11-29
+Compound::DB01590	Everolimus	Disease::DOID:363	uterine cancer	1	2017	2017-09-07	2017-09-07
+Compound::DB01590	Everolimus	Disease::DOID:4159	skin cancer	1	2026	2026-04-23	2026-04-23
+Compound::DB01590	Everolimus	Disease::DOID:784	chronic kidney failure	1	2019	2019-12-19	2019-12-19
+Compound::DB01592	Iron	Disease::DOID:2355	anemia	2	2024,2025	2024-11-10	2025-02-24
+Compound::DB01593	Zinc	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2025	2025-11-03	2025-11-03
+Compound::DB01609	Deferasirox	Disease::DOID:2355	anemia	1	2017	2017-03-02	2017-03-02
+Compound::DB01610	Valganciclovir	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2018	2018-01-03	2018-01-03
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:10283	prostate cancer	1	2018	2018-08-23	2018-08-23
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:1612	breast cancer	2	2021,2024	2021-11-01	2024-06
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:1793	pancreatic cancer	1	2023	2023-05-31	2023-05-31
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:1909	melanoma	2	2018,2020	2018-01-23	2020-10-21
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:1936	atherosclerosis	2	2018,2019	2018-12-14	2019-07-01
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:2394	ovarian cancer	1	2025	2025-12-18	2025-12-18
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:3310	atopic dermatitis	1	2026	2026-08-01	2026-08-01
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:3393	coronary artery disease	1	2019	2019-07-01	2019-07-01
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:4606	bile duct cancer	1	2022	2022-02-15	2022-02-15
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:4989	pancreatitis	1	2017	2017-10-03	2017-10-03
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:7147	ankylosing spondylitis	1	2019	2019-10-07	2019-10-07
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:7148	rheumatoid arthritis	8	2017,2018,2019,2020,2021,2023	2017-01-20	2023-11-22
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:8893	psoriasis	1	2026	2026-08-01	2026-08-01
+Compound::DB01611	Hydroxychloroquine	Disease::DOID:9074	systemic lupus erythematosus	3	2017,2022,2024	2017-12-28	2024-06-27
+Compound::DB01628	Etoricoxib	Disease::DOID:13189	gout	1	2026	2026-07-30	2026-07-30
+Compound::DB01656	Roflumilast	Disease::DOID:2841	asthma	1	2019	2019-01-21	2019-01-21
+Compound::DB01656	Roflumilast	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2021	2021-07-12	2021-07-12
+Compound::DB01656	Roflumilast	Disease::DOID:3310	atopic dermatitis	1	2026	2026-08-01	2026-08-01
+Compound::DB01656	Roflumilast	Disease::DOID:7148	rheumatoid arthritis	1	2026	2026-04-23	2026-04-23
+Compound::DB01656	Roflumilast	Disease::DOID:8893	psoriasis	3	2021,2023,2026	2021-01-01	2026-08-01
+Compound::DB01656	Roflumilast	Disease::DOID:986	alopecia areata	1	2025	2025-01-12	2025-01-12
+Compound::DB01656	Roflumilast	Disease::DOID:9970	obesity	1	2021	2021-05-01	2021-05-01
+Compound::DB02300	Calcipotriol	Disease::DOID:986	alopecia areata	3	2017,2023,2026	2017-10-01	2026-04-01
+Compound::DB02546	Vorinostat	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB02546	Vorinostat	Disease::DOID:8778	Crohn's disease	1	2017	2017-10-30	2017-10-30
+Compound::DB03166	Acetic acid	Disease::DOID:3310	atopic dermatitis	1	2019	2019-02-21	2019-02-21
+Compound::DB04572	Thiotepa	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2018	2018-04-19	2018-04-19
+Compound::DB04572	Thiotepa	Disease::DOID:3070	malignant glioma	1	2021	2021-01-14	2021-01-14
+Compound::DB04841	Flunarizine	Disease::DOID:6364	migraine	5	2019,2021,2024,2025	2019-03-01	2025-09-01
+Compound::DB04845	Ixabepilone	Disease::DOID:1964	fallopian tube cancer	1	2017	2017-04-03	2017-04-03
+Compound::DB04861	Nebivolol	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2021	2021-06-30	2021-06-30
+Compound::DB04861	Nebivolol	Disease::DOID:10763	hypertension	2	2019,2022	2019-01-06	2022-05-12
+Compound::DB04861	Nebivolol	Disease::DOID:10941	intracranial aneurysm	1	2025	2025-01-01	2025-01-01
+Compound::DB04861	Nebivolol	Disease::DOID:1612	breast cancer	1	2019	2019-01-01	2019-01-01
+Compound::DB04865	Homoharringtonine	Disease::DOID:10283	prostate cancer	1	2025	2025-04-20	2025-04-20
+Compound::DB04868	Nilotinib	Disease::DOID:1612	breast cancer	1	2022	2022-10-13	2022-10-13
+Compound::DB04868	Nilotinib	Disease::DOID:2394	ovarian cancer	1	2022	2022-10-13	2022-10-13
+Compound::DB04876	Vildagliptin	Disease::DOID:1612	breast cancer	1	2020	2020-10-23	2020-10-23
+Compound::DB04876	Vildagliptin	Disease::DOID:9352	type 2 diabetes mellitus	1	2022	2022-06	2022-06
+Compound::DB04890	Bepotastine	Disease::DOID:4481	allergic rhinitis	1	2021	2021-10-01	2021-10-01
+Compound::DB04920	Clevidipine	Disease::DOID:10763	hypertension	1	2025	2025-01	2025-01
+Compound::DB04946	Iloperidone	Disease::DOID:10763	hypertension	1	2025	2025-09-15	2025-09-15
+Compound::DB04946	Iloperidone	Disease::DOID:5419	schizophrenia	4	2019,2021,2023,2025	2019-10-07	2025-05-14
+Compound::DB05109	Trabectedin	Disease::DOID:1115	sarcoma	1	2020	2020-03-17	2020-03-17
+Compound::DB05271	Rotigotine	Disease::DOID:14330	Parkinson's disease	1	2017	2017-03-16	2017-03-16
+Compound::DB05294	Vandetanib	Disease::DOID:1781	thyroid cancer	1	2018	2018-08-06	2018-08-06
+Compound::DB05812	Abiraterone	Disease::DOID:10283	prostate cancer	17	2017,2018,2019,2020,2021,2023,2025,2026	2017-10-11	2026-10-15
+Compound::DB05812	Abiraterone	Disease::DOID:1909	melanoma	1	2023	2023-06-13	2023-06-13
+Compound::DB05812	Abiraterone	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB06151	Acetylcysteine	Disease::DOID:332	amyotrophic lateral sclerosis	1	2025	2025-11-25	2025-11-25
+Compound::DB06203	Alogliptin	Disease::DOID:9352	type 2 diabetes mellitus	2	2017,2019	2017-08-18	2019-06-29
+Compound::DB06204	Tapentadol	Disease::DOID:1612	breast cancer	1	2024	2024-11-15	2024-11-15
+Compound::DB06209	Prasugrel	Disease::DOID:3393	coronary artery disease	7	2017,2018,2019,2021,2026	2017-03-20	2026-04-20
+Compound::DB06213	Regadenoson	Disease::DOID:3393	coronary artery disease	3	2017,2021	2017-03-29	2021-06-16
+Compound::DB06218	Lacosamide	Disease::DOID:332	amyotrophic lateral sclerosis	1	2017	2017-07-13	2017-07-13
+Compound::DB06218	Lacosamide	Disease::DOID:4989	pancreatitis	1	2023	2023-03-17	2023-03-17
+Compound::DB06228	Rivaroxaban	Disease::DOID:10283	prostate cancer	1	2019	2019-02-01	2019-02-01
+Compound::DB06228	Rivaroxaban	Disease::DOID:10534	stomach cancer	1	2017	2017-08-07	2017-08-07
+Compound::DB06228	Rivaroxaban	Disease::DOID:1324	lung cancer	1	2019	2019-02-01	2019-02-01
+Compound::DB06228	Rivaroxaban	Disease::DOID:1612	breast cancer	1	2019	2019-02-01	2019-02-01
+Compound::DB06228	Rivaroxaban	Disease::DOID:1793	pancreatic cancer	1	2017	2017-08-07	2017-08-07
+Compound::DB06228	Rivaroxaban	Disease::DOID:219	colon cancer	1	2019	2019-02-01	2019-02-01
+Compound::DB06228	Rivaroxaban	Disease::DOID:3393	coronary artery disease	3	2018,2019,2024	2018-12-01	2024-01
+Compound::DB06228	Rivaroxaban	Disease::DOID:5041	esophageal cancer	1	2017	2017-08-07	2017-08-07
+Compound::DB06228	Rivaroxaban	Disease::DOID:9074	systemic lupus erythematosus	1	2021	2021-07-09	2021-07-09
+Compound::DB06287	Temsirolimus	Disease::DOID:263	kidney cancer	1	2017	2017-10-16	2017-10-16
+Compound::DB06288	Amisulpride	Disease::DOID:5419	schizophrenia	3	2017,2020,2021	2017-10-01	2021-05
+Compound::DB06292	Dapagliflozin	Disease::DOID:10283	prostate cancer	1	2024	2024-06-04	2024-06-04
+Compound::DB06292	Dapagliflozin	Disease::DOID:10763	hypertension	1	2019	2019-02-14	2019-02-14
+Compound::DB06292	Dapagliflozin	Disease::DOID:11612	polycystic ovary syndrome	3	2020,2024,2026	2020-03-20	2026-03-30
+Compound::DB06292	Dapagliflozin	Disease::DOID:1612	breast cancer	2	2022,2024	2022-04-06	2024-04-15
+Compound::DB06292	Dapagliflozin	Disease::DOID:1793	pancreatic cancer	1	2021	2021-02-25	2021-02-25
+Compound::DB06292	Dapagliflozin	Disease::DOID:2355	anemia	1	2021	2021-08-06	2021-08-06
+Compound::DB06292	Dapagliflozin	Disease::DOID:3393	coronary artery disease	1	2022	2022-07-29	2022-07-29
+Compound::DB06292	Dapagliflozin	Disease::DOID:9352	type 2 diabetes mellitus	9	2017,2018,2019,2024,2026	2017-12-15	2026-07-06
+Compound::DB06292	Dapagliflozin	Disease::DOID:9744	type 1 diabetes mellitus	1	2019	2019-05-01	2019-05-01
+Compound::DB06292	Dapagliflozin	Disease::DOID:9970	obesity	2	2019	2019-05	2019-07-30
+Compound::DB06335	Saxagliptin	Disease::DOID:9352	type 2 diabetes mellitus	2	2017,2020	2017-01-10	2020-05-15
+Compound::DB06589	Pazopanib	Disease::DOID:1115	sarcoma	1	2017	2017-06-06	2017-06-06
+Compound::DB06589	Pazopanib	Disease::DOID:2355	anemia	1	2023	2023-05-08	2023-05-08
+Compound::DB06589	Pazopanib	Disease::DOID:263	kidney cancer	1	2017	2017-10-16	2017-10-16
+Compound::DB06594	Agomelatine	Disease::DOID:5419	schizophrenia	1	2023	2023-01-01	2023-01-01
+Compound::DB06605	Apixaban	Disease::DOID:10534	stomach cancer	1	2017	2017-08-07	2017-08-07
+Compound::DB06605	Apixaban	Disease::DOID:11934	head and neck cancer	1	2025	2025-10	2025-10
+Compound::DB06605	Apixaban	Disease::DOID:1793	pancreatic cancer	1	2017	2017-08-07	2017-08-07
+Compound::DB06605	Apixaban	Disease::DOID:5041	esophageal cancer	1	2017	2017-08-07	2017-08-07
+Compound::DB06605	Apixaban	Disease::DOID:784	chronic kidney failure	1	2021	2021-01-01	2021-01-01
+Compound::DB06605	Apixaban	Disease::DOID:9970	obesity	2	2017,2020	2017-07-19	2020-11-02
+Compound::DB06616	Bosutinib	Disease::DOID:2394	ovarian cancer	1	2019	2019-12-10	2019-12-10
+Compound::DB06616	Bosutinib	Disease::DOID:3277	thymus cancer	1	2019	2019-12-10	2019-12-10
+Compound::DB06695	Dabigatran etexilate	Disease::DOID:3310	atopic dermatitis	1	2025	2025-10-03	2025-10-03
+Compound::DB06699	Degarelix	Disease::DOID:10283	prostate cancer	18	2017,2018,2019,2020,2021,2023,2024,2025,2026	2017-03-28	2026-07-29
+Compound::DB06700	Desvenlafaxine	Disease::DOID:6364	migraine	1	2026	2026-01-01	2026-01-01
+Compound::DB06708	Lumefantrine	Disease::DOID:12365	malaria	3	2021,2022	2021-11-18	2022-04-28
+Compound::DB06709	Methacholine	Disease::DOID:2841	asthma	1	2018	2018-06-01	2018-06-01
+Compound::DB06717	Fosaprepitant	Disease::DOID:1612	breast cancer	1	2023	2023-07	2023-07
+Compound::DB06717	Fosaprepitant	Disease::DOID:4362	cervical cancer	1	2021	2021-07-01	2021-07-01
+Compound::DB06772	Cabazitaxel	Disease::DOID:10283	prostate cancer	7	2017,2019,2021,2024	2017-01-13	2024-02-29
+Compound::DB06772	Cabazitaxel	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB06803	Niclosamide	Disease::DOID:219	colon cancer	1	2017	2017-11-07	2017-11-07
+Compound::DB06803	Niclosamide	Disease::DOID:8577	ulcerative colitis	1	2018	2018-05-15	2018-05-15
+Compound::DB06809	Plerixafor	Disease::DOID:1115	sarcoma	1	2017	2017-07-26	2017-07-26
+Compound::DB06809	Plerixafor	Disease::DOID:3070	malignant glioma	1	2018	2018-12-04	2018-12-04
+Compound::DB08815	Lurasidone	Disease::DOID:3312	bipolar disorder	2	2017,2024	2017-05-08	2024-04-15
+Compound::DB08815	Lurasidone	Disease::DOID:5419	schizophrenia	8	2017,2018,2020,2021,2022	2017-08-25	2022-10-21
+Compound::DB08816	Ticagrelor	Disease::DOID:1936	atherosclerosis	1	2017	2017-04-19	2017-04-19
+Compound::DB08816	Ticagrelor	Disease::DOID:3393	coronary artery disease	18	2017,2018,2019,2022,2025,2026	2017-01	2026-04-20
+Compound::DB08820	Ivacaftor	Disease::DOID:3083	chronic obstructive pulmonary disease	1	2021	2021-12-01	2021-12-01
+Compound::DB08826	Deferiprone	Disease::DOID:332	amyotrophic lateral sclerosis	1	2019	2019-01-30	2019-01-30
+Compound::DB08828	Vismodegib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB08828	Vismodegib	Disease::DOID:4159	skin cancer	1	2021	2021-11-01	2021-11-01
+Compound::DB08834	Tauroursodeoxycholic acid	Disease::DOID:2841	asthma	1	2019	2019-01-10	2019-01-10
+Compound::DB08834	Tauroursodeoxycholic acid	Disease::DOID:332	amyotrophic lateral sclerosis	1	2021	2021-10-25	2021-10-25
+Compound::DB08860	Pitavastatin	Disease::DOID:1612	breast cancer	1	2021	2021-01-15	2021-01-15
+Compound::DB08860	Pitavastatin	Disease::DOID:1793	pancreatic cancer	1	2026	2026-03-24	2026-03-24
+Compound::DB08860	Pitavastatin	Disease::DOID:9970	obesity	1	2025	2025-06-04	2025-06-04
+Compound::DB08865	Crizotinib	Disease::DOID:1324	lung cancer	1	2020	2020-05-01	2020-05-01
+Compound::DB08868	Fingolimod	Disease::DOID:2377	multiple sclerosis	4	2020,2021	2020-05-18	2021-09-24
+Compound::DB08868	Fingolimod	Disease::DOID:784	chronic kidney failure	1	2022	2022-07-28	2022-07-28
+Compound::DB08871	Eribulin	Disease::DOID:1115	sarcoma	1	2019	2019-06-04	2019-06-04
+Compound::DB08871	Eribulin	Disease::DOID:1612	breast cancer	8	2017,2019,2020,2023,2024,2026	2017-08-28	2026-11-04
+Compound::DB08871	Eribulin	Disease::DOID:2394	ovarian cancer	1	2017	2017-09-30	2017-09-30
+Compound::DB08877	Ruxolitinib	Disease::DOID:12306	vitiligo	1	2020	2020-09-24	2020-09-24
+Compound::DB08877	Ruxolitinib	Disease::DOID:1319	brain cancer	1	2025	2025-12-03	2025-12-03
+Compound::DB08877	Ruxolitinib	Disease::DOID:2355	anemia	2	2020,2021	2020-04-01	2021-03-19
+Compound::DB08877	Ruxolitinib	Disease::DOID:3310	atopic dermatitis	4	2021,2025,2026	2021-07-19	2026-08-01
+Compound::DB08877	Ruxolitinib	Disease::DOID:8893	psoriasis	1	2026	2026-08-01	2026-08-01
+Compound::DB08877	Ruxolitinib	Disease::DOID:986	alopecia areata	2	2023,2024	2023-01-18	2024-07-29
+Compound::DB08881	Vemurafenib	Disease::DOID:1612	breast cancer	1	2020	2020-10-07	2020-10-07
+Compound::DB08881	Vemurafenib	Disease::DOID:1781	thyroid cancer	1	2020	2020-06-26	2020-06-26
+Compound::DB08881	Vemurafenib	Disease::DOID:1909	melanoma	6	2017,2018,2021,2022,2023	2017-01-13	2023-03-01
+Compound::DB08881	Vemurafenib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB08881	Vemurafenib	Disease::DOID:3070	malignant glioma	2	2017	2017-07-31	2017-11-08
+Compound::DB08882	Linagliptin	Disease::DOID:9352	type 2 diabetes mellitus	3	2017,2022,2024	2017-06-03	2024-02
+Compound::DB08887	Icosapent ethyl	Disease::DOID:1936	atherosclerosis	1	2020	2020-08-07	2020-08-07
+Compound::DB08887	Icosapent ethyl	Disease::DOID:219	colon cancer	1	2018	2018-05-02	2018-05-02
+Compound::DB08893	Mirabegron	Disease::DOID:11612	polycystic ovary syndrome	1	2017	2017-03-13	2017-03-13
+Compound::DB08893	Mirabegron	Disease::DOID:9970	obesity	1	2026	2026-08-26	2026-08-26
+Compound::DB08896	Regorafenib	Disease::DOID:1909	melanoma	1	2023	2023-11-01	2023-11-01
+Compound::DB08896	Regorafenib	Disease::DOID:1993	rectum cancer	1	2023	2023-05-17	2023-05-17
+Compound::DB08896	Regorafenib	Disease::DOID:219	colon cancer	2	2018,2023	2018-10-23	2023-05-17
+Compound::DB08896	Regorafenib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB08896	Regorafenib	Disease::DOID:2394	ovarian cancer	1	2022	2022-06-28	2022-06-28
+Compound::DB08896	Regorafenib	Disease::DOID:4362	cervical cancer	1	2023	2023-11-01	2023-11-01
+Compound::DB08896	Regorafenib	Disease::DOID:5041	esophageal cancer	1	2023	2023-11-01	2023-11-01
+Compound::DB08899	Enzalutamide	Disease::DOID:10283	prostate cancer	41	2017,2018,2019,2020,2021,2022,2023,2024,2025,2026	2017-01-13	2026-07-30
+Compound::DB08899	Enzalutamide	Disease::DOID:1612	breast cancer	2	2017,2022	2017-10-11	2022-03-29
+Compound::DB08899	Enzalutamide	Disease::DOID:1793	pancreatic cancer	1	2022	2022-03-29	2022-03-29
+Compound::DB08899	Enzalutamide	Disease::DOID:1826	epilepsy syndrome	1	2019	2019-01-01	2019-01-01
+Compound::DB08899	Enzalutamide	Disease::DOID:1909	melanoma	2	2018,2023	2018-10-04	2023-06-13
+Compound::DB08899	Enzalutamide	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB08899	Enzalutamide	Disease::DOID:2394	ovarian cancer	1	2022	2022-03-29	2022-03-29
+Compound::DB08901	Ponatinib	Disease::DOID:1612	breast cancer	1	2020	2020-10-07	2020-10-07
+Compound::DB08901	Ponatinib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB08906	Fluticasone furoate	Disease::DOID:2841	asthma	5	2017,2018	2017-01-25	2018-10-30
+Compound::DB08907	Canagliflozin	Disease::DOID:3393	coronary artery disease	1	2024	2024-11-15	2024-11-15
+Compound::DB08907	Canagliflozin	Disease::DOID:9352	type 2 diabetes mellitus	3	2019,2020,2022	2019-09-01	2022-03-15
+Compound::DB08907	Canagliflozin	Disease::DOID:9970	obesity	1	2017	2017-01-05	2017-01-05
+Compound::DB08911	Trametinib	Disease::DOID:1319	brain cancer	1	2018	2018-03-05	2018-03-05
+Compound::DB08911	Trametinib	Disease::DOID:1324	lung cancer	1	2017	2017-03-01	2017-03-01
+Compound::DB08911	Trametinib	Disease::DOID:1781	thyroid cancer	3	2020,2025	2020-01-20	2025-12-31
+Compound::DB08911	Trametinib	Disease::DOID:1793	pancreatic cancer	1	2023	2023-05-31	2023-05-31
+Compound::DB08911	Trametinib	Disease::DOID:1909	melanoma	21	2017,2018,2019,2020,2021,2022,2025	2017-01	2025-12-31
+Compound::DB08911	Trametinib	Disease::DOID:219	colon cancer	1	2018	2018-03-21	2018-03-21
+Compound::DB08911	Trametinib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB08911	Trametinib	Disease::DOID:3565	meningioma	1	2019	2019-09-30	2019-09-30
+Compound::DB08911	Trametinib	Disease::DOID:4606	bile duct cancer	1	2022	2022-02-15	2022-02-15
+Compound::DB08912	Dabrafenib	Disease::DOID:1781	thyroid cancer	2	2020	2020-01-20	2020-09-02
+Compound::DB08912	Dabrafenib	Disease::DOID:1909	melanoma	17	2017,2018,2019,2020,2021,2022	2017-01	2022-01-17
+Compound::DB08912	Dabrafenib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB08916	Afatinib	Disease::DOID:11934	head and neck cancer	3	2022,2024,2025	2022-09-19	2025-01-20
+Compound::DB08916	Afatinib	Disease::DOID:2355	anemia	1	2020	2020-04-01	2020-04-01
+Compound::DB08930	Dolutegravir	Disease::DOID:12365	malaria	1	2022	2022-03-09	2022-03-09
+Compound::DB08930	Dolutegravir	Disease::DOID:332	amyotrophic lateral sclerosis	1	2019	2019-04-01	2019-04-01
+Compound::DB08934	Sofosbuvir	Disease::DOID:3571	liver cancer	1	2023	2023-03-17	2023-03-17
+Compound::DB08934	Sofosbuvir	Disease::DOID:784	chronic kidney failure	1	2019	2019-03-15	2019-03-15
+Compound::DB08954	Ifenprodil	Disease::DOID:0050156	idiopathic pulmonary fibrosis	1	2020	2020-07-29	2020-07-29
+Compound::DB08954	Ifenprodil	Disease::DOID:2377	multiple sclerosis	1	2024	2024-03	2024-03
+Compound::DB08995	Diosmin	Disease::DOID:8577	ulcerative colitis	1	2022	2022-12-15	2022-12-15
+Compound::DB09028	Cytisine	Disease::DOID:1324	lung cancer	1	2019	2019-07-23	2019-07-23
+Compound::DB09028	Cytisine	Disease::DOID:3393	coronary artery disease	1	2022	2022-03-14	2022-03-14

@@ -1,0 +1,52 @@
+[
+ {
+  "model": "TransE",
+  "dataset": "WN18RR",
+  "dim": 256,
+  "resumed": true,
+  "elapsed_epochs": 600,
+  "hours": 2.52,
+  "filtered_mrr": 0.1425415724515915,
+  "filtered_hits10": 0.3857729138166895,
+  "save_path": "models/WN18RR_TransE.pt"
+ },
+ {
+  "model": "RotatE",
+  "dataset": "WN18RR",
+  "dim": 256,
+  "filtered_mrr": 0.4314919114112854,
+  "filtered_hits10": 0.4618673050615595,
+  "note": "filtered MRR/Hits@10 on test (train+valid filtered); re-evaluated from models/WN18RR_RotatE.pt",
+  "save_path": "models/WN18RR_RotatE.pt"
+ },
+ {
+  "model": "RotatE",
+  "dataset": "FB15k237",
+  "dim": 256,
+  "filtered_mrr": 0.2310137897729874,
+  "filtered_hits10": 0.3980330756434093,
+  "note": "test (train+valid filtered); re-evaluated from models/FB15k237_RotatE.pt",
+  "save_path": "models/FB15k237_RotatE.pt"
+ },
+ {
+  "model": "RotatE",
+  "dataset": "hetionet_core",
+  "dim": 256,
+  "split": "validation",
+  "filtered_mrr": 0.1362,
+  "filtered_hits10": 0.2733,
+  "note": "validation (train filtered); re-evaluated from models/hetionet_core_RotatE.pt",
+  "save_path": "models/hetionet_core_RotatE.pt"
+ },
+ {
+  "model": "ComplEx",
+  "dataset": "WN18RR",
+  "dim": 256,
+  "resumed": true,
+  "elapsed_epochs": 1485,
+  "hours": 0.61,
+  "filtered_mrr": 0.22977630794048307,
+  "filtered_hits10": 0.3968878248974008,
+  "save_path": "models/WN18RR_ComplEx.pt"
+ }
+]

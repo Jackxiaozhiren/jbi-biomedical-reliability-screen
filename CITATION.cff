@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these JBI reproducibility materials, please cite the versioned release and the associated article."
+title: "JBI Biomedical Reliability Screen: Code and Derived Results"
+type: software
+version: 1.0.0
+date-released: 2026-08-25
+authors:
+  - family-names: Xiao
+    given-names: Zhiren
+repository-code: "https://github.com/Jackxiaozhiren/jbi-biomedical-reliability-screen"
+url: "https://github.com/Jackxiaozhiren/jbi-biomedical-reliability-screen"
+abstract: "Code, frozen protocol, derived result exports, compact external-validation summaries, and generated figures for an externally validated reliability audit of knowledge-graph-based drug repurposing screens."
+keywords:
+  - biomedical informatics
+  - knowledge graphs
+  - drug repurposing
+  - reliability auditing
+  - selective prediction

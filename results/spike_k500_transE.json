@@ -1,0 +1,14 @@
+{
+  "k": 500,
+  "m": 2924,
+  "floor_p": 0.001996007984031936,
+  "n_at_floor": 1413,
+  "pi0": 0.1716826265389877,
+  "bh_threshold": 0.031936127744510975,
+  "n_rejected": 1959,
+  "rejected_rate": 0.6699726402188783,
+  "mean_p": 0.11265908675125809,
+  "scores_per_sec": 288759.17022830463,
+  "model": "TransE",
+  "model_path": "models/WN18RR_TransE.pt"
+}

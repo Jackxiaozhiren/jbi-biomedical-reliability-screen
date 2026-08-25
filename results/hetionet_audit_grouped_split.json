@@ -1,0 +1,63 @@
+{
+  "variant": "P1-4_grouped_split",
+  "j": 9,
+  "k": 500,
+  "n_queries": 10516,
+  "split": "per-query grouped vs record-level",
+  "grouped": [
+    {
+      "target": 0.05,
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n_screened_in": 0
+    },
+    {
+      "target": 0.1,
+      "cutoff": 0.003992015968063872,
+      "realized_fdr": 0.09375,
+      "coverage": 0.04381894256371244,
+      "n_screened_in": 2304
+    },
+    {
+      "target": 0.2,
+      "cutoff": 0.015968063872255488,
+      "realized_fdr": 0.1972925545249436,
+      "coverage": 0.07586534804108026,
+      "n_screened_in": 3989
+    }
+  ],
+  "grouped_BH": {
+    "n_rejected": 0,
+    "cutoff": 0.0,
+    "rate": 0.0
+  },
+  "record": [
+    {
+      "target": 0.05,
+      "cutoff": 0.0,
+      "realized_fdr": 0.0,
+      "coverage": 0.0,
+      "n_screened_in": 0
+    },
+    {
+      "target": 0.1,
+      "cutoff": 0.003992015968063872,
+      "realized_fdr": 0.08286818376985831,
+      "coverage": 0.044294408520349944,
+      "n_screened_in": 2329
+    },
+    {
+      "target": 0.2,
+      "cutoff": 0.015968063872255488,
+      "realized_fdr": 0.19416749750747755,
+      "coverage": 0.07630277672118677,
+      "n_screened_in": 4012
+    }
+  ],
+  "record_BH": {
+    "n_rejected": 0,
+    "cutoff": 0.0,
+    "rate": 0.0
+  }
+}
