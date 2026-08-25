@@ -34,4 +34,4 @@ Please cite the JBI article and the versioned release of this repository. The ve
 
 ## Status
 
-This is the JBI-specific public release candidate. It is separate from the earlier `fdr-kg` repository and does not contain that repository's KBS/ESWA historical materials.
+This is the JBI-specific public release `v1.0.0`. It is separate from the earlier `fdr-kg` repository and does not contain that repository's KBS/ESWA historical materials.
