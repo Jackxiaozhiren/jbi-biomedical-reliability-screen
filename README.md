@@ -16,11 +16,13 @@ The reported quantities describe reliability and enrichment under the declared s
 - `external_validation/` — frozen protocol, fetch/alignment scripts, compact derived evidence tables, and summary reports;
 - `results/` — derived JSON result exports used by the manuscript;
 - `analysis/` and `figures/` — derived reports and generated figures;
-- `models/manifest.json` — model metadata and result-to-model path manifest.
+- `models/manifest.json` — model metadata and result-to-model path manifest;
+- `RELEASE_MANIFEST.sha256` — checksum manifest for the corresponding frozen release state;
+- `CITATION.cff` — citation metadata.
 
 ## Deliberate exclusions
 
-This public candidate excludes `.mimosa/` session traces, QA directories, private paths, credentials, API caches, large candidate-level exports, raw third-party datasets, and model/checkpoint binaries whose redistribution terms have not been independently cleared. The excluded large candidate exports are retained locally only and are not part of this repository.
+This public repository excludes `.mimosa/` session traces, QA directories, private paths, credentials, API caches, large candidate-level exports, raw third-party datasets, and model/checkpoint binaries whose redistribution terms have not been independently cleared. The excluded large candidate exports are retained locally only and are not part of the public release.
 
 The source public datasets and external APIs remain subject to their own terms. Readers should obtain source data from the original providers and use the frozen protocol and derived exports for interpretation. Model binaries can be added only after their licenses permit redistribution.
 
@@ -28,10 +30,18 @@ The source public datasets and external APIs remain subject to their own terms. 
 
 The derived JSON exports are the frozen evidence used for the manuscript. A generic checkout is not claimed to retrain every model or recreate every external API response without the corresponding permitted data, model files, API access, and environment. No cached API response is redistributed in this release.
 
+See `docs/REPRODUCIBILITY.md` for release-integrity guidance.
+
 ## Citation
 
 Please cite the JBI article and the versioned release of this repository. The version-specific citation record is described in `CITATION.cff`.
 
-## Status
+## License and third-party terms
 
-This is the JBI-specific public release `v1.0.0`. It is separate from the earlier `fdr-kg` repository and does not contain that repository's KBS/ESWA historical materials.
+Project-authored source code is licensed under the BSD 3-Clause License; see `LICENSE`. This does not relicense third-party datasets, APIs, models, checkpoints, or external software. See `RIGHTS_AND_TERMS.md` and `THIRD_PARTY_NOTICES.md`.
+
+## Version status
+
+The existing `v1.0.0` release remains an immutable historical release snapshot. Licensing/rights/CI metadata added after that tag should be published as a new patch release (recommended `v1.0.1`) with a regenerated checksum manifest rather than modifying the old release in place.
+
+This JBI-specific repository is separate from the earlier `fdr-kg` repository and does not contain that repository's historical submission materials.
