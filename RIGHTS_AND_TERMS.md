@@ -1,5 +1,9 @@
 # Rights and Terms
 
-This release contains code and derived research artifacts selected for public distribution. No additional license is granted to third-party datasets, API content, models, checkpoints, or external software beyond the terms of their original providers.
+The source code in this repository is licensed under the BSD 3-Clause License; see `LICENSE`.
 
-The repository owner must select and add a code license before the final public release if reuse under an explicit open-source license is intended. Until then, the repository should be treated as publicly accessible but not as granting unrestricted reuse rights. Model binaries, raw datasets, cached API responses, and large candidate-level exports are intentionally excluded pending rights review.
+This public release also contains derived research artifacts selected for scholarly verification. The BSD 3-Clause software license does **not** grant any additional rights in third-party datasets, API content, pretrained models, checkpoints, external software, trademarks, or other materials owned by their respective providers. Those materials remain governed by their original licenses and terms.
+
+Raw third-party datasets, cached API responses, model/checkpoint binaries without independently cleared redistribution rights, credentials, private paths, session traces, and large candidate-level exports are intentionally excluded from this release.
+
+Where a released derived artifact incorporates or depends on third-party information, users remain responsible for complying with the applicable upstream terms. Nothing in this repository should be interpreted as relicensing third-party material.

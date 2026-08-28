@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  statistical-core:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install test dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install numpy scipy pytest
+      - name: Compile released code
+        run: python -m compileall -q code external_validation
+      - name: Run statistical-core tests
+        working-directory: code
+        run: pytest -q test_stats_core.py
