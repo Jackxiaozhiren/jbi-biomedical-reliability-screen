@@ -20,6 +20,22 @@ The reported quantities describe reliability and enrichment under the declared s
 - `RELEASE_MANIFEST.sha256` — checksum manifest for the corresponding frozen release state;
 - `CITATION.cff` — citation metadata.
 
+## Environment
+
+For the dependency-light statistical and baseline checks used by CI:
+
+```bash
+python -m pip install -r requirements-core.txt
+```
+
+For scripts that load or train PyKEEN models:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+The full environment records the model-stack compatibility pair documented in `code/env_patch.py` (`pykeen==1.10.1` with PyTorch 2.8.x). The public repository remains a bounded reproducibility release: model/checkpoint binaries and upstream data are not redistributed unless their terms permit it.
+
 ## Deliberate exclusions
 
 This public repository excludes `.mimosa/` session traces, QA directories, private paths, credentials, API caches, large candidate-level exports, raw third-party datasets, and model/checkpoint binaries whose redistribution terms have not been independently cleared. The excluded large candidate exports are retained locally only and are not part of the public release.
@@ -42,6 +58,6 @@ Project-authored source code is licensed under the BSD 3-Clause License; see `LI
 
 ## Version status
 
-The existing `v1.0.0` release remains an immutable historical release snapshot. Licensing/rights/CI metadata added after that tag should be published as a new patch release (recommended `v1.0.1`) with a regenerated checksum manifest rather than modifying the old release in place.
+The existing `v1.0.0` release remains an immutable historical release snapshot. Licensing/rights/CI metadata and the audited protocol clarification added after that tag should be published as a new patch release (recommended `v1.0.1`) with a regenerated checksum manifest rather than modifying the old release in place.
 
 This JBI-specific repository is separate from the earlier `fdr-kg` repository and does not contain that repository's historical submission materials.
