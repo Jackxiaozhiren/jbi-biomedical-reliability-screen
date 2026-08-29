@@ -12,7 +12,7 @@ The reported quantities describe reliability and enrichment under the declared s
 
 ## Contents
 
-- `code/` — analysis, audit, evaluation, deterministic test scripts, and the synchronized manuscript Figure 5 generator;
+- `code/` — analysis, audit, evaluation, deterministic test scripts, the synchronized manuscript Figure 5 generator, and release-manifest helper;
 - `external_validation/` — frozen protocol, fetch/alignment scripts, compact derived evidence tables, and summary reports;
 - `results/` — derived JSON result exports used by the manuscript;
 - `analysis/` and `figures/` — derived reports and generated figures;
@@ -44,6 +44,12 @@ python code/generate_pipeline_fig.py
 ```
 
 The old pre-hardening pipeline binaries remain preserved in the immutable `v1.0.0` tag; the `v1.0.1` candidate uses the synchronized v5 generator instead. See `docs/FIG5_PROVENANCE.md` for the canonical manuscript asset hashes and verification record.
+
+Immediately before publishing a versioned release, regenerate the tracked-tree checksum manifest with:
+
+```bash
+python code/generate_release_manifest.py --write
+```
 
 ## Deliberate exclusions
 
