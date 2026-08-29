@@ -13,7 +13,7 @@ This checklist closes the gap between the historical `v1.0.0` repository snapsho
 - [x] Add `requirements.txt` for the PyKEEN/Torch model environment.
 - [x] Expand CI to compile released Python sources and run the dependency-light statistical/baseline tests while retaining read-only permissions and immutable action pins.
 - [x] Synchronize the manuscript Figure 5 generator to the collision-free v5 layout and record canonical manuscript asset hashes in `docs/FIG5_PROVENANCE.md`.
-- [x] Remove stale pre-hardening `analysis/master_pipeline.{pdf,png}` binaries from the patch candidate; they remain preserved in the immutable `v1.0.0` tag.
+- [x] Remove stale pre-hardening `analysis/master_pipeline.{pdf,png}` binaries from the patch candidate; they remain preserved in the immutable `v1.0.0` tag. The patch regenerates Figure 5 from frozen result JSONs rather than committing a PDF whose byte hash varies with generation metadata.
 - [x] Review the other manuscript-facing result figures. Their v4/public binary differences are rendering metadata only (pixel-identical at the audited raster comparison) or exact matches, so no scientific replacement is required.
 - [x] Audit the candidate tree for release-boundary exclusions: no API cache directory, `.mimosa` session trace, QA tree, checkpoint/model binary, or raw third-party dataset is present.
 - [x] Add `code/generate_release_manifest.py` so the checksum manifest can be rebuilt deterministically from the exact tracked release tree.
