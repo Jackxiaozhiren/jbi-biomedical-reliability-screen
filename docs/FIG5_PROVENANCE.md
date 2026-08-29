@@ -22,6 +22,8 @@ A clean local run of the synchronized generator produced a PDF that, when raster
 
 The stale pre-hardening `analysis/master_pipeline.pdf` and `analysis/master_pipeline.png` carried by `v1.0.0` are therefore intentionally absent from the `v1.0.1` candidate tree. They remain preserved in the immutable historical `v1.0.0` tag.
 
+The other manuscript-facing result figures were also cross-checked against the audited v4 release. They are either exact binary matches or rasterize pixel-for-pixel identically; those differences are therefore non-scientific rendering metadata and do not require replacement in the patch.
+
 To regenerate the synchronized figure locally:
 
 ```bash
