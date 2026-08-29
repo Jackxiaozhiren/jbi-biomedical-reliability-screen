@@ -12,11 +12,12 @@ The reported quantities describe reliability and enrichment under the declared s
 
 ## Contents
 
-- `code/` — analysis, audit, evaluation, and deterministic test scripts;
+- `code/` — analysis, audit, evaluation, deterministic test scripts, and the synchronized manuscript Figure 5 generator;
 - `external_validation/` — frozen protocol, fetch/alignment scripts, compact derived evidence tables, and summary reports;
 - `results/` — derived JSON result exports used by the manuscript;
 - `analysis/` and `figures/` — derived reports and generated figures;
 - `models/manifest.json` — model metadata and result-to-model path manifest;
+- `docs/FIG5_PROVENANCE.md` — manuscript Figure 5 hash/provenance and v5 layout synchronization record;
 - `RELEASE_MANIFEST.sha256` — checksum manifest for the corresponding frozen release state;
 - `CITATION.cff` — citation metadata.
 
@@ -35,6 +36,14 @@ python -m pip install -r requirements.txt
 ```
 
 The full environment records the model-stack compatibility pair documented in `code/env_patch.py` (`pykeen==1.10.1` with PyTorch 2.8.x). The public repository remains a bounded reproducibility release: model/checkpoint binaries and upstream data are not redistributed unless their terms permit it.
+
+To regenerate the manuscript-facing pipeline figure from the frozen result JSONs:
+
+```bash
+python code/generate_pipeline_fig.py
+```
+
+The old pre-hardening pipeline binaries remain preserved in the immutable `v1.0.0` tag; the `v1.0.1` candidate uses the synchronized v5 generator instead. See `docs/FIG5_PROVENANCE.md` for the canonical manuscript asset hashes and verification record.
 
 ## Deliberate exclusions
 
