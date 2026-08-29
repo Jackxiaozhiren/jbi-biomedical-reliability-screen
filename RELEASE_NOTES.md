@@ -14,7 +14,8 @@ Changes prepared for the patch:
 - removes the stale pre-hardening pipeline binaries from the patch candidate while preserving them in the immutable `v1.0.0` tag;
 - adds explicit dependency files for lightweight CI and the PyKEEN/Torch model environment;
 - expands CI to compile released Python sources, exercise dependency-light statistical/baseline tests, and dry-run deterministic release-manifest generation;
-- adds a deterministic `code/generate_release_manifest.py` helper for final release checksums.
+- adds a deterministic `code/generate_release_manifest.py` helper for final release checksums;
+- incorporates the archival environment-capture policy for the exact validated workstation/container state.
 
 Before the tag is published, `CITATION.cff` must be updated to the actual `v1.0.1` publication date and `RELEASE_MANIFEST.sha256` must be regenerated from the exact final tracked tree. See `docs/RELEASE_V1.0.1_CHECKLIST.md`.
 
