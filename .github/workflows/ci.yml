@@ -23,3 +23,5 @@ jobs:
       - name: Run dependency-light released tests
         working-directory: code
         run: pytest -q test_stats_core.py test_baselines.py -k 'not scores_shape_and_range'
+      - name: Dry-run release manifest generator
+        run: python code/generate_release_manifest.py > /tmp/release-manifest.sha256
