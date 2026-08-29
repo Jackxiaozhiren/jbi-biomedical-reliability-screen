@@ -51,6 +51,8 @@ Immediately before publishing a versioned release, regenerate the tracked-tree c
 python code/generate_release_manifest.py --write
 ```
 
+For a verified archival release, also capture the exact validated execution environment rather than inferring historical dependency versions; see `docs/REPRODUCIBILITY.md`.
+
 ## Deliberate exclusions
 
 This public repository excludes `.mimosa/` session traces, QA directories, private paths, credentials, API caches, large candidate-level exports, raw third-party datasets, and model/checkpoint binaries whose redistribution terms have not been independently cleared. The excluded large candidate exports are retained locally only and are not part of the public release.
