@@ -48,6 +48,8 @@ NODES_URL = (f"https://{NODES_HOST}/hetio/hetionet/main/"
              "hetnet/tsv/hetionet-v1.0-nodes.tsv")
 START_CUTOFF = "2017-01-01"          # frozen (protocol §5)
 STRIP_WORDS = {"disease", "syndrome", "chronic", "acute"}  # frozen pass 2
+# The frozen ClinicalTrials.gov RANGE is operationally inclusive at
+# START_CUTOFF; exact-boundary records are retained and reported.
 
 
 # ---------- confined filesystem helpers ----------
@@ -256,34 +258,26 @@ def extract_evidence(names: dict, delay: float) -> dict:
                     report["n_pairs_emitted"] += 1
     write_under(CACHE / "manifest.json", json.dumps(manifest, indent=1,
                                                     sort_keys=True))
-    return {"report": report, "pairs": pairs}
+
+    out = EV / "evidence_ctd.tsv"
+    with open(out, "w") as f:
+        f.write("compound_id\tcompound_name\tdisease_id\tdisease_name\tnct_ids\tstart_dates\n")
+        for (cid, did), rec in sorted(pairs.items()):
+            f.write(f"{cid}\t{rec['compound']}\t{did}\t{rec['disease']}\t"
+                    f"{','.join(sorted(rec['nct_ids']))}\t"
+                    f"{','.join(sorted(rec['start_dates']))}\n")
+    report["n_unique_pairs"] = len(pairs)
+    write_under(EV / "ctgov_alignment_report.json", json.dumps(report, indent=2))
+    return report
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--delay", type=float, default=0.6)
     args = ap.parse_args()
-
-    CACHE.mkdir(parents=True, exist_ok=True)
     names = load_hetionet_names()
-    print(f"Hetionet names: {len(names['primary']['Disease'])} diseases, "
-          f"{len(names['primary']['Compound'])} compounds", flush=True)
-    out = extract_evidence(names, args.delay)
-    rep, pairs = out["report"], out["pairs"]
-    print("ALIGNMENT REPORT:", json.dumps(rep, indent=1), flush=True)
-
-    lines = ["compound_id\tcompound_name\tdisease_id\tdisease_name\t"
-             "n_trials\tstart_years\tearliest_start\tlatest_start"]
-    for (cid, did), rec in sorted(pairs.items()):
-        yrs = sorted({d[:4] for d in rec["start_dates"]})
-        ds_ = sorted(rec["start_dates"])
-        lines.append(f"{cid}\t{rec['compound']}\t{did}\t{rec['disease']}\t"
-                     f"{len(rec['nct_ids'])}\t{','.join(yrs)}\t{ds_[0]}\t"
-                     f"{ds_[-1]}")
-    write_under(EV / "evidence_ctd.tsv", "\n".join(lines) + "\n")
-    write_under(EV / "ctgov_alignment_report.json", json.dumps(rep, indent=1))
-    print(f"{len(pairs)} (compound, disease) evidence pairs -> "
-          f"{EV / 'evidence_ctd.tsv'}", flush=True)
+    report = extract_evidence(names, args.delay)
+    print(json.dumps(report, indent=2))
 
 
 if __name__ == "__main__":

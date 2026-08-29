@@ -190,7 +190,9 @@ def export_relation(model, dataset, rel_name, tail_kind, k, seed, thr, out_path)
         f.write("head_label\trelation\ttail_label\tp\tscore\t"
                 "keep_main\tkeep_t20\tkeep_cost11\tkeep_relcond\n")
         for hl, rn, tl, p, sc in rows:
-            f.write(f"{hl}\t{rn}\t{tl}\t{p:.8g}\t{sc:.8g}\t"
+            # Preserve the (K+1)-grid value at full double precision so a
+            # reader can reproduce the stored keep flags at threshold ties.
+            f.write(f"{hl}\t{rn}\t{tl}\t{p:.17g}\t{sc:.17g}\t"
                     f"{int(p <= main)}\t{int(p <= t20)}\t{int(p <= cost11)}\t"
                     f"{int(p <= relc)}\n")
     summary = {

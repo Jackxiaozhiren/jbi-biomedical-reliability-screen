@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use these JBI reproducibility materials, please cite the versioned release and the associated article."
 title: "JBI Biomedical Reliability Screen: Code and Derived Results"
 type: software
-version: 1.0.0
-date-released: 2026-08-25
+version: 1.0.1
+date-released: 2026-08-29
 authors:
   - family-names: Xiao
     given-names: Zhiren

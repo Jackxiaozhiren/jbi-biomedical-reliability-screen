@@ -1,7 +1,7 @@
 # E1 实体对齐报告（entity_alignment.md）
 
-> 依据：protocol_frozen.md §5/§6 对齐规则（规范化精确匹配、丢弃强制计数）| 生成：2026-08-22
-> CbG 侧对齐率已定，活性证据表待 ChEMBL 抓取完成后回填（见 §2 待回填标记）。
+> 依据：protocol_frozen.md §5/§6 对齐规则（规范化精确匹配、丢弃强制计数）| 生成：2026-08-22，v4 审计复核：2026-08-26
+> CtD 与 CbG 两侧对齐率和证据表均已完成；外部 CTgov 名称表查询 137 个 Disease 标签，模型候选空间包含 134 个相连 Disease 尾节点。
 
 ## 1. CtD（ClinicalTrials.gov → Hetionet Compound × Disease）
 
@@ -10,7 +10,7 @@
 | 项 | 数值 | 说明 |
 |---|---|---|
 | 查询病种数 | 137 | Hetionet 全部 Disease 节点（实际 137 个，含 3 个常用别名变体） |
-| 命中研究（startDate > 2017-01-01） | 186,670 | `query.cond` 逐病种 + `filter.advanced=AREA[StartDate]RANGE[2017-01-01,MAX]` |
+| 命中研究（startDate >= 2017-01-01，含操作边界） | 186,670 | `query.cond` 逐病种 + `filter.advanced=AREA[StartDate]RANGE[2017-01-01,MAX]` |
 | condition 字符串总数 / 对齐 | 567,325 / **83,494（14.7%）** | 未对齐=超出 137 病种宇宙（多数研究针对其他疾病），如实丢弃 |
 | intervention 字符串总数 / 对齐 | 339,381 / **29,356（8.7%）** | 未对齐=非 Hetionet 1,552 化合物（安慰剂/器械/其他药物/组合词），如实丢弃 |
 | 对齐后证据对 | **1,521** (compound × disease) | 8,758 次对齐发射去重 |
@@ -39,7 +39,7 @@
 
 ## 3. 对齐方法的已知局限（如实入论文 Limitations 素材）
 
-1. CtD 病种/药物对齐为**规范化精确匹配**（无模糊检索）——保守：真实可对齐但写法不同的条件/干预被计为丢弃（方向对称，稀释而非偏置）
+1. CtD 病种/药物对齐为**规范化精确匹配**（无模糊检索）——保守：真实可对齐但写法不同的条件/干预被计为丢弃（方向对称，稀释而非偏置）；当前 CTgov 操作 cutoff 为 `startDate >= 2017-01-01`，两条最早日期恰在边界的 evidence pair 已在 v4 审计中明确保留。
 2. 试验的 interventions×conditions 笛卡尔积可能引入非因果组合（标准 repurposing 验证惯例，Zhang 2021 JBI 同法）
 3. ChEMBL document_year 是文献发表年代（非实验执行年代）——冻结定义为"公开证据出现时间"，两窗对称
 4. CpD（palliates）声明不可外部验证（协议 §7）：试验注册不区分 treat/palliate 意图

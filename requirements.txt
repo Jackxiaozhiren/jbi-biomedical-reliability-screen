@@ -1,0 +1,6 @@
+# Full environment for scripts that load/train PyKEEN models.
+# The PyKEEN/Torch pair is documented in code/env_patch.py.
+-r requirements-core.txt
+
+torch>=2.8,<2.9
+pykeen==1.10.1
