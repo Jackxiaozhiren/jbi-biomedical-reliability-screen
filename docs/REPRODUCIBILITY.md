@@ -10,7 +10,7 @@ The repository is a bounded reproducibility release: it contains analysis code, 
 
 ## v1.0.1 synchronization patch
 
-The patch release is intended to align the public reproducibility materials with the final JBI submission evidence boundary without changing the frozen research results. Its preparation includes the audited ClinicalTrials.gov boundary clarification, the 137-external-query/134-model-tail distinction, synchronized result reporting, the collision-free Figure 5 generator, explicit dependency files, and expanded CI.
+The patch release is intended to align the public reproducibility materials with the final JBI submission evidence boundary without changing the frozen research results. Its preparation includes the audited ClinicalTrials.gov boundary clarification, the 137-external-query/134-model-tail distinction, synchronized result reporting, full-precision candidate exports, the collision-free Figure 5 generator, explicit dependency files, and expanded CI.
 
 The exact manuscript-facing Figure 5 asset hashes and regeneration verification are recorded in `FIG5_PROVENANCE.md`.
 
