@@ -17,16 +17,15 @@ This checklist closes the gap between the historical `v1.0.0` repository snapsho
 - [x] Review the other manuscript-facing result figures. Their v4/public binary differences are rendering metadata only (pixel-identical at the audited raster comparison) or exact matches, so no scientific replacement is required.
 - [x] Audit the candidate tree for release-boundary exclusions: no API cache directory, `.mimosa` session trace, QA tree, checkpoint/model binary, or raw third-party dataset is present.
 - [x] Add `code/generate_release_manifest.py` so the checksum manifest can be rebuilt deterministically from the exact tracked release tree.
-- [x] Add a CI dry-run of the release-manifest generator.
+- [x] Extend CI to generate/export a candidate release manifest and verify it against the checked-in `RELEASE_MANIFEST.sha256`.
 - [x] Incorporate the exact archival environment-capture policy from current `main`.
+- [x] Update `CITATION.cff` to `version: 1.0.1` with release date `2026-08-29`.
 
 ## Required immediately before publishing `v1.0.1`
 
-- [ ] Confirm CI passes on the final candidate commit after the last text/code change.
-- [ ] Update `CITATION.cff` to `version: 1.0.1` and the actual publication date.
-- [ ] Run `python code/generate_release_manifest.py --write`, review the diff, and commit the regenerated `RELEASE_MANIFEST.sha256` as the final content change.
-- [ ] Reconfirm CI on that exact manifest commit.
-- [ ] Create tag/release `v1.0.1` from that exact commit; do not move or rewrite `v1.0.0`.
+- [ ] Generate the final candidate manifest from the exact tracked tree, review it, and replace `RELEASE_MANIFEST.sha256` as the final content change.
+- [ ] Confirm CI passes on that exact manifest commit, including the manifest equality check.
+- [ ] Merge the reviewed PR and create tag/release `v1.0.1` from the merged release commit; do not move or rewrite `v1.0.0`.
 - [ ] Change the manuscript Code/Data Availability release URL from `v1.0.0` to `v1.0.1` only after the new release exists.
 - [ ] If an archival DOI is minted, archive the exact `v1.0.1` tag and add the DOI to citation metadata without changing the tagged research artifacts afterward.
 
@@ -36,4 +35,4 @@ This checklist closes the gap between the historical `v1.0.0` repository snapsho
 
 ## Why the candidate remains a draft
 
-The branch is intentionally kept as a draft until the last two release-specific files are finalized: `CITATION.cff` and `RELEASE_MANIFEST.sha256`. Those values depend on the actual release date and the exact final tracked tree, so freezing them earlier would make the release metadata stale again.
+The branch remains a draft only until the deterministic `RELEASE_MANIFEST.sha256` is synchronized with this exact tree and CI confirms equality. All other release-specific metadata has been frozen for the planned `2026-08-29` patch release.
