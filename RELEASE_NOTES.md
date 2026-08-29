@@ -13,11 +13,12 @@ Changes prepared for the patch:
 - synchronizes the manuscript Figure 5 generator to the final collision-free v5 layout and records the canonical manuscript asset hashes in `docs/FIG5_PROVENANCE.md`;
 - removes the stale pre-hardening pipeline binaries from the patch candidate while preserving them in the immutable `v1.0.0` tag; Figure 5 is regenerated from frozen result JSONs rather than committing a metadata-variant PDF;
 - adds explicit dependency files for lightweight CI and the PyKEEN/Torch model environment;
-- expands CI to compile released Python sources, exercise dependency-light statistical/baseline tests, and dry-run deterministic release-manifest generation;
-- adds a deterministic `code/generate_release_manifest.py` helper for final release checksums;
-- incorporates the archival environment-capture policy for the exact validated workstation/container state.
+- expands CI to compile released Python sources, exercise dependency-light statistical/baseline tests, generate a deterministic candidate checksum manifest, and verify the checked-in manifest;
+- adds `code/generate_release_manifest.py` for deterministic release checksums;
+- incorporates the archival environment-capture policy for the exact validated workstation/container state;
+- updates `CITATION.cff` to `version: 1.0.1` with release date `2026-08-29`.
 
-Before the tag is published, `CITATION.cff` must be updated to the actual `v1.0.1` publication date and `RELEASE_MANIFEST.sha256` must be regenerated from the exact final tracked tree. See `docs/RELEASE_V1.0.1_CHECKLIST.md`.
+The remaining release-specific content step is to regenerate `RELEASE_MANIFEST.sha256` from the exact final tracked tree and confirm CI on that manifest commit. See `docs/RELEASE_V1.0.1_CHECKLIST.md`.
 
 ## v1.0.0
 
