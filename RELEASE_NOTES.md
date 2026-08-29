@@ -6,7 +6,7 @@ This patch prepares the repository to match the final JBI submission evidence bo
 
 Changes prepared for the patch:
 
-- documents the executed inclusive ClinicalTrials.gov boundary, `startDate >= 2017-01-01`;
+- documents the executed inclusive ClinicalTrials.gov boundary, `startDate >= 2017-01-01`, including the fetcher-side boundary note;
 - distinguishes 137 external Disease query labels from 134 connected model-side Disease tails;
 - synchronizes the entity-alignment report and master result report with the audited v4 evidence state;
 - preserves full candidate p-value/score precision so exported KEEP/WITHHOLD flags remain reproducible at threshold ties;
