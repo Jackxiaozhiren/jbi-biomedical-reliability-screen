@@ -8,11 +8,15 @@ Changes prepared for the patch:
 
 - documents the executed inclusive ClinicalTrials.gov boundary, `startDate >= 2017-01-01`;
 - distinguishes 137 external Disease query labels from 134 connected model-side Disease tails;
-- synchronizes the entity-alignment report with the audited v4 protocol wording;
+- synchronizes the entity-alignment report and master result report with the audited v4 evidence state;
+- preserves full candidate p-value/score precision so exported KEEP/WITHHOLD flags remain reproducible at threshold ties;
+- synchronizes the manuscript Figure 5 generator to the final collision-free v5 layout and records the canonical manuscript asset hashes in `docs/FIG5_PROVENANCE.md`;
+- removes the stale pre-hardening pipeline binaries from the patch candidate while preserving them in the immutable `v1.0.0` tag;
 - adds explicit dependency files for lightweight CI and the PyKEEN/Torch model environment;
-- expands CI to compile the released Python sources and exercise the dependency-light statistical/baseline tests.
+- expands CI to compile released Python sources, exercise dependency-light statistical/baseline tests, and dry-run deterministic release-manifest generation;
+- adds a deterministic `code/generate_release_manifest.py` helper for final release checksums.
 
-Before the tag is published, the final manuscript-facing pipeline figure must be synchronized, `CITATION.cff` must be updated to the actual `v1.0.1` publication date, and `RELEASE_MANIFEST.sha256` must be regenerated from the exact final tree. See `docs/RELEASE_V1.0.1_CHECKLIST.md`.
+Before the tag is published, `CITATION.cff` must be updated to the actual `v1.0.1` publication date and `RELEASE_MANIFEST.sha256` must be regenerated from the exact final tracked tree. See `docs/RELEASE_V1.0.1_CHECKLIST.md`.
 
 ## v1.0.0
 
