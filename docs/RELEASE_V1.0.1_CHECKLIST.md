@@ -32,3 +32,7 @@ This checklist closes the gap between the historical `v1.0.0` repository snapsho
 ## Release boundary
 
 `v1.0.1` is a patch-level reproducibility synchronization release, not a new experiment. The audited protocol addendum documents the executed boundary and the 137/134 universe distinction; it does not promote post-hoc sensitivity analyses to primary results or alter the frozen result JSONs.
+
+## Why the candidate remains a draft
+
+The branch is intentionally kept as a draft until the last two release-specific files are finalized: `CITATION.cff` and `RELEASE_MANIFEST.sha256`. Those values depend on the actual release date and the exact final tracked tree, so freezing them earlier would make the release metadata stale again.
