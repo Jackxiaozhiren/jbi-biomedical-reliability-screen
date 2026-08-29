@@ -39,6 +39,8 @@ This writes:
 - `figures/fig5_pipeline.png`
 - `figures/fig5_pipeline.svg`
 
+The public patch release intentionally treats the generator plus frozen result JSONs as the reproducible source for this manuscript layout rather than committing a newly generated PDF whose byte hash would vary with PDF metadata.
+
 ## Scientific boundary
 
 This synchronization does not change any frozen result JSON, threshold, candidate set, FDR estimate, cost estimate, or external-validation result. It only aligns the public figure-generation source with the final manuscript layout.
