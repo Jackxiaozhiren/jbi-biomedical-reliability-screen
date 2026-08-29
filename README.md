@@ -1,10 +1,12 @@
 # JBI Biomedical Reliability Screen — Code and Derived Results
 
+[![Release](https://img.shields.io/github/v/release/Jackxiaozhiren/jbi-biomedical-reliability-screen?label=release)](https://github.com/Jackxiaozhiren/jbi-biomedical-reliability-screen/releases/tag/v1.0.1)
+
 This repository contains the JBI-specific reproducibility materials for:
 
 > **An externally validated reliability audit for knowledge-graph-based drug repurposing screens**
 
-The release covers a conditional keep/withhold reliability screen for biomedical knowledge-graph link predictions. It includes the frozen protocol, analysis code, derived result exports, compact external-validation summaries, and generated analysis figures.
+The frozen scientific release is **[`v1.0.1`](https://github.com/Jackxiaozhiren/jbi-biomedical-reliability-screen/releases/tag/v1.0.1)**. It covers a conditional keep/withhold reliability screen for biomedical knowledge-graph link predictions, including the frozen protocol, analysis code, derived result exports, compact external-validation summaries, and generated analysis figures.
 
 ## Scope and interpretation
 
@@ -43,15 +45,15 @@ To regenerate the manuscript-facing pipeline figure from the frozen result JSONs
 python code/generate_pipeline_fig.py
 ```
 
-The old pre-hardening pipeline binaries remain preserved in the immutable `v1.0.0` tag; the `v1.0.1` candidate uses the synchronized v5 generator instead. See `docs/FIG5_PROVENANCE.md` for the canonical manuscript asset hashes and verification record.
+The old pre-hardening pipeline binaries remain preserved in the immutable `v1.0.0` tag; the published `v1.0.1` release uses the synchronized v5 generator instead. See `docs/FIG5_PROVENANCE.md` for the canonical manuscript asset hashes and verification record.
 
-Immediately before publishing a versioned release, regenerate the tracked-tree checksum manifest with:
+For release-integrity verification, the tracked checksum manifest was regenerated and frozen on the exact `v1.0.1` release commit using:
 
 ```bash
 python code/generate_release_manifest.py --write
 ```
 
-For a verified archival release, also capture the exact validated execution environment rather than inferring historical dependency versions; see `docs/REPRODUCIBILITY.md`.
+See `docs/REPRODUCIBILITY.md` for the environment and release-integrity boundary.
 
 ## Deliberate exclusions
 
@@ -75,6 +77,9 @@ Project-authored source code is licensed under the BSD 3-Clause License; see `LI
 
 ## Version status
 
-The existing `v1.0.0` release remains an immutable historical release snapshot. The `v1.0.1` candidate synchronizes the final JBI submission evidence boundary while leaving the frozen research result JSONs unchanged. Release-specific citation date/version and checksum manifest are intentionally finalized only on the exact release commit.
+- `v1.0.0` — immutable historical pre-hardening release snapshot.
+- `v1.0.1` — final audited JBI submission evidence boundary and current scientific release.
+
+The `v1.0.1` tag remains the immutable scientific snapshot even if `main` later receives documentation-only discoverability updates.
 
 This JBI-specific repository is separate from the earlier `fdr-kg` repository and does not contain that repository's historical submission materials.
