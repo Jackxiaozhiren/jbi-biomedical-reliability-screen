@@ -73,6 +73,6 @@ Project-authored source code is licensed under the BSD 3-Clause License; see `LI
 
 ## Version status
 
-The existing `v1.0.0` release remains an immutable historical release snapshot. Licensing/rights/CI metadata and the audited protocol clarification added after that tag should be published as a new patch release (recommended `v1.0.1`) with a regenerated checksum manifest rather than modifying the old release in place.
+The existing `v1.0.0` release remains an immutable historical release snapshot. The `v1.0.1` candidate synchronizes the final JBI submission evidence boundary while leaving the frozen research result JSONs unchanged. Release-specific citation date/version and checksum manifest are intentionally finalized only on the exact release commit.
 
 This JBI-specific repository is separate from the earlier `fdr-kg` repository and does not contain that repository's historical submission materials.
