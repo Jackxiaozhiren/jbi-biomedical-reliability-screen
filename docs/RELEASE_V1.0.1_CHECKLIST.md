@@ -4,7 +4,7 @@ This checklist closes the gap between the historical `v1.0.0` repository snapsho
 
 ## Already prepared on this branch
 
-- [x] Clarify the executed ClinicalTrials.gov cutoff as `startDate >= 2017-01-01`.
+- [x] Clarify the executed ClinicalTrials.gov cutoff as `startDate >= 2017-01-01` and mirror that boundary in the fetcher documentation.
 - [x] Distinguish the 137 external Disease query labels from the 134 connected model-side Disease tails.
 - [x] Synchronize the entity-alignment report with the audited v4 protocol wording.
 - [x] Synchronize `analysis/MASTER_REPORT.md` with the audited v4 result summaries and current frozen JSON exports.
@@ -17,6 +17,7 @@ This checklist closes the gap between the historical `v1.0.0` repository snapsho
 - [x] Review the other manuscript-facing result figures. Their v4/public binary differences are rendering metadata only (pixel-identical at the audited raster comparison) or exact matches, so no scientific replacement is required.
 - [x] Audit the candidate tree for release-boundary exclusions: no API cache directory, `.mimosa` session trace, QA tree, checkpoint/model binary, or raw third-party dataset is present.
 - [x] Add `code/generate_release_manifest.py` so the checksum manifest can be rebuilt deterministically from the exact tracked release tree.
+- [x] Add a CI dry-run of the release-manifest generator.
 
 ## Required immediately before publishing `v1.0.1`
 
