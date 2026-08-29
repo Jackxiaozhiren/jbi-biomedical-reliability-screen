@@ -12,7 +12,7 @@ The repository is a bounded reproducibility release: it contains analysis code, 
 
 The patch release is intended to align the public reproducibility materials with the final JBI submission evidence boundary without changing the frozen research results. Its preparation includes the audited ClinicalTrials.gov boundary clarification, the 137-external-query/134-model-tail distinction, synchronized result reporting, full-precision candidate exports, the collision-free Figure 5 generator, explicit dependency files, and expanded CI.
 
-The exact manuscript-facing Figure 5 asset hashes and regeneration verification are recorded in `FIG5_PROVENANCE.md`.
+The exact manuscript-facing Figure 5 asset hashes and regeneration verification are recorded in `FIG5_PROVENANCE.md`. The patch uses the synchronized generator plus frozen JSONs as the reproducible source for that layout, rather than freezing a newly generated PDF whose byte hash may change with embedded creation metadata.
 
 ## Release-integrity procedure
 
