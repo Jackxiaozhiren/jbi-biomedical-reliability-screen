@@ -23,3 +23,18 @@ Before publishing that patch release:
 ## Environment boundary
 
 A generic checkout is not claimed to recreate every upstream API response or retrain every external model. Exact reruns requiring third-party data/models/API access must follow the frozen protocol and upstream terms. The released derived evidence remains the verification boundary where those upstream materials cannot be redistributed.
+
+## Archival environment capture
+
+For the next verified archival release, capture the exact execution environment from the workstation or container used for the final validated run. Do not infer, backfill, or fabricate historical dependency versions.
+
+Record at minimum:
+
+- Python version;
+- operating system and architecture;
+- exact installed package versions (for example, `python -m pip freeze --all` or an exact Conda export);
+- Git commit SHA for the verified release tree;
+- external dataset, model, and API identifiers plus retrieval dates where applicable;
+- checksums for frozen inputs and released derived evidence where redistribution and licensing permit.
+
+Keep this environment snapshot paired with the release tag and its SHA-256 manifest. If an upstream dependency or API cannot be frozen, document the provider, identifier/version, retrieval procedure, and the reproducibility boundary rather than substituting guessed versions.
