@@ -11,7 +11,7 @@ Changes prepared for the patch:
 - synchronizes the entity-alignment report and master result report with the audited v4 evidence state;
 - preserves full candidate p-value/score precision so exported KEEP/WITHHOLD flags remain reproducible at threshold ties;
 - synchronizes the manuscript Figure 5 generator to the final collision-free v5 layout and records the canonical manuscript asset hashes in `docs/FIG5_PROVENANCE.md`;
-- removes the stale pre-hardening pipeline binaries from the patch candidate while preserving them in the immutable `v1.0.0` tag;
+- removes the stale pre-hardening pipeline binaries from the patch candidate while preserving them in the immutable `v1.0.0` tag; Figure 5 is regenerated from frozen result JSONs rather than committing a metadata-variant PDF;
 - adds explicit dependency files for lightweight CI and the PyKEEN/Torch model environment;
 - expands CI to compile released Python sources, exercise dependency-light statistical/baseline tests, and dry-run deterministic release-manifest generation;
 - adds a deterministic `code/generate_release_manifest.py` helper for final release checksums;
