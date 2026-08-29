@@ -1,9 +1,17 @@
 # E1 时间切片外部验证 — 冻结协议（protocol_frozen.md）
 
-> **状态：FROZEN** | 冻结时间：2026-08-22 | 冻结人：JBI 转投流程编排（用户 2026-08-22 授权"按你的思路进行"）
+> **状态：FROZEN_WITH_V4_AUDIT_ADDENDUM** | 初始冻结时间：2026-08-22 | v4 审计附录：2026-08-26 | 冻结人：JBI 转投流程编排（用户 2026-08-22 授权"按你的思路进行"）
 > 依据：Master Prompt v1 §四 E1 + §六 Phase 2；`ccf-experiment-designer` 设计契约；W4/W5 联网与 API 现场验证（2026-08-22，见 §10）
 > **铁律绑定：本文档定稿后，主结果跑出前不得修改任何阈值/时间窗/对齐规则。修改=重新冻结并留痕。**
 > **主结果跑出前禁止查看任何 KEEP/WITHHOLD × 外部证据交叉数字**（防钓鱼：阈值已全部先行冻结于 §3，无后调空间）。
+
+### v4 audit addendum (2026-08-26)
+
+The current frozen ClinicalTrials.gov implementation uses the inclusive operational cutoff `startDate >= 2017-01-01`, matching the API `RANGE[2017-01-01,MAX]` request and the W1 window `2017-01-01--2020-12-31`. Two retained evidence pairs have an earliest start date exactly `2017-01-01`; they are not silently removed, and the boundary is reported in the v4 audit. This addendum clarifies the existing executed protocol and does not change any threshold or result JSON. A strict `>` interpretation would require a new author-authorized re-freeze and a recomputation.
+
+The external ClinicalTrials.gov name table contains 137 queried Disease labels. The model-side candidate universe contains 134 connected Disease tails; `ileum cancer` (`DOID:10153`), `jejunal cancer` (`DOID:13499`), and `pleural cancer` (`DOID:9917`) are not represented in the model candidate TSV. Counts using these two distinct universes are retained as-is and are now named explicitly.
+
+The 2026-08-22 cached extraction stores trial start years and earliest/latest start-date strings, but not the complete raw study responses. Seven evidence pairs have an earliest declared start date later than the extraction date (including planned starts); these records are retained in the primary executed table because the frozen query was registration-based. A post-hoc exclusion sensitivity using the aggregate evidence table removes those seven pairs and changes the RotatE CtD full-window lift from 5.82 to 5.84 without changing its direction. This sensitivity is not promoted as a new primary result. The manuscript therefore describes the CtD endpoint as corroboration by registered trial records, not observed trial outcomes or efficacy.
 
 ---
 
@@ -51,13 +59,13 @@ GET https://clinicaltrials.gov/api/v2/studies
     &filter.advanced=AREA[StartDate]RANGE[2017-01-01,MAX]
     &pageSize=1000&pageToken=<token>
 ```
-- 对 Hetionet 全部 **134 个 Disease 标签**逐一查询（`query.cond` 的检索扩展由 API 承担）；**不使用 `fields` 参数**（实测部分字段路径触发空响应，取全量记录客户端解析）。
+- 对外部名称表中的全部 **137 个 Disease 标签**逐一查询（`query.cond` 的检索扩展由 API 承担）；模型侧候选空间包含 134 个相连 Disease 尾节点，另有 3 个外部标签不在候选 TSV 中。**不使用 `fields` 参数**（实测部分字段路径触发空响应，取全量记录客户端解析）。
 - 从每条 study 提取：`statusModule.startDateStruct.date`、`conditionsModule.conditions[]`、`armsInterventionsModule.interventions[].name`（仅 type=DRUG 或名称可匹配药物的条目）。
 
 **对齐规则（冻结，对称适用于 KEEP 与 WITHHOLD）**：
-1. **Disease 对齐**：trial condition 规范化（小写、去标点、单复数归一、去修饰词 "disease/syndrome/chronic"）后与 134 个 Disease 标签规范化形式**精确匹配**；一对多时保留全部可匹配 disease（保守扩大分母，稀释方向对称）。对齐率 = 匹配到 ≥1 Disease 的 condition 数 / 总 condition 数。**未匹配 condition 的 trial 不产生对**（如实计数丢弃）。
+1. **Disease 对齐**：trial condition 规范化（小写、去标点、单复数归一、去修饰词 "disease/syndrome/chronic"）后与 137 个外部 Disease 标签规范化形式**精确匹配**；一对多时保留全部可匹配 disease（保守扩大分母，稀释方向对称）。对齐率 = 匹配到 ≥1 Disease 的 condition 数 / 总 condition 数。**未匹配 condition 的 trial 不产生对**（如实计数丢弃）。只有出现在模型侧 134-疾病候选空间的 pair 才能进入 KEEP/WITHHOLD 富集表。
 2. **Compound 对齐**：intervention name 规范化后与 Hetionet Compound name（含 dhimmel `compounds.tsv` 的 synonym 列若有）精确匹配；不模糊匹配。未匹配不产生对。
-3. **证据对定义**：(compound, disease) ∈ 同一 study 的 interventions×conditions 笛卡尔积，且 startDate > 2017-01-01。
+3. **证据对定义**：(compound, disease) ∈ 同一 study 的 interventions×conditions 笛卡尔积，且 startDate >= 2017-01-01（含操作边界；严格 `>` 需另行重算）。
 4. **防污染**：证据对若对应 KG 已知 CtD/CpD 边（即非 absent）自动不在候选空间内（空间构造已排除）；无需额外剔除。** trials whose conditions 全部无法对齐 → 计入对齐报告，不静默丢弃。
 
 **时间窗分层（冻结）**：W1=2017-01-01–2020-12-31；W2=2021-01-01–2026-08-22（按 startDate 归层）。
