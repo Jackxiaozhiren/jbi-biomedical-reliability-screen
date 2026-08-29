@@ -23,5 +23,12 @@ jobs:
       - name: Run dependency-light released tests
         working-directory: code
         run: pytest -q test_stats_core.py test_baselines.py -k 'not scores_shape_and_range'
-      - name: Dry-run release manifest generator
+      - name: Generate candidate release manifest
         run: python code/generate_release_manifest.py > /tmp/release-manifest.sha256
+      - name: Upload candidate release manifest
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: release-manifest-candidate
+          path: /tmp/release-manifest.sha256
+          if-no-files-found: error
+          retention-days: 1
