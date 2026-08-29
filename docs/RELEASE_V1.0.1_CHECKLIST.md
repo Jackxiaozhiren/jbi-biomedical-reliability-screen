@@ -18,6 +18,7 @@ This checklist closes the gap between the historical `v1.0.0` repository snapsho
 - [x] Audit the candidate tree for release-boundary exclusions: no API cache directory, `.mimosa` session trace, QA tree, checkpoint/model binary, or raw third-party dataset is present.
 - [x] Add `code/generate_release_manifest.py` so the checksum manifest can be rebuilt deterministically from the exact tracked release tree.
 - [x] Add a CI dry-run of the release-manifest generator.
+- [x] Incorporate the exact archival environment-capture policy from current `main`.
 
 ## Required immediately before publishing `v1.0.1`
 
