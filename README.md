@@ -59,7 +59,7 @@ The source public datasets and external APIs remain subject to their own terms. 
 
 ## Reproduction boundary
 
-The derived JSON exports are the frozen evidence used for the manuscript. A generic checkout is not claimed to retrain every model or recreate every external API response without the corresponding permitted data, model files, API access, and environment. No cached API response is redistributed in this release.
+The derived JSON exports are the frozen evidence used for the manuscript. A generic checkout is not claimed to retrain every model or recreate every external API response without the corresponding permitted data, model files, API access, and environment. No cached API response is redistributed in this release. Candidate exports are written at full floating-point precision so stored threshold decisions can be audited without avoidable formatting loss.
 
 See `docs/REPRODUCIBILITY.md` for release-integrity guidance.
 
