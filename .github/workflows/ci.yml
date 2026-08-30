@@ -10,8 +10,10 @@ jobs:
       contents: read
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
-      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: '3.11'
       - name: Install test dependencies
@@ -25,12 +27,64 @@ jobs:
         run: pytest -q test_stats_core.py test_baselines.py -k 'not scores_shape_and_range'
       - name: Generate candidate release manifest
         run: python code/generate_release_manifest.py > /tmp/release-manifest.sha256
+      - name: Determine release-manifest verification scope
+        id: manifest_policy
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE_SHA: ${{ github.event.before }}
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          set -euo pipefail
+
+          strict=true
+          reason="release-tag"
+
+          if [[ "${GITHUB_REF_TYPE:-}" != "tag" ]]; then
+            if [[ "${EVENT_NAME}" == "pull_request" ]]; then
+              base="${PR_BASE_SHA}"
+            else
+              base="${BEFORE_SHA}"
+            fi
+            head="${GITHUB_SHA}"
+
+            if [[ -z "${base}" || "${base}" =~ ^0+$ ]] || ! git cat-file -e "${base}^{commit}" 2>/dev/null; then
+              strict=true
+              reason="no-comparable-base"
+            else
+              mapfile -t changed < <(git diff --name-only "${base}" "${head}")
+              strict=false
+              reason="post-release-metadata-only"
+
+              printf 'Changed paths considered for manifest policy:\n'
+              printf '  %s\n' "${changed[@]}"
+
+              for path in "${changed[@]}"; do
+                case "${path}" in
+                  README.md|CITATION.cff|RELEASE_NOTES.md|docs/RELEASE_*.md|.github/workflows/*)
+                    ;;
+                  *)
+                    strict=true
+                    reason="release-tree-content-changed:${path}"
+                    break
+                    ;;
+                esac
+              done
+            fi
+          fi
+
+          echo "strict=${strict}" >> "${GITHUB_OUTPUT}"
+          echo "Manifest equality required: ${strict} (${reason})"
       - name: Upload candidate release manifest
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         with:
           name: release-manifest-candidate
           path: /tmp/release-manifest.sha256
           if-no-files-found: error
-          retention-days: 1
-      - name: Verify checked-in release manifest
+          retention-days: 7
+      - name: Verify checked-in release manifest for release-tree changes
+        if: ${{ steps.manifest_policy.outputs.strict == 'true' }}
         run: diff -u RELEASE_MANIFEST.sha256 /tmp/release-manifest.sha256
+      - name: Preserve immutable release manifest for metadata-only changes
+        if: ${{ steps.manifest_policy.outputs.strict != 'true' }}
+        run: echo "Post-release metadata/workflow-only change detected; the immutable tagged release manifest is intentionally left unchanged."
