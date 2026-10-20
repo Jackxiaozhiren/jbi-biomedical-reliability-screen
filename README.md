@@ -8,6 +8,12 @@ This repository contains the JBI-specific reproducibility materials for:
 
 The frozen scientific release is **[`v1.0.1`](https://github.com/Jackxiaozhiren/jbi-biomedical-reliability-screen/releases/tag/v1.0.1)**. It covers a conditional keep/withhold reliability screen for biomedical knowledge-graph link predictions, including the frozen protocol, analysis code, derived result exports, compact external-validation summaries, and generated analysis figures.
 
+## Reviewer navigation and evidence boundaries
+
+- [Reproducibility guide](docs/REPRODUCIBILITY.md) · [Figure 5 provenance](docs/FIG5_PROVENANCE.md)
+- [Release notes](RELEASE_NOTES.md) · [Rights and terms](RIGHTS_AND_TERMS.md) · [Third-party notices](THIRD_PARTY_NOTICES.md)
+- The evidence identified by the frozen release is distinct from the historical `fdr-kg` repository; code availability does not override restrictions on external data, models, or checkpoints.
+
 ## Scope and interpretation
 
 The reported quantities describe reliability and enrichment under the declared sampling, alignment, and time-sliced validation protocols. They are not evidence of treatment efficacy, causal effect, clinical deployment success, or universal validity across knowledge graphs and model architectures.
