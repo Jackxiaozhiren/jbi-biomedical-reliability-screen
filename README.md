@@ -1,8 +1,10 @@
-# JBI Biomedical Reliability Screen — Code and Derived Results
+# Biomedical Knowledge-Graph Reliability Screen — Code and Validation
+
+> **Publication status:** This is a research-code and validation record, not a peer-reviewed journal publication. Journal names and submission snapshots document earlier manuscript routes; a GitHub release or data/software DOI does not mean that a journal accepted the work.
 
 [![Release](https://img.shields.io/github/v/release/Jackxiaozhiren/jbi-biomedical-reliability-screen?label=release)](https://github.com/Jackxiaozhiren/jbi-biomedical-reliability-screen/releases/tag/v1.0.1)
 
-This repository contains the JBI-specific reproducibility materials for:
+This repository contains research code, a frozen protocol, and derived evidence for:
 
 > **An externally validated reliability audit for knowledge-graph-based drug repurposing screens**
 
@@ -75,7 +77,7 @@ See `docs/REPRODUCIBILITY.md` for release-integrity guidance.
 
 ## Citation
 
-Please cite the JBI article and the versioned release of this repository. The version-specific citation record is described in `CITATION.cff`.
+Please cite this versioned software release. A journal article should be cited separately only if it has actually been published. The version-specific citation record is described in `CITATION.cff`.
 
 ## License and third-party terms
 
